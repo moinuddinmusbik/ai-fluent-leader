@@ -49,9 +49,9 @@ Notes:
 
 ## Email Template (BINDING)
 
-Every routine email MUST use the **AI-Fluent Leader** branded HTML template below — a centered 700px card, **Georgia serif**, dark navy header. Do NOT invent a new inline style per run; consistency across routines is the point. Send with `is_html=true`.
+Every routine email MUST use an **AI-Fluent Leader** branded HTML template — **Georgia serif**, `is_html=true`. There are two layouts: the **Daily Brief** (Nate B Jones, Nate Herk) skeleton below, and the **Weekly Digest** (Weekly AI Leadership Stories) skeleton further down. Do NOT invent a new inline style per run; consistency across routines is the point.
 
-**Design tokens:**
+### Daily Brief — design tokens
 - Page background `rgb(244,244,244)`; card `max-width:700px; border-radius:8px; overflow:hidden`.
 - Header band `background:rgb(26,26,46)`; eyebrow `11px, letter-spacing:2px, uppercase, rgb(136,136,170)`; H1 `22px, rgb(255,255,255)`; meta line `13px, rgb(170,170,204)` with the date in `<strong style="color:rgb(224,224,255)">`.
 - Section `<h2>` `15px, uppercase, letter-spacing:1px, rgb(26,26,46)`; body `15–16px, line-height:1.7–1.8, rgb(34,34,34)/rgb(51,51,51)`; section dividers `border-bottom:1px solid rgb(238,238,238)`.
@@ -62,9 +62,9 @@ Every routine email MUST use the **AI-Fluent Leader** branded HTML template belo
 - Daily (Nate B Jones / Nate Herk): `AI-Fluent Leader Daily Brief`
 - Weekly: `AI-Fluent Leader · Weekly Digest`
 
-**Section set:** Daily = Core Message → What He Covers (bulleted) → As an AI-Fluent Leader — What To Do This Week (numbered, highlighted) → Mistake to Avoid → Source. Weekly = same shell with a per-story list.
+**Daily Brief sections:** Core Message → What He Covers (bulleted) → As an AI-Fluent Leader — What To Do This Week (numbered, highlighted) → Mistake to Avoid → Source.
 
-**HTML skeleton** (fill `{{PLACEHOLDERS}}`; repeat `<li>` as needed):
+**Daily Brief HTML skeleton** (fill `{{PLACEHOLDERS}}`; repeat `<li>` as needed):
 
 ```html
 <div style="margin:0;padding:0;background:rgb(244,244,244);font-family:Georgia,serif">
@@ -106,7 +106,58 @@ Every routine email MUST use the **AI-Fluent Leader** branded HTML template belo
 </div>
 ```
 
-For a **no-content day**, still use the shell: header with the routine eyebrow + a single section stating no new content was published for the target date (per the [[feedback-yesterday-only-routines]] rule), and skip the wiki commit.
+### Weekly Digest — design tokens
+
+Flat **editorial** layout (no card) on warm `rgb(245,245,240)`, container `max-width:700px; padding:40px 48px`. Header has a 3px black bottom rule `rgb(26,26,26)`; eyebrow `AI-Fluent Leader · Weekly Digest`; H1 `26px, font-weight:normal, rgb(26,26,26)`; then the date-window line `13px rgb(136,136,136)`. Below the header: an italic **theme blockquote** (`border-left:4px solid rgb(26,26,26)`), then **5 story blocks**, a dark **Through-Line** synthesis box, a numbered **Sources** list, and a centered footer.
+
+**Each story block:** kicker `Story {{N}} of 5 · {{SOURCE}} · {{DATE}}` (`11px` uppercase `rgb(136,136,136)`) → bold `20px` headline → bullet list (`15px`) → a blue **"As an AI-Fluent Leader:"** callout (`background:rgb(248,248,245); border-left:3px solid rgb(43,108,176)`; the label in `Arial`, blue `rgb(43,108,176)`; action bullets `14px`). Source links `rgb(43,108,176)`.
+
+**Weekly Digest HTML skeleton** (repeat the story `<div>` 5×; one `<li>` per source):
+
+```html
+<div style="margin:0;padding:0;background:rgb(245,245,240);font-family:Georgia,serif">
+<div style="max-width:700px;margin:0 auto;padding:40px 48px;font-family:Georgia,serif">
+  <div style="border-bottom:3px solid rgb(26,26,26);padding-bottom:16px;margin-bottom:28px">
+    <p style="margin:0;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:rgb(136,136,136)">AI-Fluent Leader · Weekly Digest</p>
+    <h1 style="margin:8px 0 4px;font-size:26px;font-weight:normal;line-height:1.3;color:rgb(26,26,26)">Weekly AI Leadership Stories</h1>
+    <p style="margin:0;font-size:13px;color:rgb(136,136,136)">{{WEEK_START}} — {{WEEK_END}}</p>
+  </div>
+  <p style="font-size:17px;line-height:1.7;margin:0 0 32px;font-style:italic;border-left:4px solid rgb(26,26,26);padding-left:16px;color:rgb(26,26,26)">{{THEME_OF_THE_WEEK}}</p>
+
+  <div style="margin-bottom:36px;padding-bottom:36px;border-bottom:1px solid rgb(232,232,232)">
+    <p style="margin:0 0 4px;font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:rgb(136,136,136)">Story {{N}} of 5 · {{SOURCE}} · {{DATE}}</p>
+    <h2 style="margin:4px 0 16px;font-size:20px;font-weight:bold;line-height:1.3;color:rgb(26,26,26)">{{HEADLINE}}</h2>
+    <ul style="margin:0 0 20px;padding-left:20px;font-size:15px;line-height:1.8;color:rgb(51,51,51)">
+      <li>{{POINT}}</li>
+    </ul>
+    <div style="background:rgb(248,248,245);padding:16px 20px;border-left:3px solid rgb(43,108,176)">
+      <p style="margin:0 0 8px;font-size:12px;letter-spacing:1px;text-transform:uppercase;font-family:Arial,sans-serif;color:rgb(43,108,176)"><strong>As an AI-Fluent Leader:</strong></p>
+      <ul style="margin:0;padding-left:18px;font-size:14px;line-height:1.8;color:rgb(26,26,26)">
+        <li>{{ACTION}}</li>
+      </ul>
+    </div>
+  </div>
+
+  <div style="background:rgb(26,26,26);padding:24px 28px;margin-bottom:36px;color:rgb(255,255,255)">
+    <p style="margin:0 0 8px;font-size:11px;letter-spacing:2px;text-transform:uppercase;font-family:Arial,sans-serif;color:rgb(170,170,170)">The Through-Line</p>
+    <p style="margin:0;font-size:16px;line-height:1.8;color:rgb(240,240,240)">{{SYNTHESIS}}</p>
+  </div>
+
+  <div style="margin-top:8px">
+    <p style="margin:0 0 12px;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;font-family:Arial,sans-serif;color:rgb(136,136,136)">Sources</p>
+    <ol style="margin:0;padding-left:18px;font-size:13px;line-height:2;color:rgb(85,85,85)">
+      <li>{{SOURCE}} — "{{TITLE}}" — {{DATE}} — <a href="{{URL}}" style="color:rgb(43,108,176)" target="_blank">{{DOMAIN}}</a></li>
+    </ol>
+  </div>
+
+  <div style="margin-top:40px;padding-top:20px;border-top:1px solid rgb(232,232,232);text-align:center">
+    <p style="margin:0;font-size:12px;font-family:Arial,sans-serif;color:rgb(170,170,170)">AI-Fluent Leader Pipeline · Automated Weekly Digest · Window: {{WEEK_START}} to {{WEEK_END}}</p>
+  </div>
+</div>
+</div>
+```
+
+For a **no-content day** (dailies only — the weekly always has a window), still use the Daily Brief shell: header with the routine eyebrow + a single section stating no new content was published for the target date (per the [[feedback-yesterday-only-routines]] rule), and skip the wiki commit.
 
 ---
 
