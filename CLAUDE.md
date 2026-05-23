@@ -12,6 +12,41 @@ After each routine sends its email, it also writes a Karpathy-style wiki page in
 
 ---
 
+## Tooling Conventions (BINDING)
+
+All external side-effects performed by the remote routines — sending email and writing to this repo — MUST go through **Composio MCP via `COMPOSIO_MULTI_EXECUTE_TOOL`**. This is the single, consistent integration surface for the project. Do not use ad-hoc connectors or shell credentials.
+
+| Action | Use | Do NOT use |
+|--------|-----|------------|
+| Send the briefing email | Composio `GMAIL_SEND_EMAIL` (with `is_html=true`) via `COMPOSIO_MULTI_EXECUTE_TOOL` | the standalone Gmail MCP connector |
+| Commit + push wiki pages | Composio `GITHUB_COMMIT_MULTIPLE_FILES` via `COMPOSIO_MULTI_EXECUTE_TOOL` | embedded-PAT `git clone` + `git push` in the sandbox |
+
+**Why git push was failing:** the routines previously did a `git clone $PAT_URL` + `git add/commit/push` inside the remote sandbox. That push silently failed (sandbox networking / PAT scope), so no content ever reached `origin/main` — only the initial scaffold. `GITHUB_COMMIT_MULTIPLE_FILES` commits through the GitHub API on the user's already-active Composio GitHub connection, removing the sandbox `git` dependency and the embedded PAT entirely.
+
+**`GITHUB_COMMIT_MULTIPLE_FILES` call shape** (one atomic commit per ingest):
+
+```
+COMPOSIO_MULTI_EXECUTE_TOOL → tool_slug: GITHUB_COMMIT_MULTIPLE_FILES
+  owner:   moinuddinmusbik
+  repo:    ai-fluent-leader
+  branch:  main
+  message: "ingest: <routine> <YYYY-MM-DD>"
+  upserts: [
+    { path: "raw/emails-archive/<YYYY-MM-DD>-<slug>.md", content: "<email body>" },
+    { path: "wiki/sources/<YYYY-MM-DD>-<slug>.md",        content: "<source page>" },
+    { path: "wiki/entities/<name>.md",                    content: "<full file content>" },
+    { path: "wiki/index.md",                              content: "<full updated index>" },
+    { path: "wiki/log.md",                                content: "<full updated log>" }
+  ]
+```
+
+Notes:
+- `upserts` replace whole-file content (not patches). For append-style files (`index.md`, `log.md`) the routine must first read current content via `GITHUB_GET_REPOSITORY_CONTENT` (Base64-decode `data.content.content`), append, and upsert the full result.
+- `branch` is `main` and already exists, so `base_branch` is not required.
+- **Prerequisite:** Composio must have an ACTIVE **Gmail** connection for `GMAIL_SEND_EMAIL` (GitHub is already connected). If absent, the email step will fail until a Gmail account is linked in Composio.
+
+---
+
 ## Directory Structure
 
 ```
@@ -104,15 +139,15 @@ Use Obsidian-style wikilinks for all cross-references: `[[page-name]]`. This ena
 
 ### 1. INGEST (called by remote routines)
 
-Triggered automatically after a routine sends its email. The routine appends a STEP 7 to its workflow that does the following:
+Triggered automatically after a routine sends its email (which itself goes through Composio `GMAIL_SEND_EMAIL` — see [Tooling Conventions](#tooling-conventions-binding)). The routine appends a STEP 7 to its workflow that does the following:
 
-1. Save the email HTML/markdown body to `raw/emails-archive/YYYY-MM-DD-<routine-slug>.md`.
-2. Create a source page in `wiki/sources/YYYY-MM-DD-<routine-slug>.md` with the structured summary.
-3. Create or update entity pages in `wiki/entities/` for any people, orgs, tools mentioned.
-4. Create or update concept pages in `wiki/concepts/` for key ideas covered.
-5. Append a line to `wiki/index.md` under the right section.
-6. Append a dated entry to `wiki/log.md`.
-7. `git add . && git commit -m "ingest: <routine> <date>" && git push`.
+1. Assemble the email HTML/markdown body for `raw/emails-archive/YYYY-MM-DD-<routine-slug>.md`.
+2. Assemble a source page for `wiki/sources/YYYY-MM-DD-<routine-slug>.md` with the structured summary.
+3. Assemble create/update content for entity pages in `wiki/entities/` for any people, orgs, tools mentioned.
+4. Assemble create/update content for concept pages in `wiki/concepts/` for key ideas covered.
+5. Read current `wiki/index.md` (`GITHUB_GET_REPOSITORY_CONTENT`), append the new line(s) under the right section, keep the full text.
+6. Read current `wiki/log.md`, append a dated entry, keep the full text.
+7. Commit all of the above in ONE atomic commit via Composio `GITHUB_COMMIT_MULTIPLE_FILES` (`message: "ingest: <routine> <date>"`). No `git` CLI, no embedded PAT.
 
 ### 2. QUERY (called by local Claude Code sessions)
 
