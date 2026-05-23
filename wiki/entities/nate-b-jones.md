@@ -2,9 +2,9 @@
 title: "Nate B. Jones"
 type: entity
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-05-23
 tags: [creator, strategy]
-sources: []
+sources: [2026-05-23-nate-b-jones-daily.md]
 ---
 
 # Nate B. Jones
@@ -30,4 +30,4 @@ Primary source for the strategy lane of this wiki. Tracked via the **Nate B Jone
 
 ## Linked pages
 
-_Source pages and concepts will accumulate here as routines run._
+- [[2026-05-23-nate-b-jones-daily]] — Emergence AI agent-town experiment; the harness is the real story
