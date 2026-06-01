@@ -2,9 +2,9 @@
 title: "Nate B. Jones"
 type: entity
 created: 2026-05-21
-updated: 2026-05-23
+updated: 2026-05-31
 tags: [creator, strategy]
-sources: [2026-05-23-nate-b-jones-daily.md]
+sources: [2026-05-23-nate-b-jones-daily.md, 2026-05-31-nate-b-jones-daily.md]
 ---
 
 # Nate B. Jones
@@ -27,7 +27,9 @@ Primary source for the strategy lane of this wiki. Tracked via the **Nate B Jone
 - AI leadership and skills gaps
 - Model capability shifts and their executive implications
 - Frameworks for leaders evaluating AI investments
+- Career evidence and professional value in AI-abundant environments
 
 ## Linked pages
 
 - [[2026-05-23-nate-b-jones-daily]] — Emergence AI agent-town experiment; the harness is the real story
+- [[2026-05-31-nate-b-jones-daily]] — Career evidence collapse; judgment visibility as the new professional differentiator
