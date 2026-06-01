@@ -2,7 +2,7 @@
 title: "Nate Herk"
 type: entity
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-06-01
 tags: [creator, implementation]
 sources: []
 ---
@@ -29,4 +29,11 @@ Primary source for the implementation lane of this wiki. Tracked via the **Nate 
 
 ## Linked pages
 
-_Source pages and concepts will accumulate here as routines run._
+- [[2026-05-24-nate-herk-daily]] — No video (2026-05-24 IST)
+- [[2026-05-25-nate-herk-daily]] — The Playbook for a $100M AI Agency ft. Devin Kearns (2026-05-25)
+- [[2026-05-26-nate-herk-daily]] — No video (2026-05-26 IST)
+- [[2026-05-27-nate-herk-daily]] — 100 hours Claude Code vs Codex: Claude wins on complex agentic tasks (2026-05-27)
+- [[2026-05-28-nate-herk-daily]] — No video (2026-05-28 IST)
+- [[2026-05-29-nate-herk-daily]] — Opus 4.8 release + Four C's AI OS framework (2026-05-29)
+- [[2026-05-30-nate-herk-daily]] — Dynamic workflows: runtime-adaptive tool chains (2026-05-30)
+- [[2026-05-31-nate-herk-daily]] — No video (2026-05-31 IST)

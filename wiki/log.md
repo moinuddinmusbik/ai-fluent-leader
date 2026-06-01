@@ -19,12 +19,6 @@ Append-only chronological record of all operations on this wiki.
 - **Details:** Ingested 2026-05-24 strategy video (Poyi6X7rOwY). Created source page and new concept [[ai-supply-chain]]; updated [[nate-b-jones]] and index. (Bulk catch-up run on 2026-06-01.)
 - **Pages touched:** [[2026-05-24-nate-b-jones-daily]], [[ai-supply-chain]], [[nate-b-jones]], [[index]]
 
-## [2026-05-24] ingest | Weekly AI Leadership Stories — May 18–24, 2026
-- **Operation:** ingest
-- **Source:** Weekly AI Leadership Stories
-- **Details:** Ingested the May 18–24, 2026 digest (catch-up run on 2026-06-01). 3 stories: HCLTech AI Impact Imperatives (May 20), Google I/O 2026 enterprise agents (May 20), EY+Microsoft $1B AI scale initiative (May 21). Created source page, new entities [[google]] and [[hcltech]], new concept [[ai-execution-gap]]; updated [[index]].
-- **Pages touched:** [[2026-05-24-weekly-ai-leadership-stories]], [[google]], [[hcltech]], [[ai-execution-gap]], [[index]]
-
 ## [2026-05-25] ingest | Nate B Jones Daily — The Infrastructure Nightmare Nobody Is Talking About
 - **Operation:** ingest
 - **Source:** Nate B Jones Daily Leader Briefing
@@ -67,8 +61,50 @@ Append-only chronological record of all operations on this wiki.
 - **Details:** Ingested the 2026-05-31 strategy video (UsCgEuIAclE). Created source page, two new concepts [[career-evidence]] and [[judgment-visibility]]; updated [[nate-b-jones]] and the index.
 - **Pages touched:** [[2026-05-31-nate-b-jones-daily]], [[career-evidence]], [[judgment-visibility]], [[nate-b-jones]], [[index]]
 
-## [2026-05-31] ingest | Weekly AI Leadership Stories — May 25–31, 2026
+## [2026-05-24] ingest | Nate Herk Daily — No new video
 - **Operation:** ingest
-- **Source:** Weekly AI Leadership Stories
-- **Details:** Ingested the May 25–31, 2026 digest (catch-up run on 2026-06-01). 5 stories: Anthropic $65B Series H (May 28), CAIO appointments wave — defense/energy/media (May 2026), Forbes CEO AI briefing (May 31), PwC enterprise agent orchestration (May 28), Serious Insights absorption phase (May 2026). Created source page, new entity [[anthropic]], new concept [[enterprise-ai-governance]], updated [[chief-ai-officer]]; updated [[index]] and [[log]].
-- **Pages touched:** [[2026-05-31-weekly-ai-leadership-stories]], [[anthropic]], [[enterprise-ai-governance]], [[chief-ai-officer]], [[index]], [[log]]
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Details:** No Nate Herk video published on 2026-05-24 IST. No-content email sent and wiki stub committed. (Bulk catch-up run on 2026-06-01.)
+- **Pages touched:** [[2026-05-24-nate-herk-daily]], [[nate-herk]], [[index]]
+
+## [2026-05-25] ingest | Nate Herk Daily — The Playbook for a $100M AI Agency
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Details:** Ingested 2026-05-25 video (8ktcSaSTvxk) ft. Devin Kearns. Created source page and concept [[ai-agency-playbook]]; updated [[nate-herk]] and index. (Bulk catch-up run on 2026-06-01.)
+- **Pages touched:** [[2026-05-25-nate-herk-daily]], [[ai-agency-playbook]], [[nate-herk]], [[index]]
+
+## [2026-05-26] ingest | Nate Herk Daily — No new video
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Details:** No Nate Herk video published on 2026-05-26 IST. No-content email sent and wiki stub committed. (Bulk catch-up run on 2026-06-01.)
+- **Pages touched:** [[2026-05-26-nate-herk-daily]], [[nate-herk]], [[index]]
+
+## [2026-05-27] ingest | Nate Herk Daily — 100 Hours Testing Claude Code vs ChatGPT Codex
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Details:** Ingested 2026-05-27 video (RLjaUES9P8A). Created source page and concept [[claude-code-vs-codex]]; updated [[nate-herk]] and index. (Bulk catch-up run on 2026-06-01.)
+- **Pages touched:** [[2026-05-27-nate-herk-daily]], [[claude-code-vs-codex]], [[nate-herk]], [[index]]
+
+## [2026-05-28] ingest | Nate Herk Daily — No new video
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Details:** No Nate Herk video published on 2026-05-28 IST. No-content email sent and wiki stub committed. (Bulk catch-up run on 2026-06-01.)
+- **Pages touched:** [[2026-05-28-nate-herk-daily]], [[nate-herk]], [[index]]
+
+## [2026-05-29] ingest | Nate Herk Daily — Opus 4.8 + AI OS (2 videos)
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Details:** Two videos on 2026-05-29 IST: Opus 4.8 release (q5lg3npxjAc) and AI OS build (0WDkwMxj13s). Created source page and concepts [[opus-4-8]] and [[ai-operating-system]]; updated [[nate-herk]] and index. (Bulk catch-up run on 2026-06-01.)
+- **Pages touched:** [[2026-05-29-nate-herk-daily]], [[opus-4-8]], [[ai-operating-system]], [[nate-herk]], [[index]]
+
+## [2026-05-30] ingest | Nate Herk Daily — Claude Code Dynamic Workflows Clearly Explained
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Details:** Ingested 2026-05-30 video (jZgcWCzxh1I). Created source page and concept [[claude-code-dynamic-workflows]]; updated [[nate-herk]] and index. (Bulk catch-up run on 2026-06-01.)
+- **Pages touched:** [[2026-05-30-nate-herk-daily]], [[claude-code-dynamic-workflows]], [[nate-herk]], [[index]]
+
+## [2026-05-31] ingest | Nate Herk Daily — No new video
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Details:** No Nate Herk video published on 2026-05-31 IST. No-content email sent and wiki stub committed. (Bulk catch-up run on 2026-06-01.)
+- **Pages touched:** [[2026-05-31-nate-herk-daily]], [[nate-herk]], [[index]]
