@@ -13,12 +13,14 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-05-29-nate-b-jones-daily]] — Product management after cheap software; prototype commons and production class ladder (2026-05-29)
 - [[2026-05-30-nate-b-jones-daily]] — AI workflow evolution; context architecture over prompt quality (2026-05-30)
 - [[2026-05-31-nate-b-jones-daily]] — Career evidence collapse; judgment visibility as the new professional differentiator (2026-05-31)
+- [[2026-05-31-weekly-ai-leadership-stories]] — CAIO wave crosses into defense/energy/media; Anthropic $65B Series H; enterprise AI governance and accountability (2026-05-31)
 
 ## Entities
 - [[nate-b-jones]] — AI strategy creator (YouTube, Substack: natesnewsletter.substack.com)
 - [[nate-herk]] — AI automation creator (YouTube, Skool: AI Automation Society)
 - [[google]] — AI platform company; launched Gemini 3.5 Flash + Spark agent + Antigravity 2.0 at I/O 2026 (May 20)
 - [[hcltech]] — Global technology company; publishes Enterprise AI Market Reports including AI Impact Imperatives 2026
+- [[anthropic]] — AI safety company, maker of Claude; raised $65B Series H at $965B valuation (May 28, 2026); Fortune 10 enterprises are core customers
 
 ## Concepts
 - [[ai-fluency]] — what it means to be an AI-fluent leader
@@ -32,6 +34,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[career-evidence]] — what counts as proof of professional value in an AI-abundant environment
 - [[judgment-visibility]] — the practice of making reasoning explicit and shareable
 - [[ai-execution-gap]] — the widening gap between AI adoption rates and actual business value delivery; the defining leadership challenge of 2026
+- [[enterprise-ai-governance]] — frameworks and practices for governing AI at enterprise scale: agent inventories, interface governance, AI proof standards, and accountability structures
 
 ## Analyses
 _None yet._

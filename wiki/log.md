@@ -66,3 +66,9 @@ Append-only chronological record of all operations on this wiki.
 - **Source:** Nate B Jones Daily Leader Briefing
 - **Details:** Ingested the 2026-05-31 strategy video (UsCgEuIAclE). Created source page, two new concepts [[career-evidence]] and [[judgment-visibility]]; updated [[nate-b-jones]] and the index.
 - **Pages touched:** [[2026-05-31-nate-b-jones-daily]], [[career-evidence]], [[judgment-visibility]], [[nate-b-jones]], [[index]]
+
+## [2026-05-31] ingest | Weekly AI Leadership Stories — May 25–31, 2026
+- **Operation:** ingest
+- **Source:** Weekly AI Leadership Stories
+- **Details:** Ingested the May 25–31, 2026 digest (catch-up run on 2026-06-01). 5 stories: Anthropic $65B Series H (May 28), CAIO appointments wave — defense/energy/media (May 2026), Forbes CEO AI briefing (May 31), PwC enterprise agent orchestration (May 28), Serious Insights absorption phase (May 2026). Created source page, new entity [[anthropic]], new concept [[enterprise-ai-governance]], updated [[chief-ai-officer]]; updated [[index]] and [[log]].
+- **Pages touched:** [[2026-05-31-weekly-ai-leadership-stories]], [[anthropic]], [[enterprise-ai-governance]], [[chief-ai-officer]], [[index]], [[log]]
