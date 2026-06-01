@@ -157,7 +157,7 @@ Flat **editorial** layout (no card) on warm `rgb(245,245,240)`, container `max-w
 </div>
 ```
 
-For a **no-content day** (dailies only — the weekly always has a window), still use the Daily Brief shell: header with the routine eyebrow + a single section stating no new content was published for the target date (per the [[feedback-yesterday-only-routines]] rule), and skip the wiki commit.
+For a **no-content day** (dailies only — the weekly always has a window), still use the Daily Brief shell: header with the routine eyebrow + a single section stating no new content was published for the target date (per the [[feedback-yesterday-only-routines]] rule). Still commit the wiki stub files (raw email archive, source stub, updated entity/index/log) exactly as on a video day — the only difference is the source page contains a stub noting no content was published.
 
 ---
 

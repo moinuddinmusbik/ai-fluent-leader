@@ -72,7 +72,19 @@ c) COMPOSIO_MULTI_EXECUTE_TOOL → GITHUB_COMMIT_MULTIPLE_FILES
 
 STEP 6 — No-content path. Build the Daily Brief shell (same template) with a single section stating
 no new Nate B. Jones content was published on <TARGET> (IST). Send via GMAIL_SEND_EMAIL with subject
-"Nate B Jones Daily Leader Briefing — <TARGET> (no new content)". Do NOT commit anything. STOP.
+"Nate B Jones Daily Leader Briefing — <TARGET> (no new content)".
+Then ingest (ONE atomic commit):
+a) Read current files: GITHUB_GET_REPOSITORY_CONTENT for "wiki/index.md", "wiki/log.md",
+   "wiki/entities/nate-b-jones.md" (ref main); base64-decode each.
+b) Assemble file contents:
+   - raw/emails-archive/<TARGET>-nate-b-jones-daily.md   (markdown copy of the no-content brief)
+   - wiki/sources/<TARGET>-nate-b-jones-daily.md          (stub: frontmatter, "No content published on <TARGET>.")
+   - wiki/entities/nate-b-jones.md                        (bump `updated`, add source stub under Linked pages)
+   - wiki/index.md  (append source line; keep ALL prior text)
+   - wiki/log.md    (append ingest entry noting no content; keep ALL prior text)
+c) GITHUB_COMMIT_MULTIPLE_FILES { owner, repo, branch:"main",
+   message:"ingest: Nate B Jones Daily Leader Briefing <TARGET> (no new content)",
+   upserts:[ ...all files above... ] }. STOP.
 ```
 
 ---
@@ -127,7 +139,17 @@ c) GITHUB_COMMIT_MULTIPLE_FILES { owner, repo, branch:"main",
 
 STEP 6 — No-content path. Daily Brief shell, single section: no new Nate Herk video on <TARGET> (IST).
 GMAIL_SEND_EMAIL subject "Nate Herk Daily Implementation Playbook — <TARGET> (no new video)".
-Do NOT commit. STOP.
+Then ingest (ONE atomic commit):
+a) GITHUB_GET_REPOSITORY_CONTENT for "wiki/index.md", "wiki/log.md", "wiki/entities/nate-herk.md"; decode.
+b) Assemble file contents:
+   - raw/emails-archive/<TARGET>-nate-herk-daily.md    (markdown copy of the no-content brief)
+   - wiki/sources/<TARGET>-nate-herk-daily.md           (stub: frontmatter, "No video published on <TARGET>.")
+   - wiki/entities/nate-herk.md                         (bump `updated`, add source stub under Linked pages)
+   - wiki/index.md  (append source line; keep ALL prior text)
+   - wiki/log.md    (append ingest entry noting no video; keep ALL prior text)
+c) GITHUB_COMMIT_MULTIPLE_FILES { owner, repo, branch:"main",
+   message:"ingest: Nate Herk Daily Implementation Playbook <TARGET> (no new video)",
+   upserts:[ ...all files above... ] }. STOP.
 ```
 
 ---
