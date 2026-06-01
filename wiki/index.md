@@ -5,6 +5,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 ## Sources
 - [[2026-05-23-nate-b-jones-daily]] — Emergence AI’s 15-day agent-town experiment; the harness, not the model, keeps agents aligned (2026-05-23)
 - [[2026-05-24-nate-b-jones-daily]] — AI supply chain constraints; your AI vendor contract is now a supply contract (2026-05-24)
+- [[2026-05-24-weekly-ai-leadership-stories]] — Enterprise AI execution gap: HCLTech 43% failure risk, Google I/O 2026 enterprise agents, EY+Microsoft $1B scale initiative (2026-05-24)
 - [[2026-05-25-nate-b-jones-daily]] — Platform teams become bottlenecks when AI agents scale; uneven acceleration compounds (2026-05-25)
 - [[2026-05-26-nate-b-jones-daily]] — Public AI work and the organizational apprenticeship gap; Shopify’s River agent (2026-05-26)
 - [[2026-05-27-nate-b-jones-daily]] — AI document workflow; hostile reviewer prompt and the truth layer (2026-05-27)
@@ -16,6 +17,8 @@ Master catalog of all wiki pages. Updated on every ingest.
 ## Entities
 - [[nate-b-jones]] — AI strategy creator (YouTube, Substack: natesnewsletter.substack.com)
 - [[nate-herk]] — AI automation creator (YouTube, Skool: AI Automation Society)
+- [[google]] — AI platform company; launched Gemini 3.5 Flash + Spark agent + Antigravity 2.0 at I/O 2026 (May 20)
+- [[hcltech]] — Global technology company; publishes Enterprise AI Market Reports including AI Impact Imperatives 2026
 
 ## Concepts
 - [[ai-fluency]] — what it means to be an AI-fluent leader
@@ -28,6 +31,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[prototype-commons]] — the abundance of AI-built software assets that requires governance and a production class ladder
 - [[career-evidence]] — what counts as proof of professional value in an AI-abundant environment
 - [[judgment-visibility]] — the practice of making reasoning explicit and shareable
+- [[ai-execution-gap]] — the widening gap between AI adoption rates and actual business value delivery; the defining leadership challenge of 2026
 
 ## Analyses
 _None yet._
