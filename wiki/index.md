@@ -12,6 +12,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-05-29-nate-b-jones-daily]] — Product management after cheap software; prototype commons and production class ladder (2026-05-29)
 - [[2026-05-30-nate-b-jones-daily]] — AI workflow evolution; context architecture over prompt quality (2026-05-30)
 - [[2026-05-31-nate-b-jones-daily]] — Career evidence collapse; judgment visibility as the new professional differentiator (2026-05-31)
+- [[2026-06-01-nate-b-jones-daily]] — AI agents and the enterprise context platform race; OpenAI vs. Anthropic organizational memory play (2026-06-01)
 - [[2026-05-24-nate-herk-daily]] — No new video on 2026-05-24 IST (2026-05-24)
 - [[2026-05-25-nate-herk-daily]] — $100M AI Agency playbook: mid-market sweet spot, outcome pricing, Claude Code delivery (2026-05-25)
 - [[2026-05-26-nate-herk-daily]] — No new video on 2026-05-26 IST (2026-05-26)
@@ -41,6 +42,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[opus-4-8]] — Anthropic flagship model (May 2026); best for reasoning/long-context; use when complexity warrants
 - [[ai-operating-system]] — Four C's (Context, Connections, Capabilities, Cadence) for Claude Code as primary workspace
 - [[claude-code-dynamic-workflows]] — runtime-adaptive tool-use sequences; Claude replans mid-task on observed results
+- [[enterprise-context-platform]] — the AI platform category competing on trillion-token organizational context depth; the new enterprise data platform layer
 
 ## Analyses
 _None yet._

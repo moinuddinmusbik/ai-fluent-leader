@@ -108,3 +108,9 @@ Append-only chronological record of all operations on this wiki.
 - **Source:** Nate Herk Daily Implementation Playbook
 - **Details:** No Nate Herk video published on 2026-05-31 IST. No-content email sent and wiki stub committed. (Bulk catch-up run on 2026-06-01.)
 - **Pages touched:** [[2026-05-31-nate-herk-daily]], [[nate-herk]], [[index]]
+
+## [2026-06-01] ingest | Nate B Jones Daily — AI agents and the enterprise context platform race
+- **Operation:** ingest
+- **Source:** Nate B Jones Daily Leader Briefing
+- **Details:** Ingested the 2026-06-01 strategy video (KWCZWFDOapk). Created source page and new concept [[enterprise-context-platform]]; updated [[nate-b-jones]] and the index.
+- **Pages touched:** [[2026-06-01-nate-b-jones-daily]], [[enterprise-context-platform]], [[nate-b-jones]], [[index]]
