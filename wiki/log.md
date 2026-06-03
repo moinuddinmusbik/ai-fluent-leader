@@ -120,3 +120,9 @@ Append-only chronological record of all operations on this wiki.
 - **Source:** Nate Herk Daily Implementation Playbook
 - **Details:** Ingested 2026-06-02 video (NHFbAg2b54U). Created source page and new concept [[ai-hype-cycle]]; updated [[nate-herk]] and index.
 - **Pages touched:** [[2026-06-02-nate-herk-daily]], [[ai-hype-cycle]], [[nate-herk]], [[index]]
+
+## [2026-06-02] ingest | Nate B Jones Daily — Why Your Meetings Are Destroying Your Output
+- **Operation:** ingest
+- **Source:** Nate B Jones Daily Leader Briefing
+- **Details:** Ingested 2026-06-02 strategy video cluster (hlGWME2hsl4 — three Shorts sharing the five-person strike team theme). Full story via Substack "executive-briefing-ai-raised-output." Created source page and three new concepts [[five-person-strike-team]], [[scout-vs-strike-team]], [[steinberger-threshold]]; updated [[nate-b-jones]] and the index.
+- **Pages touched:** [[2026-06-02-nate-b-jones-daily]], [[five-person-strike-team]], [[scout-vs-strike-team]], [[steinberger-threshold]], [[nate-b-jones]], [[index]]

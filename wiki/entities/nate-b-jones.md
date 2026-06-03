@@ -2,9 +2,9 @@
 title: "Nate B. Jones"
 type: entity
 created: 2026-05-21
-updated: 2026-06-01
+updated: 2026-06-02
 tags: [creator, strategy]
-sources: [2026-05-23-nate-b-jones-daily.md, 2026-05-24-nate-b-jones-daily.md, 2026-05-25-nate-b-jones-daily.md, 2026-05-26-nate-b-jones-daily.md, 2026-05-27-nate-b-jones-daily.md, 2026-05-28-nate-b-jones-daily.md, 2026-05-29-nate-b-jones-daily.md, 2026-05-30-nate-b-jones-daily.md, 2026-05-31-nate-b-jones-daily.md, 2026-06-01-nate-b-jones-daily.md]
+sources: [2026-05-23-nate-b-jones-daily.md, 2026-05-24-nate-b-jones-daily.md, 2026-05-25-nate-b-jones-daily.md, 2026-05-26-nate-b-jones-daily.md, 2026-05-27-nate-b-jones-daily.md, 2026-05-28-nate-b-jones-daily.md, 2026-05-29-nate-b-jones-daily.md, 2026-05-30-nate-b-jones-daily.md, 2026-05-31-nate-b-jones-daily.md, 2026-06-01-nate-b-jones-daily.md, 2026-06-02-nate-b-jones-daily.md]
 ---
 
 # Nate B. Jones
@@ -44,3 +44,4 @@ Primary source for the strategy lane of this wiki. Tracked via the **Nate B Jone
 - [[2026-05-30-nate-b-jones-daily]] — AI workflow evolution; context architecture over prompt quality
 - [[2026-05-31-nate-b-jones-daily]] — Career evidence collapse; judgment visibility as the new professional differentiator
 - [[2026-06-01-nate-b-jones-daily]] — AI agents and the enterprise context platform race; OpenAI vs. Anthropic organizational memory play
+- [[2026-06-02-nate-b-jones-daily]] — Five-person strike team; coordination combinatorics; scout vs. strike team; the Steinberger Threshold

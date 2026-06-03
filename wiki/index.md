@@ -13,6 +13,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-05-30-nate-b-jones-daily]] — AI workflow evolution; context architecture over prompt quality (2026-05-30)
 - [[2026-05-31-nate-b-jones-daily]] — Career evidence collapse; judgment visibility as the new professional differentiator (2026-05-31)
 - [[2026-06-01-nate-b-jones-daily]] — AI agents and the enterprise context platform race; OpenAI vs. Anthropic organizational memory play (2026-06-01)
+- [[2026-06-02-nate-b-jones-daily]] — Five-person strike team framework; AI raised output per person but not coordination costs; scout vs. strike team classification (2026-06-02)
 - [[2026-05-24-nate-herk-daily]] — No new video on 2026-05-24 IST (2026-05-24)
 - [[2026-05-25-nate-herk-daily]] — $100M AI Agency playbook: mid-market sweet spot, outcome pricing, Claude Code delivery (2026-05-25)
 - [[2026-05-26-nate-herk-daily]] — No new video on 2026-05-26 IST (2026-05-26)
@@ -46,6 +47,9 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[claude-code-dynamic-workflows]] — runtime-adaptive tool-use sequences; Claude replans mid-task on observed results
 - [[enterprise-context-platform]] — the AI platform category competing on trillion-token organizational context depth; the new enterprise data platform layer
 
+- [[five-person-strike-team]] — the 4–5 person team as the structural unit of the AI era; coordination cost combinatorics
+- [[scout-vs-strike-team]] — two-mode framework for classifying initiatives before staffing: scouts for uncertain terrain, strike teams for defined missions
+- [[steinberger-threshold]] — the talent dividing line: people who direct AI agents vs. those who get directed by them
 - [[ai-hype-cycle]] — the boom–winter–breakthrough cycle governing AI's 100-year history
 
 ## Analyses
