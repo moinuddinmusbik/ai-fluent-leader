@@ -114,3 +114,9 @@ Append-only chronological record of all operations on this wiki.
 - **Source:** Nate B Jones Daily Leader Briefing
 - **Details:** Ingested the 2026-06-01 strategy video (KWCZWFDOapk). Created source page and new concept [[enterprise-context-platform]]; updated [[nate-b-jones]] and the index.
 - **Pages touched:** [[2026-06-01-nate-b-jones-daily]], [[enterprise-context-platform]], [[nate-b-jones]], [[index]]
+
+## [2026-06-02] ingest | Nate Herk Daily — 100 Years of Artificial Intelligence Explained
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Details:** Ingested 2026-06-02 video (NHFbAg2b54U). Created source page and new concept [[ai-hype-cycle]]; updated [[nate-herk]] and index.
+- **Pages touched:** [[2026-06-02-nate-herk-daily]], [[ai-hype-cycle]], [[nate-herk]], [[index]]

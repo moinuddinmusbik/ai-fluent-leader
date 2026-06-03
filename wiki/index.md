@@ -22,6 +22,8 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-05-30-nate-herk-daily]] — Claude Code dynamic workflows: runtime-adaptive tool chains vs. slash commands, subagents, /goal (2026-05-30)
 - [[2026-05-31-nate-herk-daily]] — No new video on 2026-05-31 IST (2026-05-31)
 
+- [[2026-06-02-nate-herk-daily]] — 100 Years of Artificial Intelligence Explained: hype cycles, AI winters, and the leadership pattern (2026-06-02)
+
 ## Entities
 - [[nate-b-jones]] — AI strategy creator (YouTube, Substack: natesnewsletter.substack.com)
 - [[nate-herk]] — AI automation creator (YouTube, Skool: AI Automation Society)
@@ -43,6 +45,8 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[ai-operating-system]] — Four C's (Context, Connections, Capabilities, Cadence) for Claude Code as primary workspace
 - [[claude-code-dynamic-workflows]] — runtime-adaptive tool-use sequences; Claude replans mid-task on observed results
 - [[enterprise-context-platform]] — the AI platform category competing on trillion-token organizational context depth; the new enterprise data platform layer
+
+- [[ai-hype-cycle]] — the boom–winter–breakthrough cycle governing AI's 100-year history
 
 ## Analyses
 _None yet._
