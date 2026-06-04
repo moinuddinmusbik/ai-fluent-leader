@@ -7,7 +7,7 @@ Append-only chronological record of all operations on this wiki.
 - **Details:** Created vault scaffold (CLAUDE.md schema, directory tree, index, log, overview, stub entity/concept pages). Patterned after the AI-Engineering wiki schema.
 - **Pages touched:** [[index]], [[overview]], [[nate-b-jones]], [[nate-herk]], [[ai-fluency]], [[chief-ai-officer]]
 
-## [2026-05-23] ingest | Nate B Jones Daily — Claude’s AI Town Voted Yes On Everything
+## [2026-05-23] ingest | Nate B Jones Daily — Claude's AI Town Voted Yes On Everything
 - **Operation:** ingest
 - **Source:** Nate B Jones Daily Leader Briefing
 - **Details:** Ingested the 2026-05-23 strategy video (RHV8DWAmjAs). Created source page and new concept [[agent-harness]]; updated [[nate-b-jones]] and the index. The Nate Herk routine found no video published 2026-05-23 IST — sent a no-content email and ingested nothing, per the yesterday-only rule.
@@ -126,3 +126,9 @@ Append-only chronological record of all operations on this wiki.
 - **Source:** Nate B Jones Daily Leader Briefing
 - **Details:** Ingested 2026-06-02 strategy video cluster (hlGWME2hsl4 — three Shorts sharing the five-person strike team theme). Full story via Substack "executive-briefing-ai-raised-output." Created source page and three new concepts [[five-person-strike-team]], [[scout-vs-strike-team]], [[steinberger-threshold]]; updated [[nate-b-jones]] and the index.
 - **Pages touched:** [[2026-06-02-nate-b-jones-daily]], [[five-person-strike-team]], [[scout-vs-strike-team]], [[steinberger-threshold]], [[nate-b-jones]], [[index]]
+
+## [2026-06-03] ingest | Nate Herk Daily — I Tested Every Claude Code Feature, These 12 Are the Best
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Details:** Ingested 2026-06-03 video (vfWTyEreOEc). Created source page and new concept [[claude-code-skills]]; updated [[nate-herk]] and index.
+- **Pages touched:** [[2026-06-03-nate-herk-daily]], [[claude-code-skills]], [[nate-herk]], [[index]]

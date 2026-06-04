@@ -3,10 +3,10 @@
 Master catalog of all wiki pages. Updated on every ingest.
 
 ## Sources
-- [[2026-05-23-nate-b-jones-daily]] — Emergence AI’s 15-day agent-town experiment; the harness, not the model, keeps agents aligned (2026-05-23)
+- [[2026-05-23-nate-b-jones-daily]] — Emergency AI's 15-day agent-town experiment; the harness, not the model, keeps agents aligned (2026-05-23)
 - [[2026-05-24-nate-b-jones-daily]] — AI supply chain constraints; your AI vendor contract is now a supply contract (2026-05-24)
 - [[2026-05-25-nate-b-jones-daily]] — Platform teams become bottlenecks when AI agents scale; uneven acceleration compounds (2026-05-25)
-- [[2026-05-26-nate-b-jones-daily]] — Public AI work and the organizational apprenticeship gap; Shopify’s River agent (2026-05-26)
+- [[2026-05-26-nate-b-jones-daily]] — Public AI work and the organizational apprenticeship gap; Shopify's River agent (2026-05-26)
 - [[2026-05-27-nate-b-jones-daily]] — AI document workflow; hostile reviewer prompt and the truth layer (2026-05-27)
 - [[2026-05-28-nate-b-jones-daily]] — Agent analytics; runs replace sessions as the unit of product behavior (2026-05-28)
 - [[2026-05-29-nate-b-jones-daily]] — Product management after cheap software; prototype commons and production class ladder (2026-05-29)
@@ -24,6 +24,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-05-31-nate-herk-daily]] — No new video on 2026-05-31 IST (2026-05-31)
 
 - [[2026-06-02-nate-herk-daily]] — 100 Years of Artificial Intelligence Explained: hype cycles, AI winters, and the leadership pattern (2026-06-02)
+- [[2026-06-03-nate-herk-daily]] — Top 12 Claude Code features ranked for knowledge work; #1 is Skills (2026-06-03)
 
 ## Entities
 - [[nate-b-jones]] — AI strategy creator (YouTube, Substack: natesnewsletter.substack.com)
@@ -51,6 +52,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[scout-vs-strike-team]] — two-mode framework for classifying initiatives before staffing: scouts for uncertain terrain, strike teams for defined missions
 - [[steinberger-threshold]] — the talent dividing line: people who direct AI agents vs. those who get directed by them
 - [[ai-hype-cycle]] — the boom–winter–breakthrough cycle governing AI's 100-year history
+- [[claude-code-skills]] — custom slash commands in `.claude/commands/`; the #1 Claude Code feature for knowledge work and automation
 
 ## Analyses
 _None yet._
