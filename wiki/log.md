@@ -132,3 +132,8 @@ Append-only chronological record of all operations on this wiki.
 - **Source:** Nate Herk Daily Implementation Playbook
 - **Details:** Ingested 2026-06-03 video (vfWTyEreOEc). Created source page and new concept [[claude-code-skills]]; updated [[nate-herk]] and index.
 - **Pages touched:** [[2026-06-03-nate-herk-daily]], [[claude-code-skills]], [[nate-herk]], [[index]]
+## [2026-06-03] ingest | Nate B Jones Daily — Opus 4.8 Scored 81. Your Workflow Doesn't Care.
+- **Operation:** ingest
+- **Source:** Nate B Jones Daily Leader Briefing
+- **Details:** Ingested 2026-06-03 strategy video (z73yuF14udI). Created source page and two new concepts [[benchmark-trap]] and [[dark-factory-approach]]; updated [[nate-b-jones]] and the index.
+- **Pages touched:** [[2026-06-03-nate-b-jones-daily]], [[benchmark-trap]], [[dark-factory-approach]], [[nate-b-jones]], [[index]]
