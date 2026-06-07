@@ -137,3 +137,9 @@ Append-only chronological record of all operations on this wiki.
 - **Source:** Nate B Jones Daily Leader Briefing
 - **Details:** Ingested 2026-06-03 strategy video (z73yuF14udI). Created source page and two new concepts [[benchmark-trap]] and [[dark-factory-approach]]; updated [[nate-b-jones]] and the index.
 - **Pages touched:** [[2026-06-03-nate-b-jones-daily]], [[benchmark-trap]], [[dark-factory-approach]], [[nate-b-jones]], [[index]]
+
+## [2026-06-06] ingest | Nate B Jones Daily — The Most Expensive AI Mistake Isn’t Prompting
+- **Operation:** ingest
+- **Source:** Nate B Jones Daily Leader Briefing
+- **Details:** Ingested 2026-06-06 Short (zOndwcirGVY) — the only content published on TARGET in the IST window [2026-06-05 18:30Z → 2026-06-06 18:30Z]. Full story via Substack “the-most-expensive-ai-mistake-isnt.” Created source page and new concept [[ai-taste-infrastructure]]; updated [[nate-b-jones]] and the index.
+- **Pages touched:** [[2026-06-06-nate-b-jones-daily]], [[ai-taste-infrastructure]], [[nate-b-jones]], [[index]]
