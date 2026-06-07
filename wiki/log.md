@@ -7,95 +7,83 @@ Append-only chronological record of all operations on this wiki.
 - **Details:** Created vault scaffold (CLAUDE.md schema, directory tree, index, log, overview, stub entity/concept pages). Patterned after the AI-Engineering wiki schema.
 - **Pages touched:** [[index]], [[overview]], [[nate-b-jones]], [[nate-herk]], [[ai-fluency]], [[chief-ai-officer]]
 
-## [2026-05-23] ingest | Nate B Jones Daily — Claude's AI Town Voted Yes On Everything
+## [2026-05-23] ingest | Nate B Jones Daily — Claude's AI Town Voted
 - **Operation:** ingest
 - **Source:** Nate B Jones Daily Leader Briefing
-- **Details:** Ingested the 2026-05-23 strategy video (RHV8DWAmjAs). Created source page and new concept [[agent-harness]]; updated [[nate-b-jones]] and the index. The Nate Herk routine found no video published 2026-05-23 IST — sent a no-content email and ingested nothing, per the yesterday-only rule.
+- **Details:** Ingested the 2026-05-23 strategy video (4OIRNHQ8NPs). Created source page and new concept [[agent-harness]]; updated [[nate-b-jones]] and the index.
 - **Pages touched:** [[2026-05-23-nate-b-jones-daily]], [[agent-harness]], [[nate-b-jones]], [[index]]
-
-## [2026-05-24] ingest | Nate B Jones Daily — Why the AI boom is about to hit a wall
-- **Operation:** ingest
-- **Source:** Nate B Jones Daily Leader Briefing
-- **Details:** Ingested 2026-05-24 strategy video (Poyi6X7rOwY). Created source page and new concept [[ai-supply-chain]]; updated [[nate-b-jones]] and index. (Bulk catch-up run on 2026-06-01.)
-- **Pages touched:** [[2026-05-24-nate-b-jones-daily]], [[ai-supply-chain]], [[nate-b-jones]], [[index]]
-
-## [2026-05-25] ingest | Nate B Jones Daily — The Infrastructure Nightmare Nobody Is Talking About
-- **Operation:** ingest
-- **Source:** Nate B Jones Daily Leader Briefing
-- **Details:** Ingested 2026-05-25 strategy video (z3pbrFKVyQE). Created source page; updated [[nate-b-jones]] and index. (Bulk catch-up run on 2026-06-01.)
-- **Pages touched:** [[2026-05-25-nate-b-jones-daily]], [[nate-b-jones]], [[index]]
-
-## [2026-05-26] ingest | Nate B Jones Daily — Shopify CEO Reveals Their Secret AI Developer
-- **Operation:** ingest
-- **Source:** Nate B Jones Daily Leader Briefing
-- **Details:** Ingested 2026-05-26 strategy video (NRBQmwlILjk). Created source page and new concept [[public-ai-work]]; updated [[nate-b-jones]] and index. (Bulk catch-up run on 2026-06-01.)
-- **Pages touched:** [[2026-05-26-nate-b-jones-daily]], [[public-ai-work]], [[nate-b-jones]], [[index]]
-
-## [2026-05-27] ingest | Nate B Jones Daily — I Built a Deck With AI, Then Made a Second AI Attack It.
-- **Operation:** ingest
-- **Source:** Nate B Jones Daily Leader Briefing
-- **Details:** Ingested 2026-05-27 strategy video (MFzxIT88zfg). Created source page and new concept [[ai-document-workflow]]; updated [[nate-b-jones]] and index. (Bulk catch-up run on 2026-06-01.)
-- **Pages touched:** [[2026-05-27-nate-b-jones-daily]], [[ai-document-workflow]], [[nate-b-jones]], [[index]]
-
-## [2026-05-28] ingest | Nate B Jones Daily — A Cursor Agent Wiped a Database in 9 Seconds.
-- **Operation:** ingest
-- **Source:** Nate B Jones Daily Leader Briefing
-- **Details:** Ingested 2026-05-28 strategy video (n0nC1kmztSk). Created source page and new concept [[agent-analytics]]; updated [[nate-b-jones]] and index. (Bulk catch-up run on 2026-06-01.)
-- **Pages touched:** [[2026-05-28-nate-b-jones-daily]], [[agent-analytics]], [[nate-b-jones]], [[index]]
-
-## [2026-05-29] ingest | Nate B Jones Daily — Cheap software made your PM job harder, not easier.
-- **Operation:** ingest
-- **Source:** Nate B Jones Daily Leader Briefing
-- **Details:** Ingested 2026-05-29 strategy video (b6J387xJvHg). Created source page and new concept [[prototype-commons]]; updated [[nate-b-jones]] and index. (Bulk catch-up run on 2026-06-01.)
-- **Pages touched:** [[2026-05-29-nate-b-jones-daily]], [[prototype-commons]], [[nate-b-jones]], [[index]]
-
-## [2026-05-30] ingest | Nate B Jones Daily — My AI Workflow Has Changed (Here is What I Learned)
-- **Operation:** ingest
-- **Source:** Nate B Jones Daily Leader Briefing
-- **Details:** Ingested 2026-05-30 strategy video (rqVzTX8w_w0). Created source page; updated [[nate-b-jones]] and index. (Bulk catch-up run on 2026-06-01.)
-- **Pages touched:** [[2026-05-30-nate-b-jones-daily]], [[nate-b-jones]], [[index]]
-
-## [2026-05-31] ingest | Nate B Jones Daily — Microsoft Says 86% Treat AI Output as a Starting Point. Your Resume Just Stopped Working.
-- **Operation:** ingest
-- **Source:** Nate B Jones Daily Leader Briefing
-- **Details:** Ingested the 2026-05-31 strategy video (UsCgEuIAclE). Created source page, two new concepts [[career-evidence]] and [[judgment-visibility]]; updated [[nate-b-jones]] and the index.
-- **Pages touched:** [[2026-05-31-nate-b-jones-daily]], [[career-evidence]], [[judgment-visibility]], [[nate-b-jones]], [[index]]
 
 ## [2026-05-24] ingest | Nate Herk Daily — No new video
 - **Operation:** ingest
 - **Source:** Nate Herk Daily Implementation Playbook
-- **Details:** No Nate Herk video published on 2026-05-24 IST. No-content email sent and wiki stub committed. (Bulk catch-up run on 2026-06-01.)
+- **Details:** No Nate Herk video published on 2026-05-24 IST. No-content email sent and wiki stub committed.
 - **Pages touched:** [[2026-05-24-nate-herk-daily]], [[nate-herk]], [[index]]
+
+## [2026-05-24] ingest | Nate B Jones Daily — AI Supply Chain
+- **Operation:** ingest
+- **Source:** Nate B Jones Daily Leader Briefing
+- **Details:** Ingested the 2026-05-24 strategy video (GVQzYHe3Lio). Created source page and new concept [[ai-supply-chain]]; updated [[nate-b-jones]] and the index.
+- **Pages touched:** [[2026-05-24-nate-b-jones-daily]], [[ai-supply-chain]], [[nate-b-jones]], [[index]]
 
 ## [2026-05-25] ingest | Nate Herk Daily — The Playbook for a $100M AI Agency
 - **Operation:** ingest
 - **Source:** Nate Herk Daily Implementation Playbook
-- **Details:** Ingested 2026-05-25 video (8ktcSaSTvxk) ft. Devin Kearns. Created source page and concept [[ai-agency-playbook]]; updated [[nate-herk]] and index. (Bulk catch-up run on 2026-06-01.)
+- **Details:** Ingested 2026-05-25 video (8ktcSaSTvxk). Created source page and concept [[ai-agency-playbook]]; updated [[nate-herk]] and index.
 - **Pages touched:** [[2026-05-25-nate-herk-daily]], [[ai-agency-playbook]], [[nate-herk]], [[index]]
+
+## [2026-05-25] ingest | Nate B Jones Daily — Platform Teams as AI Bottleneck
+- **Operation:** ingest
+- **Source:** Nate B Jones Daily Leader Briefing
+- **Details:** Ingested the 2026-05-25 strategy video (F5Gkdh8lL8g). Created source page and new concept [[platform-bottleneck]]; updated [[nate-b-jones]] and the index.
+- **Pages touched:** [[2026-05-25-nate-b-jones-daily]], [[platform-bottleneck]], [[nate-b-jones]], [[index]]
 
 ## [2026-05-26] ingest | Nate Herk Daily — No new video
 - **Operation:** ingest
 - **Source:** Nate Herk Daily Implementation Playbook
-- **Details:** No Nate Herk video published on 2026-05-26 IST. No-content email sent and wiki stub committed. (Bulk catch-up run on 2026-06-01.)
+- **Details:** No Nate Herk video published on 2026-05-26 IST. No-content email sent and wiki stub committed.
 - **Pages touched:** [[2026-05-26-nate-herk-daily]], [[nate-herk]], [[index]]
 
-## [2026-05-27] ingest | Nate Herk Daily — 100 Hours Testing Claude Code vs ChatGPT Codex
+## [2026-05-26] ingest | Nate B Jones Daily — Public AI Work and the Apprenticeship Gap
+- **Operation:** ingest
+- **Source:** Nate B Jones Daily Leader Briefing
+- **Details:** Ingested the 2026-05-26 strategy video (6uNZYSAekWE). Created source page and new concept [[public-ai-work]]; updated [[nate-b-jones]] and the index.
+- **Pages touched:** [[2026-05-26-nate-b-jones-daily]], [[public-ai-work]], [[nate-b-jones]], [[index]]
+
+## [2026-05-27] ingest | Nate Herk Daily — 100 Hours Claude Code vs Codex
 - **Operation:** ingest
 - **Source:** Nate Herk Daily Implementation Playbook
-- **Details:** Ingested 2026-05-27 video (RLjaUES9P8A). Created source page and concept [[claude-code-vs-codex]]; updated [[nate-herk]] and index. (Bulk catch-up run on 2026-06-01.)
+- **Details:** Ingested 2026-05-27 video (RLjaUES9P8A). Created source page and concept [[claude-code-vs-codex]]; updated [[nate-herk]] and index.
 - **Pages touched:** [[2026-05-27-nate-herk-daily]], [[claude-code-vs-codex]], [[nate-herk]], [[index]]
+
+## [2026-05-27] ingest | Nate B Jones Daily — AI Document Workflow
+- **Operation:** ingest
+- **Source:** Nate B Jones Daily Leader Briefing
+- **Details:** Ingested the 2026-05-27 strategy video (qB6Vj67_PaM). Created source page and new concept [[ai-document-workflow]]; updated [[nate-b-jones]] and the index.
+- **Pages touched:** [[2026-05-27-nate-b-jones-daily]], [[ai-document-workflow]], [[nate-b-jones]], [[index]]
 
 ## [2026-05-28] ingest | Nate Herk Daily — No new video
 - **Operation:** ingest
 - **Source:** Nate Herk Daily Implementation Playbook
-- **Details:** No Nate Herk video published on 2026-05-28 IST. No-content email sent and wiki stub committed. (Bulk catch-up run on 2026-06-01.)
+- **Details:** No Nate Herk video published on 2026-05-28 IST. No-content email sent and wiki stub committed.
 - **Pages touched:** [[2026-05-28-nate-herk-daily]], [[nate-herk]], [[index]]
 
-## [2026-05-29] ingest | Nate Herk Daily — Opus 4.8 + AI OS (2 videos)
+## [2026-05-28] ingest | Nate B Jones Daily — Agent Analytics
+- **Operation:** ingest
+- **Source:** Nate B Jones Daily Leader Briefing
+- **Details:** Ingested the 2026-05-28 strategy video (HzNW8EWoK2M). Created source page and new concept [[agent-analytics]]; updated [[nate-b-jones]] and the index.
+- **Pages touched:** [[2026-05-28-nate-b-jones-daily]], [[agent-analytics]], [[nate-b-jones]], [[index]]
+
+## [2026-05-29] ingest | Nate Herk Daily — Opus 4.8 AI OS
 - **Operation:** ingest
 - **Source:** Nate Herk Daily Implementation Playbook
-- **Details:** Two videos on 2026-05-29 IST: Opus 4.8 release (q5lg3npxjAc) and AI OS build (0WDkwMxj13s). Created source page and concepts [[opus-4-8]] and [[ai-operating-system]]; updated [[nate-herk]] and index. (Bulk catch-up run on 2026-06-01.)
-- **Pages touched:** [[2026-05-29-nate-herk-daily]], [[opus-4-8]], [[ai-operating-system]], [[nate-herk]], [[index]]
+- **Details:** Ingested 2026-05-29 video (0WDkwMxj13s). Created source page and concept [[ai-operating-system]]; updated [[nate-herk]] and index.
+- **Pages touched:** [[2026-05-29-nate-herk-daily]], [[ai-operating-system]], [[nate-herk]], [[index]]
+
+## [2026-05-29] ingest | Nate B Jones Daily — Product Management After Cheap Software
+- **Operation:** ingest
+- **Source:** Nate B Jones Daily Leader Briefing
+- **Details:** Ingested the 2026-05-29 strategy video (N9bJaHE5tCI). Created source page and new concept [[prototype-commons]]; updated [[nate-b-jones]] and the index.
+- **Pages touched:** [[2026-05-29-nate-b-jones-daily]], [[prototype-commons]], [[nate-b-jones]], [[index]]
 
 ## [2026-05-30] ingest | Nate Herk Daily — Claude Code Dynamic Workflows Clearly Explained
 - **Operation:** ingest
@@ -138,8 +126,9 @@ Append-only chronological record of all operations on this wiki.
 - **Details:** Ingested 2026-06-03 strategy video (z73yuF14udI). Created source page and two new concepts [[benchmark-trap]] and [[dark-factory-approach]]; updated [[nate-b-jones]] and the index.
 - **Pages touched:** [[2026-06-03-nate-b-jones-daily]], [[benchmark-trap]], [[dark-factory-approach]], [[nate-b-jones]], [[index]]
 
-## [2026-06-06] ingest | Nate B Jones Daily — The Most Expensive AI Mistake Isn’t Prompting
+## [2026-06-06] ingest | Nate Herk Daily — AGI is Here. Anthropic Just Proved It.
 - **Operation:** ingest
-- **Source:** Nate B Jones Daily Leader Briefing
-- **Details:** Ingested 2026-06-06 Short (zOndwcirGVY) — the only content published on TARGET in the IST window [2026-06-05 18:30Z → 2026-06-06 18:30Z]. Full story via Substack “the-most-expensive-ai-mistake-isnt.” Created source page and new concept [[ai-taste-infrastructure]]; updated [[nate-b-jones]] and the index.
-- **Pages touched:** [[2026-06-06-nate-b-jones-daily]], [[ai-taste-infrastructure]], [[nate-b-jones]], [[index]]
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Type:** COMMENTARY
+- **Details:** Ingested 2026-06-06 video (NDeyhGnNECc). Nate reads Anthropic's "When AI Builds Itself" report and argues scenario two (AI executes, humans direct) is already the present. Created source page and new concept [[recursive-self-improvement]]; updated [[nate-herk]] and index. Transcript unavailable via Firecrawl (MCP timeout) and caption API (403); partial spoken-word content captured via Tavily extract; quotes are verbatim from that source.
+- **Pages touched:** [[2026-06-06-nate-herk-daily]], [[recursive-self-improvement]], [[nate-herk]], [[index]]

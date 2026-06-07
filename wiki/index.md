@@ -15,7 +15,6 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-01-nate-b-jones-daily]] — AI agents and the enterprise context platform race; OpenAI vs. Anthropic organizational memory play (2026-06-01)
 - [[2026-06-02-nate-b-jones-daily]] — Five-person strike team framework; AI raised output per person but not coordination costs; scout vs. strike team classification (2026-06-02)
 - [[2026-06-03-nate-b-jones-daily]] — Opus 4.8 benchmark trap; harness beats model; dark factory approach for knowledge workers (2026-06-03)
-- [[2026-06-06-nate-b-jones-daily]] — Organizational AI taste; rejections as institutional knowledge; the Epic Systems encoding model (2026-06-06)
 - [[2026-05-24-nate-herk-daily]] — No new video on 2026-05-24 IST (2026-05-24)
 - [[2026-05-25-nate-herk-daily]] — $100M AI Agency playbook: mid-market sweet spot, outcome pricing, Claude Code delivery (2026-05-25)
 - [[2026-05-26-nate-herk-daily]] — No new video on 2026-05-26 IST (2026-05-26)
@@ -27,6 +26,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 
 - [[2026-06-02-nate-herk-daily]] — 100 Years of Artificial Intelligence Explained: hype cycles, AI winters, and the leadership pattern (2026-06-02)
 - [[2026-06-03-nate-herk-daily]] — Top 12 Claude Code features ranked for knowledge work; #1 is Skills (2026-06-03)
+- [[2026-06-06-nate-herk-daily]] — AGI is Here. Anthropic Just Proved It.: >80% Anthropic code authored by Claude; scenario two = practical AGI already arrived (2026-06-06)
 
 ## Entities
 - [[nate-b-jones]] — AI strategy creator (YouTube, Substack: natesnewsletter.substack.com)
@@ -57,7 +57,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[claude-code-skills]] — custom slash commands in `.claude/commands/`; the #1 Claude Code feature for knowledge work and automation
 - [[benchmark-trap]] — the error of using benchmark scores as primary AI tool-selection criteria, ignoring harness quality and production reliability
 - [[dark-factory-approach]] — outcome-based filtering for AI knowledge work: require a measurable result, not just output volume
-- [[ai-taste-infrastructure]] — the organizational practice of capturing, articulating, and encoding AI rejection signals into reusable constraints
+- [[recursive-self-improvement]] — Anthropic's three-scenario framework; scenario two (AI executes, humans direct) = Nate Herk's practical AGI threshold, already arrived per their own data
 
 ## Analyses
 _None yet._

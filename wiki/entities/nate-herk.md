@@ -2,7 +2,7 @@
 title: "Nate Herk"
 type: entity
 created: 2026-05-21
-updated: 2026-06-07
+updated: 2026-06-06
 tags: [creator, implementation]
 sources: []
 ---
@@ -39,3 +39,4 @@ Primary source for the implementation lane of this wiki. Tracked via the **Nate 
 - [[2026-05-31-nate-herk-daily]] — No video (2026-05-31 IST)
 - [[2026-06-02-nate-herk-daily]] — 100 Years of Artificial Intelligence Explained (2026-06-02)
 - [[2026-06-03-nate-herk-daily]] — I Tested Every Claude Code Feature, These 12 Are the Best (2026-06-03)
+- [[2026-06-06-nate-herk-daily]] — AGI is Here. Anthropic Just Proved It.: Anthropic's "When AI Builds Itself" report; >80% code authored by Claude; three-scenario AGI framework; practical AGI = scenario two already arrived (2026-06-06)
