@@ -2,7 +2,7 @@
 title: "Nate B. Jones"
 type: entity
 created: 2026-05-21
-updated: 2026-06-06
+updated: 2026-06-07
 tags: [creator, strategy]
 sources: [2026-05-23-nate-b-jones-daily.md, 2026-05-24-nate-b-jones-daily.md, 2026-05-25-nate-b-jones-daily.md, 2026-05-26-nate-b-jones-daily.md, 2026-05-27-nate-b-jones-daily.md, 2026-05-28-nate-b-jones-daily.md, 2026-05-29-nate-b-jones-daily.md, 2026-05-30-nate-b-jones-daily.md, 2026-05-31-nate-b-jones-daily.md, 2026-06-01-nate-b-jones-daily.md, 2026-06-02-nate-b-jones-daily.md, 2026-06-03-nate-b-jones-daily.md, 2026-06-06-nate-b-jones-daily.md]
 ---
@@ -19,7 +19,7 @@ AI strategy creator focused on **enterprise AI trends and executive-level analys
 
 ## Relevance
 
-Primary source for the strategy lane of this wiki. Tracked via the **Nate B Jones Daily Leader Briefing** routine, which surfaces each new episode/post with thesis, data points, frameworks, and recommended actions.
+Primary source for the strategy lane of this wiki. Tracked via the **Nate B Jones Daily Leader Briefing** routine, which builds a **transcript-grounded Strategy Brief** from his actual spoken words (pulled via Firecrawl) plus his linked Substack post — foregrounding his *argument*, the *frameworks* he names, the *evidence* he cites, and where he *breaks from consensus*. The routine filters out his teaser Shorts by duration to brief on the real episode, classifies each as **TAKE / FRAMEWORK / REPORT**, and archives the full transcript under `raw/transcripts/`.
 
 ## Themes he tends to cover
 
