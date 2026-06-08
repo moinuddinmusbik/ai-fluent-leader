@@ -28,7 +28,6 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-02-nate-herk-daily]] — 100 Years of Artificial Intelligence Explained: hype cycles, AI winters, and the leadership pattern (2026-06-02)
 - [[2026-06-03-nate-herk-daily]] — Top 12 Claude Code features ranked for knowledge work; #1 is Skills (2026-06-03)
 - [[2026-06-06-nate-herk-daily]] — AGI is Here. Anthropic Just Proved It.: >80% Anthropic code authored by Claude; scenario two = practical AGI already arrived (2026-06-06)
-- [[2026-06-07-nate-herk-daily]] — Is Claude Mythos Coming?: Mythos API leak, Project Glasswing, IPO timing hype; base case = capabilities fold into next Opus silently (2026-06-07)
 
 ## Entities
 - [[nate-b-jones]] — AI strategy creator (YouTube, Substack: natesnewsletter.substack.com)
@@ -61,8 +60,6 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[dark-factory-approach]] — outcome-based filtering for AI knowledge work: require a measurable result, not just output volume
 - [[recursive-self-improvement]] — Anthropic's three-scenario framework; scenario two (AI executes, humans direct) = Nate Herk's practical AGI threshold, already arrived per their own data
 - [[minimum-effective-intelligence]] — MEI routing rule: assign AI workloads to the minimum intelligence tier (frontier/open/none) that meets the task's need
-- [[claude-mythos]] — Anthropic's model tier above Opus; cybersecurity-specialized, gated via Project Glasswing; base case = capabilities fold into next Opus silently rather than public Mythos launch
-- [[project-glasswing]] — Anthropic's invite-only Mythos rollout to vetted cybersecurity orgs; 50 → 150 partners in ~6 weeks (June 2026); expansion rate is the public-readiness leading indicator
 
 ## Analyses
 _None yet._

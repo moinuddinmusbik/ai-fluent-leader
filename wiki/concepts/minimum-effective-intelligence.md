@@ -3,32 +3,36 @@ title: "Minimum Effective Intelligence"
 type: concept
 created: 2026-06-07
 updated: 2026-06-07
-tags: [framework, ai-strategy, token-management, routing, operating-model]
-sources: [2026-06-07-nate-b-jones-daily.md]
+abbreviation: MEI
+source: "[[2026-06-07-nate-b-jones-daily]]"
+tags: [ai-strategy, cost-management, routing, agentic-ai, framework]
 ---
 
 # Minimum Effective Intelligence (MEI)
 
-A routing framework for AI workload assignment, named by Nate B. Jones in his June 2026 executive briefing on Uber's AI token budget blowup.
+A **routing rule** for AI workloads introduced by [[nate-b-jones]] in his June 7, 2026 executive briefing on Uber's AI token cost crisis.
 
 ## Definition
 
-Assign every AI workload to the **minimum intelligence tier** that actually satisfies the task's requirement. The three tiers:
+Assign every AI workload to the **minimum intelligence tier** that meets the task's actual need:
 
-| Tier | When to use |
-|------|-------------|
-| **Frontier model** | The task genuinely requires leading-edge reasoning, code generation, or nuanced judgment that only top-tier models deliver |
-| **Open / smaller model** | The task is well-specified, repeatable, and does not need frontier capability — open models handle ~80% of enterprise tasks at a fraction of the cost |
-| **No model** | The task is deterministic, rule-based, or lookup-style — AI adds latency and cost without adding value |
+- **Frontier model** — when the task genuinely requires cutting-edge reasoning, creativity, or multi-step agency
+- **Open / smaller model** — when the task is well-specified and frontier capability is not needed
+- **No model** — when the task should not involve AI at all
 
-## Why it matters
+## Core Insight
 
-The AI cost curve looks counterintuitive: per-call prices for frontier models keep dropping, yet the total spend for "work you actually want" from frontier models keeps rising. This is because the work that needs frontier capability is expanding faster than the per-call price falls. MEI is the routing rule that stops commodity tasks from consuming frontier-model budget.
+Even as price-per-call falls on frontier models, agentic tasks (planning, retrying, running for hours) keep getting more expensive in absolute terms. Reflexively routing all work to frontier models inflates the token bill for work that does not require it. MEI is the front-load question: *does this genuinely need the most capable model?*
 
-## The broader argument
+## Why It Matters
 
-MEI is not a cost-cutting heuristic. It is a legibility tool: when workloads are routed correctly, spend becomes traceable to outcomes. The companies that cannot connect their token bill to customer value (cf. Uber 2026) are usually routing all work through the same intelligence tier — making the bill a single undifferentiated number rather than a readable signal.
+Nate frames MEI as "the fastest correctable item on any token bill." Unlike redesigning the full operating model (which takes quarters), applying MEI is a routing decision you can implement at the workflow level today. It also surfaces the distinction between tuition spend (exploratory, builds capability) and waste (over-specced models on routine tasks).
 
-## Sources
+## Context of Origin
 
-- [[2026-06-07-nate-b-jones-daily]] — Named and defined in the context of Uber's AI budget blowup analysis
+Introduced in response to Uber's May 2026 AI budget blowup — where 95% of engineers used AI monthly but the COO could not connect token spend to customer features. MEI is one component of the larger operating model redesign Nate argues companies like Uber need.
+
+## Related
+
+- [[2026-06-07-nate-b-jones-daily]] — source brief
+- [[nate-b-jones]] — creator
