@@ -139,3 +139,10 @@ Append-only chronological record of all operations on this wiki.
 - **Source:** Nate B Jones Daily Leader Briefing
 - **Details:** No long-form episode on 2026-06-07 IST (only Shorts: lggtc9D5e7E 0:55, yOGLr2IwAWk 0:53, g4FSU7g3IJw 0:46). Briefed on primary Substack post "Executive Briefing: Uber Burned Its Entire AI Budget Early. The Bill Was Trying to Tell Them Something." (ai-token-cost-management, Jun 07 2026, AI Executive Circle paid). Created source page and new concept [[minimum-effective-intelligence]]; updated [[nate-b-jones]], [[index]], and [[log]].
 - **Pages touched:** [[2026-06-07-nate-b-jones-daily]], [[minimum-effective-intelligence]], [[nate-b-jones]], [[index]], [[log]]
+
+## [2026-06-08] ingest | Weekly AI Leadership Stories — 1 June to 7 June 2026
+- **Operation:** ingest
+- **Source:** Weekly AI Leadership Stories (weekly-ai-leadership-stories)
+- **Window:** 2026-06-01 to 2026-06-07
+- **Details:** Ingested 5 in-window stories: (1) Microsoft Build 2026 — Autopilots and Microsoft IQ (June 2); (2) White House AI Innovation & Security EO + NSPM (June 2); (3) Deloitte State of AI in the Enterprise 2026 — 85% deploying agents, 34% reimagining business (June 4); (4) Anthropic "When AI Builds Itself" — >80% code by Claude, 8× productivity multiplier (June 4); (5) KPMG/Anthropic global alliance Qatar expansion — 276,000-person deployment (June 7). Email sent to moinuddin.musbik@gmail.com. Created 4 new entity pages ([[anthropic]], [[microsoft]], [[kpmg]], [[deloitte]]), 2 new concept pages ([[enterprise-ai-autopilots]], [[ai-productivity-multiplier]]); updated [[recursive-self-improvement]] with enterprise context; updated [[chief-ai-officer]] with June 2026 data; updated [[index]] and [[log]].
+- **Pages touched:** [[2026-06-07-weekly-ai-leadership-stories]], [[anthropic]], [[microsoft]], [[kpmg]], [[deloitte]], [[enterprise-ai-autopilots]], [[ai-productivity-multiplier]], [[recursive-self-improvement]], [[chief-ai-officer]], [[index]], [[log]]

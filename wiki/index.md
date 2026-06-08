@@ -33,6 +33,11 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[nate-b-jones]] — AI strategy creator (YouTube, Substack: natesnewsletter.substack.com)
 - [[nate-herk]] — AI automation creator (YouTube, Skool: AI Automation Society)
 
+- [[anthropic]] — AI safety company; creator of Claude; 8× engineering productivity multiplier (May 2026)
+- [[microsoft]] — Enterprise AI platform; Autopilots, Microsoft IQ, MAI models (Build 2026)
+- [[kpmg]] — Big Four firm; 276,000-person Claude deployment via Digital Gateway (June 2026)
+- [[deloitte]] — Big Four firm; publishes annual State of AI in the Enterprise benchmark report
+
 ## Concepts
 - [[ai-fluency]] — what it means to be an AI-fluent leader
 - [[chief-ai-officer]] — the CAIO role, expectations, and hiring signals
@@ -61,5 +66,8 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[recursive-self-improvement]] — Anthropic's three-scenario framework; scenario two (AI executes, humans direct) = Nate Herk's practical AGI threshold, already arrived per their own data
 - [[minimum-effective-intelligence]] — MEI routing rule: assign AI workloads to the minimum intelligence tier (frontier/open/none) that meets the task's need
 
+- [[enterprise-ai-autopilots]] — always-on autonomous agents with enterprise Entra ID identity; introduced by Microsoft at Build 2026
+- [[ai-productivity-multiplier]] — measurable output-per-person multiplier for AI-native teams; Anthropic benchmark: 8× same headcount
+
 ## Analyses
-_None yet._
+_None yet._- [[2026-06-07-weekly-ai-leadership-stories]] — 5 in-window stories (June 1–7, 2026): Microsoft Build 2026 Autopilots; White House AI EO; Deloitte State of AI 2026; Anthropic 8× productivity; KPMG 276K deployment (2026-06-07)

@@ -1,30 +1,39 @@
 ---
 title: "Anthropic"
 type: entity
-created: 2026-06-01
-updated: 2026-06-01
-tags: [entity, strategy, enterprise-ai]
-sources: [2026-05-31-weekly-ai-leadership-stories.md]
-routine: "Weekly AI Leadership Stories"
+created: 2026-06-08
+updated: 2026-06-08
+tags: [ai-lab, frontier-ai, anthropic, claude]
+sources: [2026-06-07-weekly-ai-leadership-stories.md, 2026-06-06-nate-herk-daily.md]
 ---
 
 # Anthropic
 
-AI safety company and maker of Claude; as of May 2026, one of the two dominant enterprise AI platform providers (alongside OpenAI).
+AI safety company and frontier model lab; creator of the Claude model family. One of the two dominant frontier AI providers (with OpenAI) shaping enterprise AI deployment in 2026.
 
 ## Key Facts
 
-- Raised $65B Series H at $965B post-money valuation (May 28, 2026); co-led by Altimeter, Dragoneer, Greenoaks, Sequoia
-- Run-rate revenue crossed $47B in May 2026; 130% revenue surge projected to first operating profit
-- 1,000+ enterprise accounts spending over $1M/year on Claude; 8 of the Fortune 10 are customers
-- Claude Code (agentic coding product) hit $2.5B annualized revenue by Feb 2026; business subscriptions quadrupled in 6 weeks after Jan 1, 2026
-- Launched Claude Opus 4.8 on May 28 alongside Series H announcement; IPO widely expected
-- Infrastructure commitment: 5GW of AWS compute + 3.5GW Google TPU locked in
+- Founded: 2021 by Dario Amodei, Daniela Amodei, and other former OpenAI researchers
+- Flagship model: Claude (Opus 4.8 as of May 2026)
+- Revenue mix: enterprise licenses (KPMG, PwC, SAP) + API + consumer
+- Internal AI usage: >80% of Anthropic's own merged code is now authored by Claude (May 2026)
+
+## Key Reports & Publications
+
+- **"When AI Builds Itself"** (June 4, 2026) — Anthropic Institute report documenting the 8× engineering productivity multiplier and recursive self-improvement threshold
+- **Three-scenario framework** — Stalls / Compounds / Closes the Loop (see [[recursive-self-improvement]])
+
+## Major Enterprise Partnerships (2026)
+
+- **KPMG**: 276,000-person global workforce deployment via Digital Gateway Powered by Claude (announced May 2026, Qatar expansion June 7, 2026)
+- **PwC**: 30,000-person training program + Claude Code and Claude Cowork rollout (announced May 14, 2026)
+- **SAP**: Claude powers Joule agents across HR, procurement, and supply chain
 
 ## Relevance to AI-Fluent Leadership
 
-Anthropic’s enterprise momentum makes it the clearest signal that enterprise Claude deployment is mainstream, not experimental. The $965B valuation is an AI leadership benchmark: your board will use it to contextualize your organization’s AI investments. AI vendor concentration risk (Anthropic as a critical dependency) is now a board-level governance question.
+Anthropic's internal productivity data (8× multiplier) is the benchmark against which enterprise leaders should measure their own AI deployment returns. The "When AI Builds Itself" report is mandatory reading for any leader building a board-level AI productivity case.
 
 ## Related
 
-- [[ai-supply-chain]] · [[chief-ai-officer]] · [[enterprise-ai-governance]] · [[2026-05-31-weekly-ai-leadership-stories]]
+- [[recursive-self-improvement]] · [[ai-productivity-multiplier]] · [[claude-code-vs-codex]] · [[opus-4-8]]
+- Sources: [[2026-06-07-weekly-ai-leadership-stories]], [[2026-06-06-nate-herk-daily]]
