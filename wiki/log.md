@@ -139,3 +139,10 @@ Append-only chronological record of all operations on this wiki.
 - **Source:** Nate B Jones Daily Leader Briefing
 - **Details:** No long-form episode on 2026-06-07 IST (only Shorts: lggtc9D5e7E 0:55, yOGLr2IwAWk 0:53, g4FSU7g3IJw 0:46). Briefed on primary Substack post "Executive Briefing: Uber Burned Its Entire AI Budget Early. The Bill Was Trying to Tell Them Something." (ai-token-cost-management, Jun 07 2026, AI Executive Circle paid). Created source page and new concept [[minimum-effective-intelligence]]; updated [[nate-b-jones]], [[index]], and [[log]].
 - **Pages touched:** [[2026-06-07-nate-b-jones-daily]], [[minimum-effective-intelligence]], [[nate-b-jones]], [[index]], [[log]]
+
+## [2026-06-07] ingest | Nate Herk Daily — Is Claude Mythos Coming?
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Type:** COMMENTARY
+- **Details:** Ingested 2026-06-07 video (lkR6mvqQQlk). Nate breaks down the Mythos API leak, Project Glasswing, IPO hype timing, and argues that no public Mythos launch is coming — the base case is capabilities fold silently into next Opus. Created source page and two new concepts [[claude-mythos]] and [[project-glasswing]]; updated [[nate-herk]] and index. Transcript captured via Firecrawl (387 segments, 14,834 chars).
+- **Pages touched:** [[2026-06-07-nate-herk-daily]], [[2026-06-07-nate-herk-daily-transcript]], [[claude-mythos]], [[project-glasswing]], [[nate-herk]], [[index]], [[log]]
