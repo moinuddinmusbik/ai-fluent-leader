@@ -132,3 +132,10 @@ Append-only chronological record of all operations on this wiki.
 - **Type:** COMMENTARY
 - **Details:** Ingested 2026-06-06 video (NDeyhGnNECc). Nate reads Anthropic's "When AI Builds Itself" report and argues scenario two (AI executes, humans direct) is already the present. Created source page and new concept [[recursive-self-improvement]]; updated [[nate-herk]] and index. Transcript unavailable via Firecrawl (MCP timeout) and caption API (403); partial spoken-word content captured via Tavily extract; quotes are verbatim from that source.
 - **Pages touched:** [[2026-06-06-nate-herk-daily]], [[recursive-self-improvement]], [[nate-herk]], [[index]]
+
+## [2026-06-07] ingest | Nate B Jones Daily — Uber AI Budget Blowup
+- **Operation:** ingest
+- **Lens:** TAKE
+- **Source:** Nate B Jones Daily Leader Briefing
+- **Details:** No long-form episode on 2026-06-07 IST (only Shorts: lggtc9D5e7E 0:55, yOGLr2IwAWk 0:53, g4FSU7g3IJw 0:46). Briefed on primary Substack post "Executive Briefing: Uber Burned Its Entire AI Budget Early. The Bill Was Trying to Tell Them Something." (ai-token-cost-management, Jun 07 2026, AI Executive Circle paid). Created source page and new concept [[minimum-effective-intelligence]]; updated [[nate-b-jones]], [[index]], and [[log]].
+- **Pages touched:** [[2026-06-07-nate-b-jones-daily]], [[minimum-effective-intelligence]], [[nate-b-jones]], [[index]], [[log]]
