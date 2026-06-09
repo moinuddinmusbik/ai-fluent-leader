@@ -29,6 +29,8 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-03-nate-herk-daily]] — Top 12 Claude Code features ranked for knowledge work; #1 is Skills (2026-06-03)
 - [[2026-06-06-nate-herk-daily]] — AGI is Here. Anthropic Just Proved It.: >80% Anthropic code authored by Claude; scenario two = practical AGI already arrived (2026-06-06)
 
+- [[2026-06-08-nate-herk-daily]] — No new video on 2026-06-08 IST (2026-06-08)
+
 ## Entities
 - [[nate-b-jones]] — AI strategy creator (YouTube, Substack: natesnewsletter.substack.com)
 - [[nate-herk]] — AI automation creator (YouTube, Skool: AI Automation Society)

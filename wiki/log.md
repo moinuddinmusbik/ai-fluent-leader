@@ -123,7 +123,7 @@ Append-only chronological record of all operations on this wiki.
 ## [2026-06-03] ingest | Nate B Jones Daily — Opus 4.8 Scored 81. Your Workflow Doesn't Care.
 - **Operation:** ingest
 - **Source:** Nate B Jones Daily Leader Briefing
-- **Details:** Ingested 2026-06-03 strategy video (z73yuF14udI). Created source page and two new concepts [[benchmark-trap]] and [[dark-factory-approach]]; updated [[nate-b-jones]] and the index.
+- **Details:** Ingested 2026-06-03 strategy video (z3yuF14udI). Created source page and two new concepts [[benchmark-trap]] and [[dark-factory-approach]]; updated [[nate-b-jones]] and the index.
 - **Pages touched:** [[2026-06-03-nate-b-jones-daily]], [[benchmark-trap]], [[dark-factory-approach]], [[nate-b-jones]], [[index]]
 
 ## [2026-06-06] ingest | Nate Herk Daily — AGI is Here. Anthropic Just Proved It.
@@ -146,3 +146,9 @@ Append-only chronological record of all operations on this wiki.
 - **Window:** 2026-06-01 to 2026-06-07
 - **Details:** Ingested 5 in-window stories: (1) Microsoft Build 2026 — Autopilots and Microsoft IQ (June 2); (2) White House AI Innovation & Security EO + NSPM (June 2); (3) Deloitte State of AI in the Enterprise 2026 — 85% deploying agents, 34% reimagining business (June 4); (4) Anthropic "When AI Builds Itself" — >80% code by Claude, 8× productivity multiplier (June 4); (5) KPMG/Anthropic global alliance Qatar expansion — 276,000-person deployment (June 7). Email sent to moinuddin.musbik@gmail.com. Created 4 new entity pages ([[anthropic]], [[microsoft]], [[kpmg]], [[deloitte]]), 2 new concept pages ([[enterprise-ai-autopilots]], [[ai-productivity-multiplier]]); updated [[recursive-self-improvement]] with enterprise context; updated [[chief-ai-officer]] with June 2026 data; updated [[index]] and [[log]].
 - **Pages touched:** [[2026-06-07-weekly-ai-leadership-stories]], [[anthropic]], [[microsoft]], [[kpmg]], [[deloitte]], [[enterprise-ai-autopilots]], [[ai-productivity-multiplier]], [[recursive-self-improvement]], [[chief-ai-officer]], [[index]], [[log]]
+
+## [2026-06-08] ingest | Nate Herk Daily — No new video
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Details:** No Nate Herk video published on 2026-06-08 IST. No-content email sent and wiki stub committed.
+- **Pages touched:** [[2026-06-08-nate-herk-daily]], [[nate-herk]], [[index]]
