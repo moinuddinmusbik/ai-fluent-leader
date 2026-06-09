@@ -16,6 +16,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-02-nate-b-jones-daily]] — Five-person strike team framework; AI raised output per person but not coordination costs; scout vs. strike team classification (2026-06-02)
 - [[2026-06-03-nate-b-jones-daily]] — Opus 4.8 benchmark trap; harness beats model; dark factory approach for knowledge workers (2026-06-03)
 - [[2026-06-07-nate-b-jones-daily]] — Uber's AI budget blowup; token burn as operating-model signal; Minimum Effective Intelligence routing framework (2026-06-07)
+- [[2026-06-08-nate-b-jones-daily]] — Beyond The Hype: Why Meta And Block Are Firing People; five-category AI Layoff Typology; Meta CapEx trap, Block vision, Cloudflare activity distress (2026-06-08)
 - [[2026-05-24-nate-herk-daily]] — No new video on 2026-05-24 IST (2026-05-24)
 - [[2026-05-25-nate-herk-daily]] — $100M AI Agency playbook: mid-market sweet spot, outcome pricing, Claude Code delivery (2026-05-25)
 - [[2026-05-26-nate-herk-daily]] — No new video on 2026-05-26 IST (2026-05-26)
@@ -28,8 +29,6 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-02-nate-herk-daily]] — 100 Years of Artificial Intelligence Explained: hype cycles, AI winters, and the leadership pattern (2026-06-02)
 - [[2026-06-03-nate-herk-daily]] — Top 12 Claude Code features ranked for knowledge work; #1 is Skills (2026-06-03)
 - [[2026-06-06-nate-herk-daily]] — AGI is Here. Anthropic Just Proved It.: >80% Anthropic code authored by Claude; scenario two = practical AGI already arrived (2026-06-06)
-
-- [[2026-06-08-nate-herk-daily]] — No new video on 2026-06-08 IST (2026-06-08)
 
 ## Entities
 - [[nate-b-jones]] — AI strategy creator (YouTube, Substack: natesnewsletter.substack.com)
@@ -71,5 +70,6 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[enterprise-ai-autopilots]] — always-on autonomous agents with enterprise Entra ID identity; introduced by Microsoft at Build 2026
 - [[ai-productivity-multiplier]] — measurable output-per-person multiplier for AI-native teams; Anthropic benchmark: 8× same headcount
 
+- [[ai-layoff-typology]] — five-category framework for reading AI-era layoffs as strategy signals: Hyperscaler · Visionary · Activity · Hope · Fifth Category
 ## Analyses
 _None yet._- [[2026-06-07-weekly-ai-leadership-stories]] — 5 in-window stories (June 1–7, 2026): Microsoft Build 2026 Autopilots; White House AI EO; Deloitte State of AI 2026; Anthropic 8× productivity; KPMG 276K deployment (2026-06-07)
