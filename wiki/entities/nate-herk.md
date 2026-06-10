@@ -2,7 +2,7 @@
 title: "Nate Herk"
 type: entity
 created: 2026-05-21
-updated: 2026-06-08
+updated: 2026-06-09
 tags: [creator, implementation]
 sources: []
 ---
@@ -42,3 +42,4 @@ Primary source for the implementation lane of this wiki. Tracked via the **Nate 
 - [[2026-06-06-nate-herk-daily]] — AGI is Here. Anthropic Just Proved It.: Anthropic's "When AI Builds Itself" report; >80% code authored by Claude; three-scenario AGI framework; practical AGI = scenario two already arrived (2026-06-06)
 - [[2026-06-07-nate-herk-daily]] — Is Claude Mythos Coming?: Mythos API leak, Project Glasswing, IPO timing hype, base case = capabilities fold into next Opus silently; public Mythos unlikely under that name (2026-06-07)
 - [[2026-06-08-nate-herk-daily]] — No video (2026-06-08 IST)
+- [[2026-06-09-nate-herk-daily]] — Claude Mythos is Finally Here.: Fable-5 (Mythos-class, public until June 22nd) vs. Mythos-5 (Project Glasswing only); agentic loop token-burn warning; IPO profitability constraint (2026-06-09)

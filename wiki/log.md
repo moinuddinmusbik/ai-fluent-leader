@@ -152,3 +152,10 @@ Append-only chronological record of all operations on this wiki.
 - **Source:** Nate B Jones Daily Leader Briefing
 - **Details:** Ingested 2026-06-08 strategy video (hzAcDU1FYDo, 20:18). Long-form episode about the AI layoffs wave across Meta, Block, and Cloudflare. TRANSCRIPT_UNAVAILABLE (Firecrawl transcript panel not rendered; two attempts failed). Grounded on video description, chapters, and Substack preview. No companion Substack post found for this episode; general Substack link used. Created source page and new concept [[ai-layoff-typology]] (five-category framework: Hyperscaler · Visionary · Activity · Hope · Fifth Category); updated [[nate-b-jones]], [[index]], and [[log]].
 - **Pages touched:** [[2026-06-08-nate-b-jones-daily]], [[ai-layoff-typology]], [[nate-b-jones]], [[index]], [[log]]
+
+## [2026-06-09] ingest | Nate Herk Daily — Claude Mythos is Finally Here.
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Type:** COMMENTARY
+- **Details:** Ingested 2026-06-09 video (dYrrEKXtttk). Anthropic launches Fable-5 (Mythos-class, public, free until June 22nd) and Mythos-5 (Project Glasswing, cyber/defense only). Nate's prediction confirmed: no standalone public Mythos button. Created source page and two new concepts [[claude-fable-5]] and [[project-glasswing]]; updated [[nate-herk]], [[index]], and [[log]]. Transcript partially available via LinkedIn-embedded excerpt and companion post (Firecrawl MCP timeout on full scrape).
+- **Pages touched:** [[2026-06-09-nate-herk-daily]], [[claude-fable-5]], [[project-glasswing]], [[nate-herk]], [[index]], [[log]]

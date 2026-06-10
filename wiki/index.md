@@ -30,6 +30,8 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-03-nate-herk-daily]] — Top 12 Claude Code features ranked for knowledge work; #1 is Skills (2026-06-03)
 - [[2026-06-06-nate-herk-daily]] — AGI is Here. Anthropic Just Proved It.: >80% Anthropic code authored by Claude; scenario two = practical AGI already arrived (2026-06-06)
 
+- [[2026-06-09-nate-herk-daily]] — Claude Mythos is Finally Here.: Fable-5 public (free until June 22nd), Mythos-5 Project Glasswing only; COMMENTARY (2026-06-09)
+
 ## Entities
 - [[nate-b-jones]] — AI strategy creator (YouTube, Substack: natesnewsletter.substack.com)
 - [[nate-herk]] — AI automation creator (YouTube, Skool: AI Automation Society)
@@ -71,5 +73,8 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[ai-productivity-multiplier]] — measurable output-per-person multiplier for AI-native teams; Anthropic benchmark: 8× same headcount
 
 - [[ai-layoff-typology]] — five-category framework for reading AI-era layoffs as strategy signals: Hyperscaler · Visionary · Activity · Hope · Fifth Category
+- [[claude-fable-5]] — Anthropic's Mythos-class model for general release (June 2026); 2× Opus pricing; free on plans until June 22, 2026
+- [[project-glasswing]] — Anthropic's restricted program for Mythos-5 (cyber safeguards lifted); US government and cyber defenders only
+
 ## Analyses
 _None yet._- [[2026-06-07-weekly-ai-leadership-stories]] — 5 in-window stories (June 1–7, 2026): Microsoft Build 2026 Autopilots; White House AI EO; Deloitte State of AI 2026; Anthropic 8× productivity; KPMG 276K deployment (2026-06-07)
