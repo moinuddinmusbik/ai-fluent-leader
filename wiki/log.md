@@ -159,9 +159,9 @@ Append-only chronological record of all operations on this wiki.
 - **Type:** COMMENTARY
 - **Details:** Ingested 2026-06-09 video (dYrrEKXtttk). Anthropic launches Fable-5 (Mythos-class, public, free until June 22nd) and Mythos-5 (Project Glasswing, cyber/defense only). Nate's prediction confirmed: no standalone public Mythos button. Created source page and two new concepts [[claude-fable-5]] and [[project-glasswing]]; updated [[nate-herk]], [[index]], and [[log]]. Transcript partially available via LinkedIn-embedded excerpt and companion post (Firecrawl MCP timeout on full scrape).
 - **Pages touched:** [[2026-06-09-nate-herk-daily]], [[claude-fable-5]], [[project-glasswing]], [[nate-herk]], [[index]], [[log]]
-## [2026-06-10] ingest | Nate Herk Daily — I Turned Claude Fable Into The Ultimate Second Brain
+## [2026-06-10] ingest | Nate B Jones Daily — Steer or Dispatch
 - **Operation:** ingest
-- **Source:** Nate Herk Daily Implementation Playbook
-- **Type:** DEEP-DIVE
-- **Details:** Ingested 2026-06-10 video (8QQ_INxAhRs, 34:21, 143K views). Nate's most complete demonstration of his Four Cs AI OS (Context/Connections/Capabilities/Cadence) running on Claude Fable. Transcript unavailable (Firecrawl transcript panel requires JS interaction exceeding MCP timeout); playbook grounded on video description, chapters, and top community comments. Created source page and new concept [[routing-tree]]; updated [[nate-herk]], [[index]], and [[log]].
-- **Pages touched:** [[2026-06-10-nate-herk-daily]], [[routing-tree]], [[nate-herk]], [[index]], [[log]]
+- **Source:** Nate B Jones Daily Leader Briefing
+- **Type:** TAKE
+- **Details:** Ingested 2026-06-10 episode (R2-Y1Hjwx2U, 16:13). Nate reframes the Claude Code vs. Codex debate as an interface-trains-behavior argument: Claude builds the steer habit (cockpit metaphor), Codex builds the dispatch habit (operations desk metaphor). Core framework: [[steer-or-dispatch]] with a decision rule (steer when the problem shape is hard; dispatch when the assignment is writable). Key receipts: Codex 5.5 auto-review model, Claude workflow mode, background automations. Contrarian claim: "prompting is too small a word — we're doing agent loop management." Transcript available (126 segments, 0:00–16:10 via Browser Tool). Created source page, two new concepts [[steer-or-dispatch]] and [[agent-literacy]]; updated [[nate-b-jones]], [[index]], and [[log]].
+- **Pages touched:** [[2026-06-10-nate-b-jones-daily]], [[steer-or-dispatch]], [[agent-literacy]], [[nate-b-jones]], [[index]], [[log]]

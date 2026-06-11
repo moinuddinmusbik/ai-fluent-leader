@@ -31,7 +31,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-06-nate-herk-daily]] — AGI is Here. Anthropic Just Proved It.: >80% Anthropic code authored by Claude; scenario two = practical AGI already arrived (2026-06-06)
 
 - [[2026-06-09-nate-herk-daily]] — Claude Mythos is Finally Here.: Fable-5 public (free until June 22nd), Mythos-5 Project Glasswing only; COMMENTARY (2026-06-09)
-- [[2026-06-10-nate-herk-daily]] — I Turned Claude Fable Into The Ultimate Second Brain: Four Cs OS on Claude Fable; routing tree Context layer; 143K views; DEEP-DIVE (2026-06-10)
+- [[2026-06-10-nate-b-jones-daily]] — Steer or Dispatch: Claude Code trains steering, Codex trains dispatching; agent literacy as 2026 skill (2026-06-10)
 
 ## Entities
 - [[nate-b-jones]] — AI strategy creator (YouTube, Substack: natesnewsletter.substack.com)
@@ -76,8 +76,9 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[ai-layoff-typology]] — five-category framework for reading AI-era layoffs as strategy signals: Hyperscaler · Visionary · Activity · Hope · Fifth Category
 - [[claude-fable-5]] — Anthropic's Mythos-class model for general release (June 2026); 2× Opus pricing; free on plans until June 22, 2026
 - [[project-glasswing]] — Anthropic's restricted program for Mythos-5 (cyber safeguards lifted); US government and cyber defenders only
+- [[steer-or-dispatch]] — Two modes of AI agent management: steer (Claude) vs dispatch (Codex); includes failure modes and decision rule
+- [[agent-literacy]] — The skill of 2026: agent loop management — steer, dispatch, verify, demand proof
 
-
-- [[routing-tree]] — the Context layer architecture in the Four Cs AI OS; hierarchical folder structure that pre-routes Fable queries to structured knowledge
 ## Analyses
-_None yet._- [[2026-06-07-weekly-ai-leadership-stories]] — 5 in-window stories (June 1–7, 2026): Microsoft Build 2026 Autopilots; White House AI EO; Deloitte State of AI 2026; Anthropic 8× productivity; KPMG 276K deployment (2026-06-07)
+
+- [[2026-06-07-weekly-ai-leadership-stories]] — 5 in-window stories (June 1–7, 2026): Microsoft Build 2026 Autopilots; White House AI EO; Deloitte State of AI 2026; Anthropic 8× productivity; KPMG 276K deployment (2026-06-07)
