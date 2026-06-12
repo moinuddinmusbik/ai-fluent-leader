@@ -82,3 +82,4 @@ Master catalog of all wiki pages. Updated on every ingest.
 ## Analyses
 
 - [[2026-06-07-weekly-ai-leadership-stories]] — 5 in-window stories (June 1–7, 2026): Microsoft Build 2026 Autopilots; White House AI EO; Deloitte State of AI 2026; Anthropic 8× productivity; KPMG 276K deployment (2026-06-07)
+- [[2026-06-11-nate-herk-daily]] — No Nate Herk video on 2026-06-11 (IST)

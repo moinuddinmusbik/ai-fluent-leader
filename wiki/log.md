@@ -165,3 +165,9 @@ Append-only chronological record of all operations on this wiki.
 - **Type:** TAKE
 - **Details:** Ingested 2026-06-10 episode (R2-Y1Hjwx2U, 16:13). Nate reframes the Claude Code vs. Codex debate as an interface-trains-behavior argument: Claude builds the steer habit (cockpit metaphor), Codex builds the dispatch habit (operations desk metaphor). Core framework: [[steer-or-dispatch]] with a decision rule (steer when the problem shape is hard; dispatch when the assignment is writable). Key receipts: Codex 5.5 auto-review model, Claude workflow mode, background automations. Contrarian claim: "prompting is too small a word — we're doing agent loop management." Transcript available (126 segments, 0:00–16:10 via Browser Tool). Created source page, two new concepts [[steer-or-dispatch]] and [[agent-literacy]]; updated [[nate-b-jones]], [[index]], and [[log]].
 - **Pages touched:** [[2026-06-10-nate-b-jones-daily]], [[steer-or-dispatch]], [[agent-literacy]], [[nate-b-jones]], [[index]], [[log]]
+
+## [2026-06-11] ingest | Nate Herk Daily Implementation Playbook (no new video)
+- **Routine:** nate-herk-daily
+- **Type:** no-video
+- **Status:** No video published by Nate Herk on 2026-06-11 (IST). Most recent channel video was "I Turned Claude Fable Into The Ultimate Second Brain" (2026-06-10 IST), already ingested.
+- **Pages touched:** [[2026-06-11-nate-herk-daily]], [[nate-herk]], [[index]], [[log]]
