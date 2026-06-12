@@ -166,8 +166,9 @@ Append-only chronological record of all operations on this wiki.
 - **Details:** Ingested 2026-06-10 episode (R2-Y1Hjwx2U, 16:13). Nate reframes the Claude Code vs. Codex debate as an interface-trains-behavior argument: Claude builds the steer habit (cockpit metaphor), Codex builds the dispatch habit (operations desk metaphor). Core framework: [[steer-or-dispatch]] with a decision rule (steer when the problem shape is hard; dispatch when the assignment is writable). Key receipts: Codex 5.5 auto-review model, Claude workflow mode, background automations. Contrarian claim: "prompting is too small a word — we're doing agent loop management." Transcript available (126 segments, 0:00–16:10 via Browser Tool). Created source page, two new concepts [[steer-or-dispatch]] and [[agent-literacy]]; updated [[nate-b-jones]], [[index]], and [[log]].
 - **Pages touched:** [[2026-06-10-nate-b-jones-daily]], [[steer-or-dispatch]], [[agent-literacy]], [[nate-b-jones]], [[index]], [[log]]
 
-## [2026-06-11] ingest | Nate Herk Daily Implementation Playbook (no new video)
-- **Routine:** nate-herk-daily
-- **Type:** no-video
-- **Status:** No video published by Nate Herk on 2026-06-11 (IST). Most recent channel video was "I Turned Claude Fable Into The Ultimate Second Brain" (2026-06-10 IST), already ingested.
-- **Pages touched:** [[2026-06-11-nate-herk-daily]], [[nate-herk]], [[index]], [[log]]
+## [2026-06-11] ingest | Nate B Jones Daily — Apple WWDC Surface Ownership
+- **Operation:** ingest
+- **Source:** Nate B Jones Daily Leader Briefing
+- **Type:** TAKE
+- **Details:** Ingested 2026-06-11 episode (t7L6-fMpxFc, 18:34). Nate reframes Apple's WWDC AI announcements as a surface-ownership play, not a model-race play. Core argument: App Intents turns every app on 1B+ Apple devices into an OS-callable agent action, making Apple the mandatory integration broker. Google Gemini deal = stopgap model supplier; Nvidia deal = on-device inference destination. Contrarian claim: "Apple lost the AI race" is only true if you define the race as building LLMs — Nate defines it as owning the trusted surface. Key receipts: App Intents framework, multi-year Google Gemini deal, Nvidia partnership, "first AI trillionaire" framing. Transcript unavailable (YouTube API 403; Firecrawl MCP timeout). Brief grounded on description, chapters, and Tavily web scrape. Created source page and two new concepts [[apple-surface-strategy]] and [[app-intents]]; updated [[nate-b-jones]], [[index]], and [[log]].
+- **Pages touched:** [[2026-06-11-nate-b-jones-daily]], [[apple-surface-strategy]], [[app-intents]], [[nate-b-jones]], [[index]], [[log]]

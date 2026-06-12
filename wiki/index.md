@@ -33,6 +33,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-09-nate-herk-daily]] — Claude Mythos is Finally Here.: Fable-5 public (free until June 22nd), Mythos-5 Project Glasswing only; COMMENTARY (2026-06-09)
 - [[2026-06-10-nate-b-jones-daily]] — Steer or Dispatch: Claude Code trains steering, Codex trains dispatching; agent literacy as 2026 skill (2026-06-10)
 
+- [[2026-06-11-nate-b-jones-daily]] — Apple WWDC 2026 surface-ownership play; App Intents as integration monopoly; model race vs. surface race (2026-06-11)
 ## Entities
 - [[nate-b-jones]] — AI strategy creator (YouTube, Substack: natesnewsletter.substack.com)
 - [[nate-herk]] — AI automation creator (YouTube, Skool: AI Automation Society)
@@ -79,7 +80,8 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[steer-or-dispatch]] — Two modes of AI agent management: steer (Claude) vs dispatch (Codex); includes failure modes and decision rule
 - [[agent-literacy]] — The skill of 2026: agent loop management — steer, dispatch, verify, demand proof
 
+- [[apple-surface-strategy]] — AI economic power concentrates at the trusted device surface, not the model layer
+- [[app-intents]] — Apple's OS-level API that makes third-party apps agent-callable; introduced as a concept 2026-06-11
 ## Analyses
 
 - [[2026-06-07-weekly-ai-leadership-stories]] — 5 in-window stories (June 1–7, 2026): Microsoft Build 2026 Autopilots; White House AI EO; Deloitte State of AI 2026; Anthropic 8× productivity; KPMG 276K deployment (2026-06-07)
-- [[2026-06-11-nate-herk-daily]] — No Nate Herk video on 2026-06-11 (IST)
