@@ -2,7 +2,7 @@
 title: "Nate Herk"
 type: entity
 created: 2026-05-21
-updated: 2026-06-11
+updated: 2026-06-12
 tags: [creator, implementation]
 sources: []
 ---
@@ -39,9 +39,10 @@ Primary source for the implementation lane of this wiki. Tracked via the **Nate 
 - [[2026-05-31-nate-herk-daily]] — No video (2026-05-31 IST)
 - [[2026-06-02-nate-herk-daily]] — 100 Years of Artificial Intelligence Explained (2026-06-02)
 - [[2026-06-03-nate-herk-daily]] — I Tested Every Claude Code Feature, These 12 Are the Best (2026-06-03)
-- [[2026-06-06-nate-herk-daily]] — AGI is Here. Anthropic Just Proved It.: Anthropic's "When AI Builds Itself" report; >80% code authored by Claude; three-scenario AGI framework; practical AGI = scenario two already arrived (2026-06-06)
+- [[2026-06-06-nate-herk-daily]] — AGI is Here. Anthropic Just Proved It.: Anthropic's "When AI Builds Itself" report; >80% code authored by Claude; three-scenario AGI framework; practical AGI = scenario two already arrived per their own data (2026-06-06)
 - [[2026-06-07-nate-herk-daily]] — Is Claude Mythos Coming?: Mythos API leak, Project Glasswing, IPO timing hype, base case = capabilities fold into next Opus silently; public Mythos unlikely under that name (2026-06-07)
 - [[2026-06-08-nate-herk-daily]] — No video (2026-06-08 IST)
 - [[2026-06-09-nate-herk-daily]] — Claude Mythos is Finally Here.: Fable-5 (Mythos-class, public until June 22nd) vs. Mythos-5 (Project Glasswing only); agentic loop token-burn warning; IPO profitability constraint (2026-06-09)
 - [[2026-06-10-nate-herk-daily]] — I Turned Claude Fable Into The Ultimate Second Brain: Four Cs framework (Context/Connections/Capabilities/Cadence) in production on Claude Fable; routing tree architecture; DEEP-DIVE (2026-06-10)
 - [[2026-06-11-nate-herk-daily]] — No video (2026-06-11 IST)
+- [[2026-06-12-nate-herk-daily]] — From Zero to Head of AI in 1 Year (as a regular person): Ailin's story — 15-yr email dev → Head of AI in ~1 year via n8n + Claude Code; building in public; the "What have you built?" pivot question; COMMENTARY (2026-06-12)

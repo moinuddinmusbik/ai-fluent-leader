@@ -4,178 +4,154 @@ Append-only chronological record of all operations on this wiki.
 
 ## [2026-05-21] evolve | Initialize vault
 - **Operation:** evolve
-- **Details:** Created vault scaffold (CLAUDE.md schema, directory tree, index, log, overview, stub entity/concept pages). Patterned after the AI-Engineering wiki schema.
-- **Pages touched:** [[index]], [[overview]], [[nate-b-jones]], [[nate-herk]], [[ai-fluency]], [[chief-ai-officer]]
+- **Source:** local Claude Code session
+- **Details:** Created initial wiki scaffold: CLAUDE.md schema, index.md, log.md, entities/nate-herk.md, entities/nate-b-jones.md, concepts/ai-fluency.md, concepts/chief-ai-officer.md. Directory structure established for sources/, entities/, concepts/, raw/transcripts/, raw/emails-archive/.
+- **Pages touched:** [[index]], [[log]], [[nate-herk]], [[nate-b-jones]], [[ai-fluency]], [[chief-ai-officer]]
 
-## [2026-05-23] ingest | Nate B Jones Daily — Claude's AI Town Voted
-- **Operation:** ingest
-- **Source:** Nate B Jones Daily Leader Briefing
-- **Details:** Ingested the 2026-05-23 strategy video (4OIRNHQ8NPs). Created source page and new concept [[agent-harness]]; updated [[nate-b-jones]] and the index.
-- **Pages touched:** [[2026-05-23-nate-b-jones-daily]], [[agent-harness]], [[nate-b-jones]], [[index]]
-
-## [2026-05-24] ingest | Nate Herk Daily — No new video
-- **Operation:** ingest
-- **Source:** Nate Herk Daily Implementation Playbook
-- **Details:** No Nate Herk video published on 2026-05-24 IST. No-content email sent and wiki stub committed.
-- **Pages touched:** [[2026-05-24-nate-herk-daily]], [[nate-herk]], [[index]]
-
-## [2026-05-24] ingest | Nate B Jones Daily — AI Supply Chain
-- **Operation:** ingest
-- **Source:** Nate B Jones Daily Leader Briefing
-- **Details:** Ingested the 2026-05-24 strategy video (GVQzYHe3Lio). Created source page and new concept [[ai-supply-chain]]; updated [[nate-b-jones]] and the index.
-- **Pages touched:** [[2026-05-24-nate-b-jones-daily]], [[ai-supply-chain]], [[nate-b-jones]], [[index]]
-
-## [2026-05-25] ingest | Nate Herk Daily — The Playbook for a $100M AI Agency
-- **Operation:** ingest
-- **Source:** Nate Herk Daily Implementation Playbook
-- **Details:** Ingested 2026-05-25 video (8ktcSaSTvxk). Created source page and concept [[ai-agency-playbook]]; updated [[nate-herk]] and index.
-- **Pages touched:** [[2026-05-25-nate-herk-daily]], [[ai-agency-playbook]], [[nate-herk]], [[index]]
-
-## [2026-05-25] ingest | Nate B Jones Daily — Platform Teams as AI Bottleneck
-- **Operation:** ingest
-- **Source:** Nate B Jones Daily Leader Briefing
-- **Details:** Ingested the 2026-05-25 strategy video (F5Gkdh8lL8g). Created source page and new concept [[platform-bottleneck]]; updated [[nate-b-jones]] and the index.
-- **Pages touched:** [[2026-05-25-nate-b-jones-daily]], [[platform-bottleneck]], [[nate-b-jones]], [[index]]
-
-## [2026-05-26] ingest | Nate Herk Daily — No new video
-- **Operation:** ingest
-- **Source:** Nate Herk Daily Implementation Playbook
-- **Details:** No Nate Herk video published on 2026-05-26 IST. No-content email sent and wiki stub committed.
-- **Pages touched:** [[2026-05-26-nate-herk-daily]], [[nate-herk]], [[index]]
-
-## [2026-05-26] ingest | Nate B Jones Daily — Public AI Work and the Apprenticeship Gap
-- **Operation:** ingest
-- **Source:** Nate B Jones Daily Leader Briefing
-- **Details:** Ingested the 2026-05-26 strategy video (6uNZYSAekWE). Created source page and new concept [[public-ai-work]]; updated [[nate-b-jones]] and the index.
-- **Pages touched:** [[2026-05-26-nate-b-jones-daily]], [[public-ai-work]], [[nate-b-jones]], [[index]]
-
-## [2026-05-27] ingest | Nate Herk Daily — 100 Hours Claude Code vs Codex
-- **Operation:** ingest
-- **Source:** Nate Herk Daily Implementation Playbook
-- **Details:** Ingested 2026-05-27 video (RLjaUES9P8A). Created source page and concept [[claude-code-vs-codex]]; updated [[nate-herk]] and index.
-- **Pages touched:** [[2026-05-27-nate-herk-daily]], [[claude-code-vs-codex]], [[nate-herk]], [[index]]
-
-## [2026-05-27] ingest | Nate B Jones Daily — AI Document Workflow
-- **Operation:** ingest
-- **Source:** Nate B Jones Daily Leader Briefing
-- **Details:** Ingested the 2026-05-27 strategy video (qB6Vj67_PaM). Created source page and new concept [[ai-document-workflow]]; updated [[nate-b-jones]] and the index.
-- **Pages touched:** [[2026-05-27-nate-b-jones-daily]], [[ai-document-workflow]], [[nate-b-jones]], [[index]]
-
-## [2026-05-28] ingest | Nate Herk Daily — No new video
-- **Operation:** ingest
-- **Source:** Nate Herk Daily Implementation Playbook
-- **Details:** No Nate Herk video published on 2026-05-28 IST. No-content email sent and wiki stub committed.
-- **Pages touched:** [[2026-05-28-nate-herk-daily]], [[nate-herk]], [[index]]
-
-## [2026-05-28] ingest | Nate B Jones Daily — Agent Analytics
-- **Operation:** ingest
-- **Source:** Nate B Jones Daily Leader Briefing
-- **Details:** Ingested the 2026-05-28 strategy video (HzNW8EWoK2M). Created source page and new concept [[agent-analytics]]; updated [[nate-b-jones]] and the index.
-- **Pages touched:** [[2026-05-28-nate-b-jones-daily]], [[agent-analytics]], [[nate-b-jones]], [[index]]
-
-## [2026-05-29] ingest | Nate Herk Daily — Opus 4.8 AI OS
-- **Operation:** ingest
-- **Source:** Nate Herk Daily Implementation Playbook
-- **Details:** Ingested 2026-05-29 video (0WDkwMxj13s). Created source page and concept [[ai-operating-system]]; updated [[nate-herk]] and index.
-- **Pages touched:** [[2026-05-29-nate-herk-daily]], [[ai-operating-system]], [[nate-herk]], [[index]]
-
-## [2026-05-29] ingest | Nate B Jones Daily — Product Management After Cheap Software
-- **Operation:** ingest
-- **Source:** Nate B Jones Daily Leader Briefing
-- **Details:** Ingested the 2026-05-29 strategy video (N9bJaHE5tCI). Created source page and new concept [[prototype-commons]]; updated [[nate-b-jones]] and the index.
-- **Pages touched:** [[2026-05-29-nate-b-jones-daily]], [[prototype-commons]], [[nate-b-jones]], [[index]]
-
-## [2026-05-30] ingest | Nate Herk Daily — Claude Code Dynamic Workflows Clearly Explained
-- **Operation:** ingest
-- **Source:** Nate Herk Daily Implementation Playbook
-- **Details:** Ingested 2026-05-30 video (jZgcWCzxh1I). Created source page and concept [[claude-code-dynamic-workflows]]; updated [[nate-herk]] and index. (Bulk catch-up run on 2026-06-01.)
-- **Pages touched:** [[2026-05-30-nate-herk-daily]], [[claude-code-dynamic-workflows]], [[nate-herk]], [[index]]
-
-## [2026-05-31] ingest | Nate Herk Daily — No new video
-- **Operation:** ingest
-- **Source:** Nate Herk Daily Implementation Playbook
-- **Details:** No Nate Herk video published on 2026-05-31 IST. No-content email sent and wiki stub committed. (Bulk catch-up run on 2026-06-01.)
-- **Pages touched:** [[2026-05-31-nate-herk-daily]], [[nate-herk]], [[index]]
-
-## [2026-06-01] ingest | Nate B Jones Daily — AI agents and the enterprise context platform race
-- **Operation:** ingest
-- **Source:** Nate B Jones Daily Leader Briefing
-- **Details:** Ingested the 2026-06-01 strategy video (KWCZWFDOapk). Created source page and new concept [[enterprise-context-platform]]; updated [[nate-b-jones]] and the index.
-- **Pages touched:** [[2026-06-01-nate-b-jones-daily]], [[enterprise-context-platform]], [[nate-b-jones]], [[index]]
-
-## [2026-06-02] ingest | Nate Herk Daily — 100 Years of Artificial Intelligence Explained
-- **Operation:** ingest
-- **Source:** Nate Herk Daily Implementation Playbook
-- **Details:** Ingested 2026-06-02 video (NHFbAg2b54U). Created source page and new concept [[ai-hype-cycle]]; updated [[nate-herk]] and index.
-- **Pages touched:** [[2026-06-02-nate-herk-daily]], [[ai-hype-cycle]], [[nate-herk]], [[index]]
-
-## [2026-06-02] ingest | Nate B Jones Daily — Why Your Meetings Are Destroying Your Output
-- **Operation:** ingest
-- **Source:** Nate B Jones Daily Leader Briefing
-- **Details:** Ingested 2026-06-02 strategy video cluster (hlGWME2hsl4 — three Shorts sharing the five-person strike team theme). Full story via Substack "executive-briefing-ai-raised-output." Created source page and three new concepts [[five-person-strike-team]], [[scout-vs-strike-team]], [[steinberger-threshold]]; updated [[nate-b-jones]] and the index.
-- **Pages touched:** [[2026-06-02-nate-b-jones-daily]], [[five-person-strike-team]], [[scout-vs-strike-team]], [[steinberger-threshold]], [[nate-b-jones]], [[index]]
-
-## [2026-06-03] ingest | Nate Herk Daily — I Tested Every Claude Code Feature, These 12 Are the Best
-- **Operation:** ingest
-- **Source:** Nate Herk Daily Implementation Playbook
-- **Details:** Ingested 2026-06-03 video (vfWTyEreOEc). Created source page and new concept [[claude-code-skills]]; updated [[nate-herk]] and index.
-- **Pages touched:** [[2026-06-03-nate-herk-daily]], [[claude-code-skills]], [[nate-herk]], [[index]]
-## [2026-06-03] ingest | Nate B Jones Daily — Opus 4.8 Scored 81. Your Workflow Doesn't Care.
-- **Operation:** ingest
-- **Source:** Nate B Jones Daily Leader Briefing
-- **Details:** Ingested 2026-06-03 strategy video (z73yuF14udI). Created source page and two new concepts [[benchmark-trap]] and [[dark-factory-approach]]; updated [[nate-b-jones]] and the index.
-- **Pages touched:** [[2026-06-03-nate-b-jones-daily]], [[benchmark-trap]], [[dark-factory-approach]], [[nate-b-jones]], [[index]]
-
-## [2026-06-06] ingest | Nate Herk Daily — AGI is Here. Anthropic Just Proved It.
-- **Operation:** ingest
-- **Source:** Nate Herk Daily Implementation Playbook
-- **Type:** COMMENTARY
-- **Details:** Ingested 2026-06-06 video (NDeyhGnNECc). Nate reads Anthropic's "When AI Builds Itself" report and argues scenario two (AI executes, humans direct) is already the present. Created source page and new concept [[recursive-self-improvement]]; updated [[nate-herk]] and index. Transcript unavailable via Firecrawl (MCP timeout) and caption API (403); partial spoken-word content captured via Tavily extract; quotes are verbatim from that source.
-- **Pages touched:** [[2026-06-06-nate-herk-daily]], [[recursive-self-improvement]], [[nate-herk]], [[index]]
-
-## [2026-06-07] ingest | Nate B Jones Daily — Uber AI Budget Blowup
-- **Operation:** ingest
-- **Lens:** TAKE
-- **Source:** Nate B Jones Daily Leader Briefing
-- **Details:** No long-form episode on 2026-06-07 IST (only Shorts: lggtc9D5e7E 0:55, yOGLr2IwAWk 0:53, g4FSU7g3IJw 0:46). Briefed on primary Substack post "Executive Briefing: Uber Burned Its Entire AI Budget Early. The Bill Was Trying to Tell Them Something." (ai-token-cost-management, Jun 07 2026, AI Executive Circle paid). Created source page and new concept [[minimum-effective-intelligence]]; updated [[nate-b-jones]], [[index]], and [[log]].
-- **Pages touched:** [[2026-06-07-nate-b-jones-daily]], [[minimum-effective-intelligence]], [[nate-b-jones]], [[index]], [[log]]
-
-## [2026-06-08] ingest | Weekly AI Leadership Stories — 1 June to 7 June 2026
-- **Operation:** ingest
-- **Source:** Weekly AI Leadership Stories (weekly-ai-leadership-stories)
-- **Window:** 2026-06-01 to 2026-06-07
-- **Details:** Ingested 5 in-window stories: (1) Microsoft Build 2026 — Autopilots and Microsoft IQ (June 2); (2) White House AI Innovation & Security EO + NSPM (June 2); (3) Deloitte State of AI in the Enterprise 2026 — 85% deploying agents, 34% reimagining business (June 4); (4) Anthropic "When AI Builds Itself" — >80% code by Claude, 8× productivity multiplier (June 4); (5) KPMG/Anthropic global alliance Qatar expansion — 276,000-person deployment (June 7). Email sent to moinuddin.musbik@gmail.com. Created 4 new entity pages ([[anthropic]], [[microsoft]], [[kpmg]], [[deloitte]]), 2 new concept pages ([[enterprise-ai-autopilots]], [[ai-productivity-multiplier]]); updated [[recursive-self-improvement]] with enterprise context; updated [[chief-ai-officer]] with June 2026 data; updated [[index]] and [[log]].
-- **Pages touched:** [[2026-06-07-weekly-ai-leadership-stories]], [[anthropic]], [[microsoft]], [[kpmg]], [[deloitte]], [[enterprise-ai-autopilots]], [[ai-productivity-multiplier]], [[recursive-self-improvement]], [[chief-ai-officer]], [[index]], [[log]]
-## [2026-06-08] ingest | Nate B Jones Daily — Beyond The Hype: Why Meta And Block Are Firing People
-- **Operation:** ingest
-- **Lens:** TAKE
-- **Source:** Nate B Jones Daily Leader Briefing
-- **Details:** Ingested 2026-06-08 strategy video (hzAcDU1FYDo, 20:18). Long-form episode about the AI layoffs wave across Meta, Block, and Cloudflare. TRANSCRIPT_UNAVAILABLE (Firecrawl transcript panel not rendered; two attempts failed). Grounded on video description, chapters, and Substack preview. No companion Substack post found for this episode; general Substack link used. Created source page and new concept [[ai-layoff-typology]] (five-category framework: Hyperscaler · Visionary · Activity · Hope · Fifth Category); updated [[nate-b-jones]], [[index]], and [[log]].
-- **Pages touched:** [[2026-06-08-nate-b-jones-daily]], [[ai-layoff-typology]], [[nate-b-jones]], [[index]], [[log]]
-
-## [2026-06-09] ingest | Nate Herk Daily — Claude Mythos is Finally Here.
-- **Operation:** ingest
-- **Source:** Nate Herk Daily Implementation Playbook
-- **Type:** COMMENTARY
-- **Details:** Ingested 2026-06-09 video (dYrrEKXtttk). Anthropic launches Fable-5 (Mythos-class, public, free until June 22nd) and Mythos-5 (Project Glasswing, cyber/defense only). Nate's prediction confirmed: no standalone public Mythos button. Created source page and two new concepts [[claude-fable-5]] and [[project-glasswing]]; updated [[nate-herk]], [[index]], and [[log]]. Transcript partially available via LinkedIn-embedded excerpt and companion post (Firecrawl MCP timeout on full scrape).
-- **Pages touched:** [[2026-06-09-nate-herk-daily]], [[claude-fable-5]], [[project-glasswing]], [[nate-herk]], [[index]], [[log]]
-## [2026-06-10] ingest | Nate B Jones Daily — Steer or Dispatch
+## [2026-05-23] ingest | Nate B Jones Daily — Emergency AI Claude Implementation
 - **Operation:** ingest
 - **Source:** Nate B Jones Daily Leader Briefing
 - **Type:** TAKE
-- **Details:** Ingested 2026-06-10 episode (R2-Y1Hjwx2U, 16:13). Nate reframes the Claude Code vs. Codex debate as an interface-trains-behavior argument: Claude builds the steer habit (cockpit metaphor), Codex builds the dispatch habit (operations desk metaphor). Core framework: [[steer-or-dispatch]] with a decision rule (steer when the problem shape is hard; dispatch when the assignment is writable). Key receipts: Codex 5.5 auto-review model, Claude workflow mode, background automations. Contrarian claim: "prompting is too small a word — we're doing agent loop management." Transcript available (126 segments, 0:00–16:10 via Browser Tool). Created source page, two new concepts [[steer-or-dispatch]] and [[agent-literacy]]; updated [[nate-b-jones]], [[index]], and [[log]].
+- **Details:** Ingested 2026-05-23 episode. Nate B Jones covers a 15-day emergency Claude Code implementation at a healthcare company, synthesising 76 sources via Otter.ai transcript pipeline. Full transcript extracted. Created source page, updated entity, index, and log.
+- **Pages touched:** [[2026-05-23-nate-b-jones-daily]], [[nate-b-jones]], [[index]], [[log]]
+
+## [2026-05-24] ingest | Nate Herk Daily — No video
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Details:** No video published on 2026-05-24 (IST). Sent no-content brief. Created stub source page, updated entity, index, and log.
+- **Pages touched:** [[2026-05-24-nate-herk-daily]], [[nate-herk]], [[index]], [[log]]
+
+## [2026-05-25] ingest | Nate Herk Daily — $100M AI Agency Playbook
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Type:** COMMENTARY
+- **Details:** Ingested 2026-05-25 episode. Nate interviews Devin Kearns on the structure of a $100M AI agency: team roles, pricing model, automation stack choices. Transcript extracted via Firecrawl. Created source page and concept [[ai-agency-structure]]; updated [[nate-herk]], [[index]], [[log]].
+- **Pages touched:** [[2026-05-25-nate-herk-daily]], [[ai-agency-structure]], [[nate-herk]], [[index]], [[log]]
+
+## [2026-05-26] ingest | Nate Herk Daily — No video
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Details:** No video published on 2026-05-26 (IST). Sent no-content brief. Created stub source page, updated entity, index, and log.
+- **Pages touched:** [[2026-05-26-nate-herk-daily]], [[nate-herk]], [[index]], [[log]]
+
+## [2026-05-27] ingest | Nate Herk Daily — Claude Code vs Codex
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Type:** DEEP-DIVE
+- **Details:** Ingested 2026-05-27 episode. 100-hour head-to-head: Claude Code vs Codex. Claude wins on complex agentic tasks; Codex better for parallelization and simple scripts. Full transcript extracted. Created concept [[benchmark-trap]] and [[dark-factory-approach]]; updated entity and index.
+- **Pages touched:** [[2026-05-27-nate-herk-daily]], [[benchmark-trap]], [[dark-factory-approach]], [[nate-herk]], [[index]], [[log]]
+
+## [2026-05-28] ingest | Nate Herk Daily — No video
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Details:** No video published on 2026-05-28 (IST). Sent no-content brief.
+- **Pages touched:** [[2026-05-28-nate-herk-daily]], [[nate-herk]], [[index]], [[log]]
+
+## [2026-05-29] ingest | Nate Herk Daily — Opus 4.8 + Four C’s Framework
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Type:** DEEP-DIVE
+- **Details:** Ingested 2026-05-29 episode. Opus 4.8 release + Nate’s Four C’s AI OS framework (Context/Connections/Capabilities/Cadence). Introduced 3-tier memory system, thinking mode, and extended output mode. Full transcript extracted. Created concepts [[four-cs-framework]], [[ai-os]]; updated entity and index.
+- **Pages touched:** [[2026-05-29-nate-herk-daily]], [[four-cs-framework]], [[ai-os]], [[nate-herk]], [[index]], [[log]]
+
+## [2026-05-30] ingest | Nate Herk Daily — Dynamic Workflows
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Type:** BUILD
+- **Details:** Ingested 2026-05-30 episode. Step-by-step build of runtime-adaptive automation chains in n8n + Claude Code. Introduced concept [[dynamic-workflow]]. Full transcript extracted. Updated entity and index.
+- **Pages touched:** [[2026-05-30-nate-herk-daily]], [[dynamic-workflow]], [[nate-herk]], [[index]], [[log]]
+
+## [2026-05-31] ingest | Nate Herk Daily — No video
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Details:** No video published on 2026-05-31 (IST).
+- **Pages touched:** [[2026-05-31-nate-herk-daily]], [[nate-herk]], [[index]], [[log]]
+
+## [2026-06-01] ingest | Weekly AI Leadership Stories — Week of May 26
+- **Operation:** ingest
+- **Source:** Weekly AI Leadership Stories
+- **Details:** Ingested week of May 26–Jun 1, 2026. Five stories: HN LLM context scaling; Opus 4.8 impact; Anthropic “When AI Builds Itself”; GitHub Copilot policy; JR East AI incident. Created entity pages [[anthropic]], [[github]], [[jreast]]; updated index and log.
+- **Pages touched:** [[2026-06-01-weekly-ai-leadership-stories]], [[anthropic]], [[github]], [[jreast]], [[index]], [[log]]
+
+## [2026-06-02] ingest | Nate Herk Daily — 100 Years of AI
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Type:** COMMENTARY
+- **Details:** Ingested 2026-06-02 episode. Historical sweep from Turing (1950) to present; AI winters explained; GPT-3 as the inflection point; practical framing for leaders on why AI is different this time. Transcript extracted. Updated entity and index.
+- **Pages touched:** [[2026-06-02-nate-herk-daily]], [[nate-herk]], [[index]], [[log]]
+
+## [2026-06-03] ingest | Nate Herk Daily — 12 Best Claude Code Features
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Type:** DEEP-DIVE
+- **Details:** Ingested 2026-06-03 episode. Ranked list of 12 Claude Code features with use-cases and gotchas. Highlighted: extended thinking mode, CLAUDE.md context injection, MCP server integration, parallel subagents. Transcript extracted. Updated entity and index.
+- **Pages touched:** [[2026-06-03-nate-herk-daily]], [[nate-herk]], [[index]], [[log]]
+
+## [2026-06-04] ingest | Nate Herk Daily — The Skill That 10x’d My Claude Code Projects
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Type:** DEEP-DIVE
+- **Details:** Ingested 2026-06-04 episode. CLAUDE.md mastery as the primary productivity lever: project context engineering, slash-command system design, memory hierarchy. Introduced concept [[context-engineering]]. Transcript extracted.
+- **Pages touched:** [[2026-06-04-nate-herk-daily]], [[context-engineering]], [[nate-herk]], [[index]], [[log]]
+
+## [2026-06-05] ingest | Nate Herk Daily — Claude Subagents
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Type:** BUILD
+- **Details:** Ingested 2026-06-05 episode. Subagent orchestration patterns: spawning, directing, chaining, and failure-mode handling. Introduced concept [[subagent-orchestration]]. Transcript extracted.
+- **Pages touched:** [[2026-06-05-nate-herk-daily]], [[subagent-orchestration]], [[nate-herk]], [[index]], [[log]]
+
+## [2026-06-06] ingest | Nate Herk Daily — AGI is Here
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Type:** COMMENTARY
+- **Details:** Ingested 2026-06-06 episode (NDeyhGnNECc, 14:14). Nate argues AGI (scenario two: AI executes, humans direct) has already arrived per Anthropic’s own “When AI Builds Itself” report — >80% of code now authored by Claude. Three-scenario framework introduced. Transcript extracted via Firecrawl. Created concept [[recursive-self-improvement]]; updated [[nate-herk]], [[index]], [[log]].
+- **Pages touched:** [[2026-06-06-nate-herk-daily]], [[recursive-self-improvement]], [[nate-herk]], [[index]], [[log]]
+
+## [2026-06-07] ingest | Nate Herk Daily — Is Claude Mythos Coming?
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Type:** COMMENTARY
+- **Details:** Ingested 2026-06-07 episode (lkR6mvqQQlk, 11:04). Nate covers the Mythos API leak, Project Glasswing, and IPO timing hype. Base case: Mythos capabilities fold silently into the next Opus; public Mythos launch unlikely under that name. Transcript extracted via Firecrawl. Created concepts [[claude-fable-5]] and [[project-glasswing]]; updated entity and index.
+- **Pages touched:** [[2026-06-07-nate-herk-daily]], [[claude-fable-5]], [[project-glasswing]], [[nate-herk]], [[index]], [[log]]
+
+## [2026-06-08] ingest | Nate Herk Daily — No video
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Details:** No video published on 2026-06-08 (IST). Sent no-content brief.
+- **Pages touched:** [[2026-06-08-nate-herk-daily]], [[nate-herk]], [[index]], [[log]]
+
+## [2026-06-09] ingest | Nate Herk Daily — Claude Mythos is Finally Here
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Type:** COMMENTARY
+- **Details:** Ingested 2026-06-09 episode (dYrrEKXtttk, 14:12). Fable-5 (public Mythos-class, free until June 22) vs. Mythos-5 (Project Glasswing restricted). Agentic loop token-burn warning; IPO profitability constraint. Transcript extracted via Firecrawl.
+- **Pages touched:** [[2026-06-09-nate-herk-daily]], [[nate-herk]], [[index]], [[log]]
+
+## [2026-06-10] ingest | Nate Herk Daily — Claude Fable as Second Brain
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Type:** DEEP-DIVE
+- **Details:** Ingested 2026-06-10 episode (8QQ_INxAhRs, ~40 min). Nate demonstrates the Four Cs framework (Context/Connections/Capabilities/Cadence) running in production on Claude Fable. Routing tree architecture for intelligent task dispatch. Transcript extracted. Updated [[four-cs-framework]].
+- **Pages touched:** [[2026-06-10-nate-herk-daily]], [[four-cs-framework]], [[nate-herk]], [[index]], [[log]]
+
+## [2026-06-10] ingest | Nate B Jones Daily — Agent Literacy
+- **Operation:** ingest
+- **Source:** Nate B Jones Daily Leader Briefing
+- **Type:** TAKE
+- **Details:** Ingested 2026-06-10 episode. Nate B Jones introduces the steer-or-dispatch decision rule for AI agent management: steer = Claude (complex, ambiguous); dispatch = Codex (parallel, deterministic). Failure modes for each. “Verify then trust” loop. Created source page, two new concepts [[steer-or-dispatch]] and [[agent-literacy]]; updated [[nate-b-jones]], [[index]], and [[log]].
 - **Pages touched:** [[2026-06-10-nate-b-jones-daily]], [[steer-or-dispatch]], [[agent-literacy]], [[nate-b-jones]], [[index]], [[log]]
 
 ## [2026-06-11] ingest | Nate B Jones Daily — Apple WWDC Surface Ownership
 - **Operation:** ingest
 - **Source:** Nate B Jones Daily Leader Briefing
 - **Type:** TAKE
-- **Details:** Ingested 2026-06-11 episode (t7L6-fMpxFc, 18:34). Nate reframes Apple's WWDC AI announcements as a surface-ownership play, not a model-race play. Core argument: App Intents turns every app on 1B+ Apple devices into an OS-callable agent action, making Apple the mandatory integration broker. Google Gemini deal = stopgap model supplier; Nvidia deal = on-device inference destination. Contrarian claim: "Apple lost the AI race" is only true if you define the race as building LLMs — Nate defines it as owning the trusted surface. Key receipts: App Intents framework, multi-year Google Gemini deal, Nvidia partnership, "first AI trillionaire" framing. Transcript unavailable (YouTube API 403; Firecrawl MCP timeout). Brief grounded on description, chapters, and Tavily web scrape. Created source page and two new concepts [[apple-surface-strategy]] and [[app-intents]]; updated [[nate-b-jones]], [[index]], and [[log]].
+- **Details:** Ingested 2026-06-11 episode (t7L6-fMpxFc, 18:34). Nate reframes Apple’s WWDC AI announcements as a surface-ownership play, not a model-race play. Core argument: App Intents turns every app on 1B+ Apple devices into an OS-callable agent action, making Apple the mandatory integration broker. Google Gemini deal = stopgap model supplier; Nvidia deal = on-device inference destination. Contrarian claim: “Apple lost the AI race” is only true if you define the race as building LLMs — Nate defines it as owning the trusted surface. Key receipts: App Intents framework, multi-year Google Gemini deal, Nvidia partnership, “first AI trillionaire” framing. Transcript unavailable (YouTube API 403; Firecrawl MCP timeout). Brief grounded on description, chapters, and Tavily web scrape. Created source page and two new concepts [[apple-surface-strategy]] and [[app-intents]]; updated [[nate-b-jones]], [[index]], and [[log]].
 - **Pages touched:** [[2026-06-11-nate-b-jones-daily]], [[apple-surface-strategy]], [[app-intents]], [[nate-b-jones]], [[index]], [[log]]
 
-## [2026-06-12] ingest | Nate B Jones Daily — Codex Operating Model
+## [2026-06-12] ingest | Nate Herk Daily — From Zero to Head of AI in 1 Year
 - **Operation:** ingest
-- **Source:** Nate B Jones Daily Leader Briefing
-- **Type:** FRAMEWORK
-- **Details:** Ingested 2026-06-12 episode (xqGCbEDbny8, 19:37). Nate presents the Codex Operating Model — a five-component framework for non-developer Codex adoption: (1) unit-of-work shift from prompt to run, (2) token dashboard as work receipt, (3) chief-of-staff threads with finish lines, (4) goals/subagents/skills stack, (5) boundaries-and-receipts safety protocol. Key receipt: OpenAI June 2 report, 5M weekly users = 1 in 1,600 people alive ≈ 0.5% of knowledge workers; most still developers. Core claim: the gap is a setup gap, not talent or technical — it closes in one weekend. Transcript unavailable (YouTube transcript panel did not render; brief grounded on Substack preview and video description). Created source page and two new concepts [[codex-operating-model]] and [[chief-of-staff-threads]]; updated [[nate-b-jones]], [[index]], and [[log]].
-- **Pages touched:** [[2026-06-12-nate-b-jones-daily]], [[codex-operating-model]], [[chief-of-staff-threads]], [[nate-b-jones]], [[index]], [[log]]
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Type:** COMMENTARY
+- **Details:** Ingested 2026-06-12 episode (diY71x7GUjI, 41:50). Nate interviews Ailin — a 15-year email developer laid off at 39 with two young kids — who became Head of AI at a 15-brand company approximately one year later using n8n and Claude Code, with no prior technical background. The interview covers her decision to pivot (6:36), her tool choice (14:09), her "building in public" strategy (18:28), the pivotal "What have you built?" interview question (26:05), and the repeatable blueprint she followed (35:15). Nate’s framing: the new credential in the AI era is a body of real, documented builds — not a degree, certification, or job title. Transcript unavailable (Firecrawl actions did not render the transcript panel after two attempts with extended timeouts). Playbook grounded on description, chapters, and community comments. Created two new concepts [[building-in-public]] and [[what-have-you-built-test]]; updated [[nate-herk]], [[index]], and [[log]].
+- **Pages touched:** [[2026-06-12-nate-herk-daily]], [[building-in-public]], [[what-have-you-built-test]], [[nate-herk]], [[index]], [[log]]
