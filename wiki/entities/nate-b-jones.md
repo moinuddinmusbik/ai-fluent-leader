@@ -2,9 +2,9 @@
 title: "Nate B. Jones"
 type: entity
 created: 2026-05-21
-updated: 2026-06-12
+updated: 2026-06-13
 tags: [creator, strategy]
-sources: [2026-05-23-nate-b-jones-daily.md, 2026-05-24-nate-b-jones-daily.md, 2026-05-25-nate-b-jones-daily.md, 2026-05-26-nate-b-jones-daily.md, 2026-05-27-nate-b-jones-daily.md, 2026-05-28-nate-b-jones-daily.md, 2026-05-29-nate-b-jones-daily.md, 2026-05-30-nate-b-jones-daily.md, 2026-05-31-nate-b-jones-daily.md, 2026-06-01-nate-b-jones-daily.md, 2026-06-02-nate-b-jones-daily.md, 2026-06-03-nate-b-jones-daily.md, 2026-06-06-nate-b-jones-daily.md, 2026-06-07-nate-b-jones-daily.md, 2026-06-08-nate-b-jones-daily.md, 2026-06-10-nate-b-jones-daily.md, 2026-06-11-nate-b-jones-daily.md, 2026-06-12-nate-b-jones-daily.md]
+sources: [2026-05-23-nate-b-jones-daily.md, 2026-05-24-nate-b-jones-daily.md, 2026-05-25-nate-b-jones-daily.md, 2026-05-26-nate-b-jones-daily.md, 2026-05-27-nate-b-jones-daily.md, 2026-05-28-nate-b-jones-daily.md, 2026-05-29-nate-b-jones-daily.md, 2026-05-30-nate-b-jones-daily.md, 2026-05-31-nate-b-jones-daily.md, 2026-06-01-nate-b-jones-daily.md, 2026-06-02-nate-b-jones-daily.md, 2026-06-03-nate-b-jones-daily.md, 2026-06-06-nate-b-jones-daily.md, 2026-06-07-nate-b-jones-daily.md, 2026-06-08-nate-b-jones-daily.md, 2026-06-10-nate-b-jones-daily.md, 2026-06-11-nate-b-jones-daily.md, 2026-06-12-nate-b-jones-daily.md, 2026-06-13-nate-b-jones-daily.md]
 ---
 
 # Nate B. Jones
@@ -47,8 +47,9 @@ Primary source for the strategy lane of this wiki. Tracked via the **Nate B Jone
 - [[2026-06-02-nate-b-jones-daily]] — Five-person strike team; coordination combinatorics; scout vs. strike team; the Steinberger Threshold
 - [[2026-06-03-nate-b-jones-daily]] — Opus 4.8 benchmark trap; harness beats model score; dark factory approach for knowledge workers
 - [[2026-06-06-nate-b-jones-daily]] — Organizational AI taste; rejections as institutional knowledge; recognition, articulation, and encoding; the Epic Systems model
-- [[2026-06-07-nate-b-jones-daily]] — Uber's AI budget blowup; token burn as operating-model signal; Minimum Effective Intelligence routing framework
+- [[2026-06-07-nate-b-jones-daily]] — Uber’s AI budget blowup; token burn as operating-model signal; Minimum Effective Intelligence routing framework
 - [[2026-06-08-nate-b-jones-daily]] — Layoff signal taxonomy ([[ai-layoff-typology]]); Meta CapEx trap, Block vision, Cloudflare activity distress, Hope layoffs; five-category diagnostic for AI-era restructurings
 - [[2026-06-10-nate-b-jones-daily]] — Steer or Dispatch framework; Claude Code = cockpit (steer), Codex = operations desk (dispatch); agent literacy as the skill of 2026
-- [[2026-06-11-nate-b-jones-daily]] — Apple WWDC 2026 surface-ownership play; App Intents as agent-integration monopoly on 1B+ devices; model race vs. surface race; "first AI trillionaire" bet
+- [[2026-06-11-nate-b-jones-daily]] — Apple WWDC 2026 surface-ownership play; App Intents as agent-integration monopoly on 1B+ devices; model race vs. surface race; “first AI trillionaire” bet
 - [[2026-06-12-nate-b-jones-daily]] — Codex Operating Model; five-component framework for non-developer Codex adoption; unit-of-work shift from prompt to run; chief-of-staff threads; goals/subagents/skills stack
+- [[2026-06-13-nate-b-jones-daily]] — Fable 5 forced offline by US export control directive; frontier model access is a [[ai-policy-surface|policy surface]]; three-layer analysis: jailbreak trigger, foreign-national off switch, business resolution
