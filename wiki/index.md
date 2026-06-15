@@ -23,9 +23,14 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-12-nate-herk-daily]] — From Zero to Head of AI in 1 Year (as a regular person): Ailin's career-pivot story; n8n + Claude Code from scratch; building in public; the "What have you built?" interview bar; COMMENTARY (2026-06-12)
 - [[2026-06-13-nate-b-jones-daily]] — Fable 5 forced offline by US export control directive; [[ai-policy-surface]] introduced; three-layer analysis of shutdown (2026-06-13)
 
-- [[2026-06-14-nate-herk-daily]] — No video (2026-06-14 IST)
+- [[2026-06-14-weekly-ai-leadership-stories]] — 5 in-window stories (June 8, 2026–June 14, 2026): NTT DATA + Google Cloud 500 agents; OpenAI IPO filing; Anthropic overtakes OpenAI (Ramp data); ICIMS AI hiring surge; Fable 5 export-control shutdown (2026-06-14)
+
+## Entities
+- [[ntt-data]] — global IT systems integrator; leading enterprise AI factory-model deployment via Google Cloud Gemini Enterprise Practice (June 2026)
+- [[ramp-ai-index]] — monthly enterprise AI spend tracker from Ramp; real billing data, not surveys; Anthropic at 41% US enterprise in June 2026
 
 ## Concepts
+- [[enterprise-ai-deployment]] — discipline of moving AI pilots to production at enterprise scale; as of mid-2026, includes geopolitical shutdown risk and factory-model deployment patterns
 - [[ai-fluency]] — what it means to be an AI-fluent leader
 - [[chief-ai-officer]] — the emerging role of a CAIO / Head of AI in mid-to-large organisations
 - [[ai-agency-structure]] — how $100M AI agencies organise teams, price work, and select automation stacks
@@ -57,3 +62,5 @@ Master catalog of all wiki pages. Updated on every ingest.
 ## Analyses
 
 - [[2026-06-07-weekly-ai-leadership-stories]] — 5 in-window stories (June 1–7, 2026): Microsoft Build 2026 Autopilots; White House AI EO; Deloitte State of AI 2026; Anthropic 8× productivity; KPMG 276K deployment (2026-06-07)
+
+- [[2026-06-14-weekly-ai-leadership-stories]] — 5 in-window stories (June 8, 2026–June 14, 2026): NTT DATA/Google 500 agents; OpenAI IPO filing; Anthropic overtakes OpenAI (Ramp data); ICIMS AI hiring surge; Fable 5 export-control shutdown (2026-06-14)

@@ -163,9 +163,8 @@ Append-only chronological record of all operations on this wiki.
 - **Details:** Ingested 2026-06-13 episode (b3jlsjOIOzs, 10:04). Nate's real-time take — filmed from a plane — on the US government's June 12 export control directive that forced Anthropic to pull Fable 5 and Mythos 5 offline globally within hours of a jailbreak claim against Mythos 5. Nate walks through three layers: (1) the safety trigger (jailbreak claim, not confirmed breach), (2) the "foreign national" design flaw that made surgical compliance impossible and forced a global off switch, and (3) the business reality suggesting fast resolution. His contrarian edge: this is not routine export control — the mechanism is stranger and bigger. His structural thesis: frontier model access is now a policy surface, and raw model quality is no longer the only variable. Transcript unavailable (YouTube caption API 403; Firecrawl transcript panel actions exceed the 60s MCP execution limit). Brief grounded on video description and verified news coverage (heise.de, VentureBeat, June 13 2026). Created new concept [[ai-policy-surface]]; updated [[nate-b-jones]], [[index]], and [[log]].
 - **Pages touched:** [[2026-06-13-nate-b-jones-daily]], [[ai-policy-surface]], [[nate-b-jones]], [[index]], [[log]]
 
-## [2026-06-14] ingest | Nate Herk Daily Implementation Playbook
+## [2026-06-14] ingest | Weekly AI Leadership Stories — Week of June 8, 2026
 - **Operation:** ingest
-- **Routine:** nate-herk-daily
-- **Type:** no-video
-- **Result:** No video published on 2026-06-14 (IST). UTC window 2026-06-13T18:30Z → 2026-06-14T18:30Z returned 0 matching items. Most recent prior upload was "Claude Fable 5 Made This Entire Video By Itself." (2026-06-12T20:20Z, videoId: ONmaDdOBGig).
-- **Pages touched:** [[2026-06-14-nate-herk-daily]], [[nate-herk]], [[index]], [[log]]
+- **Source:** Weekly AI Leadership Stories
+- **Details:** Ingested week of June 8, 2026–June 14, 2026. Five stories: NTT DATA + Google Cloud 500-agent enterprise partnership (June 8); OpenAI IPO confidential filing and enterprise pivot (June 9); Ramp AI Index showing Anthropic at 41% US enterprise, overtaking OpenAI (June 10); ICIMS June Workforce Report on AI hiring surge and Head-of-AI Governance formalisation (June 11); US export control directive forcing Fable 5 and Mythos 5 offline globally (June 12–13). Created entity pages [[ntt-data]] and [[ramp-ai-index]]; created concept [[enterprise-ai-deployment]]; updated [[ai-policy-surface]] and [[chief-ai-officer]] references; updated [[index]] and [[log]].
+- **Pages touched:** [[2026-06-14-weekly-ai-leadership-stories]], [[ntt-data]], [[ramp-ai-index]], [[enterprise-ai-deployment]], [[index]], [[log]]
