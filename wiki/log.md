@@ -162,3 +162,10 @@ Append-only chronological record of all operations on this wiki.
 - **Type:** TAKE
 - **Details:** Ingested 2026-06-13 episode (b3jlsjOIOzs, 10:04). Nate's real-time take — filmed from a plane — on the US government's June 12 export control directive that forced Anthropic to pull Fable 5 and Mythos 5 offline globally within hours of a jailbreak claim against Mythos 5. Nate walks through three layers: (1) the safety trigger (jailbreak claim, not confirmed breach), (2) the "foreign national" design flaw that made surgical compliance impossible and forced a global off switch, and (3) the business reality suggesting fast resolution. His contrarian edge: this is not routine export control — the mechanism is stranger and bigger. His structural thesis: frontier model access is now a policy surface, and raw model quality is no longer the only variable. Transcript unavailable (YouTube caption API 403; Firecrawl transcript panel actions exceed the 60s MCP execution limit). Brief grounded on video description and verified news coverage (heise.de, VentureBeat, June 13 2026). Created new concept [[ai-policy-surface]]; updated [[nate-b-jones]], [[index]], and [[log]].
 - **Pages touched:** [[2026-06-13-nate-b-jones-daily]], [[ai-policy-surface]], [[nate-b-jones]], [[index]], [[log]]
+
+## [2026-06-14] ingest | Nate Herk Daily Implementation Playbook
+- **Operation:** ingest
+- **Routine:** nate-herk-daily
+- **Type:** no-video
+- **Result:** No video published on 2026-06-14 (IST). UTC window 2026-06-13T18:30Z → 2026-06-14T18:30Z returned 0 matching items. Most recent prior upload was "Claude Fable 5 Made This Entire Video By Itself." (2026-06-12T20:20Z, videoId: ONmaDdOBGig).
+- **Pages touched:** [[2026-06-14-nate-herk-daily]], [[nate-herk]], [[index]], [[log]]

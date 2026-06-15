@@ -23,6 +23,8 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-12-nate-herk-daily]] — From Zero to Head of AI in 1 Year (as a regular person): Ailin's career-pivot story; n8n + Claude Code from scratch; building in public; the "What have you built?" interview bar; COMMENTARY (2026-06-12)
 - [[2026-06-13-nate-b-jones-daily]] — Fable 5 forced offline by US export control directive; [[ai-policy-surface]] introduced; three-layer analysis of shutdown (2026-06-13)
 
+- [[2026-06-14-nate-herk-daily]] — No video (2026-06-14 IST)
+
 ## Concepts
 - [[ai-fluency]] — what it means to be an AI-fluent leader
 - [[chief-ai-officer]] — the emerging role of a CAIO / Head of AI in mid-to-large organisations

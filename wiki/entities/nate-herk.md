@@ -2,7 +2,7 @@
 title: "Nate Herk"
 type: entity
 created: 2026-05-21
-updated: 2026-06-13
+updated: 2026-06-14
 tags: [creator, implementation]
 sources: []
 ---
@@ -47,3 +47,4 @@ Primary source for the implementation lane of this wiki. Tracked via the **Nate 
 - [[2026-06-11-nate-herk-daily]] — No video (2026-06-11 IST)
 - [[2026-06-12-nate-herk-daily]] — From Zero to Head of AI in 1 Year (as a regular person): Ailin's story — 15-yr email dev → Head of AI in ~1 year via n8n + Claude Code; building in public; the "What have you built?" pivot question; COMMENTARY (2026-06-12)
 - [[2026-06-13-nate-herk-daily]] — Claude Fable 5 Made This Entire Video By Itself.: One prompt → Claude Code orchestrates full YouTube video (script via voice playbook, 11 Labs audio chunks, HeyGen Avatar 5, Playwright fallback); BUILD (2026-06-13)
+- [[2026-06-14-nate-herk-daily]] — No video (2026-06-14 IST)
