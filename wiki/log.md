@@ -171,17 +171,13 @@ Append-only chronological record of all operations on this wiki.
 - **Transcript:** UNAVAILABLE (Firecrawl could not render transcript panel; brief grounded on Substack preview + video description)
 - **Pages touched:** [[2026-06-14-nate-b-jones-daily]] (sources), [[2026-06-14-nate-b-jones-daily]] (email-archive), [[nate-b-jones]] (entity updated), [[the-harness]] (new concept), [[index]], [[log]]
 - **Concept introduced:** [[the-harness]] — the company layer above the model
-## [2026-06-15] ingest | Nate B Jones Daily Leader Briefing
+
+## [2026-06-15] ingest | Nate Herk Daily Implementation Playbook
 - **Operation:** ingest
-- **Routine:** Nate B Jones Daily Leader Briefing
-- **Lens:** TAKE
-- **Source:** [Your $20 AI Plan Costs Them Thousands. That's Not The Bubble.](https://www.youtube.com/watch?v=mn4XBSBIuag) (19:25) + Substack companion https://natesnewsletter.substack.com/p/openai-ipo-own-the-harness (preview; full post paid)
-- **Note:** Transcript unavailable (YouTube browser panel timed out at MCP 60s limit); brief grounded on video description, chapters, and Substack preview.
-- **Files created/updated:**
-  - `raw/emails-archive/2026-06-15-nate-b-jones-daily.md`
-  - `wiki/sources/2026-06-15-nate-b-jones-daily.md`
-  - `wiki/concepts/buildout-vs-payback.md` (new)
-  - `wiki/concepts/narrative-correction-sorting.md` (new)
-  - `wiki/entities/nate-b-jones.md` (updated: 2026-06-15)
-  - `wiki/index.md` (appended)
-  - `wiki/log.md` (appended)
+- **Source:** YouTube UC2ojq-nuP8ceeHqiroeKhBA · 2026-06-15
+- **Type:** DEEP-DIVE
+- **Episode:** "Learn These 6 AI Skills Now (Before AI Replaces You)" · 20:15 · 35,316 views
+- **Transcript:** UNAVAILABLE (Firecrawl transcript panel actions failed on both attempts — "Element not found"; brief grounded on video description, chapter timestamps, YouTube tags, and community comments)
+- **Details:** Ingested 2026-06-15 episode (3XIGcM7VICc, 20:15). Nate breaks down six AI skills that futureproof any career: (1) become the team AI person, (2) context engineering, (3) build your own Jarvis / agents vs. workflows, (4) iteration speed, (5) taste & judgment / knowing when NOT to use AI, (6) income diversification / job stacking as unemployment insurance. Key frame: AI is leverage on existing domain expertise and judgment, not a replacement. The Excel analogy (AI literacy = 2026 Excel literacy) resonated strongly in comments. Classification: DEEP-DIVE. Created new concept [[ai-agents-vs-workflows]]; updated [[nate-herk]], [[index]], and [[log]].
+- **Pages touched:** [[2026-06-15-nate-herk-daily]] (sources), [[2026-06-15-nate-herk-daily]] (email-archive), [[nate-herk]] (entity updated), [[ai-agents-vs-workflows]] (new concept), [[index]], [[log]]
+- **Concept introduced:** [[ai-agents-vs-workflows]] — deterministic workflow vs. probabilistic agent loop distinction
