@@ -171,3 +171,17 @@ Append-only chronological record of all operations on this wiki.
 - **Transcript:** UNAVAILABLE (Firecrawl could not render transcript panel; brief grounded on Substack preview + video description)
 - **Pages touched:** [[2026-06-14-nate-b-jones-daily]] (sources), [[2026-06-14-nate-b-jones-daily]] (email-archive), [[nate-b-jones]] (entity updated), [[the-harness]] (new concept), [[index]], [[log]]
 - **Concept introduced:** [[the-harness]] — the company layer above the model
+## [2026-06-15] ingest | Nate B Jones Daily Leader Briefing
+- **Operation:** ingest
+- **Routine:** Nate B Jones Daily Leader Briefing
+- **Lens:** TAKE
+- **Source:** [Your $20 AI Plan Costs Them Thousands. That's Not The Bubble.](https://www.youtube.com/watch?v=mn4XBSBIuag) (19:25) + Substack companion https://natesnewsletter.substack.com/p/openai-ipo-own-the-harness (preview; full post paid)
+- **Note:** Transcript unavailable (YouTube browser panel timed out at MCP 60s limit); brief grounded on video description, chapters, and Substack preview.
+- **Files created/updated:**
+  - `raw/emails-archive/2026-06-15-nate-b-jones-daily.md`
+  - `wiki/sources/2026-06-15-nate-b-jones-daily.md`
+  - `wiki/concepts/buildout-vs-payback.md` (new)
+  - `wiki/concepts/narrative-correction-sorting.md` (new)
+  - `wiki/entities/nate-b-jones.md` (updated: 2026-06-15)
+  - `wiki/index.md` (appended)
+  - `wiki/log.md` (appended)

@@ -24,8 +24,11 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-13-nate-b-jones-daily]] — Fable 5 forced offline by US export control directive; [[ai-policy-surface]] introduced; three-layer analysis of shutdown (2026-06-13)
 
 - [[2026-06-14-nate-b-jones-daily]] — OpenAI IPO filing: the real story is the harness above the model, not the trillion-dollar valuation; TAKE lens (2026-06-14)
+- [[2026-06-15-nate-b-jones-daily]] — AI bubble reframe: [[buildout-vs-payback]] test; [[narrative-correction-sorting]] three phases; NVIDIA $194B physical chips vs. financial froth; harness as real scarce asset (TAKE, 2026-06-15)
 ## Concepts
 - [[the-harness]] — Nate B. Jones framework: the company layer (context, permissions, memory, standards, decision rights) that makes AI intelligence usable; introduced 2026-06-14
+- [[buildout-vs-payback]] — Nate B. Jones reframe: instead of "bubble or not?" ask "what is the payback timeline on this buildout?"; introduced 2026-06-15
+- [[narrative-correction-sorting]] — Nate B. Jones three-phase market model: Narrative → Correction → Sorting; introduced 2026-06-15
 - [[ai-fluency]] — what it means to be an AI-fluent leader
 - [[chief-ai-officer]] — the emerging role of a CAIO / Head of AI in mid-to-large organisations
 - [[ai-agency-structure]] — how $100M AI agencies organise teams, price work, and select automation stacks
