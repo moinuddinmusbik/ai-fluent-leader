@@ -2,7 +2,7 @@
 title: "Nate Herk"
 type: entity
 created: 2026-05-21
-updated: 2026-06-15
+updated: 2026-06-16
 tags: [creator, implementation]
 sources: []
 ---
@@ -49,3 +49,4 @@ Primary source for the implementation lane of this wiki. Tracked via the **Nate 
 - [[2026-06-13-nate-herk-daily]] — Claude Fable 5 Made This Entire Video By Itself.: One prompt → Claude Code orchestrates full YouTube video (script via voice playbook, 11 Labs audio chunks, HeyGen Avatar 5, Playwright fallback); BUILD (2026-06-13)
 - [[2026-06-14-nate-herk-daily]] — No video (2026-06-14 IST)
 - [[2026-06-15-nate-herk-daily]] — Learn These 6 AI Skills Now (Before AI Replaces You): six career-futureproofing skills — from becoming the team AI person through income diversification as unemployment insurance; DEEP-DIVE (2026-06-15)
+- [[2026-06-16-nate-herk-daily]] — We Might Actually Need to Stop AI: both labs ask for an AI pause right as each nears going public; timing skepticism, why they can't stop, bet on fluency not a company; COMMENTARY (2026-06-16)
