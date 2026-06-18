@@ -2,9 +2,9 @@
 title: "The Harness"
 type: concept
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-06-17
 tags: [ai-strategy, framework, nate-b-jones]
-sources: [2026-06-14-nate-b-jones-daily.md]
+sources: [2026-06-14-nate-b-jones-daily.md, 2026-06-17-nate-b-jones-daily.md]
 ---
 
 # The Harness
@@ -37,8 +37,10 @@ As AI model costs collapse (97% drops in one month are documented), value does n
 - **Two-World Thesis** (same episode): Public markets price intelligence as scarce; operating reality shows costs collapsing. Both are true simultaneously.
 - **Forward deployed engineering:** The lab practice of embedding human engineers customer by customer to install AI workflows — an implicit admission that building a harness requires human judgment.
 - **Recursive self-improvement:** At company scale, this is the iteration-speed flywheel on your harness: tight feedback loops between AI output and your judgment standards.
+- **[[agent-maintenance]]** (2026-06-17 episode): The operational discipline of keeping a harness alive over time — the seven parts of an agent (Job, Diet, Memory, Tools, Reach, Proof, Value) drift out of date the same way the harness itself must be maintained, not just built once.
 
 ## Linked Pages
 
 - [[nate-b-jones]] — introduced the framework
 - [[2026-06-14-nate-b-jones-daily]] — first appearance
+- [[2026-06-17-nate-b-jones-daily]] — extended with [[agent-maintenance]], the maintenance-focused counterpart to this framework

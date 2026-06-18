@@ -204,3 +204,12 @@ Append-only chronological record of all operations on this wiki.
 - **Type:** NONE
 - **Details:** No new Nate Herk content on 2026-06-17 (IST). Channel check (YOUTUBE_LIST_CHANNEL_VIDEOS) found no upload inside the target window [2026-06-16T18:30Z, 2026-06-17T18:30Z]. The two nearest uploads were "Every Level of a Claude Second Brain Explained" (DTCyvo6cC54, published 2026-06-17T20:52:45Z, lands in the 2026-06-18 IST window) and "We Might Actually Need to Stop AI" (CvA8-aScqio, published 2026-06-16T13:15:42Z, already ingested 2026-06-16). No Implementation Playbook was generated; sent no-content notice instead. Created source stub; updated [[nate-herk]], [[index]], and [[log]].
 - **Pages touched:** [[2026-06-17-nate-herk-daily]] (sources), [[2026-06-17-nate-herk-daily]] (email-archive), [[nate-herk]] (entity updated), [[index]], [[log]]
+
+## [2026-06-17] ingest | Nate B Jones Daily Leader Briefing
+- **Operation:** ingest
+- **Source:** YouTube UC0C-17n9iuUQPylguM1d-lQ · 2026-06-17
+- **Type:** FRAMEWORK
+- **Episode:** "Don't build more AI agents until you watch this" · BOXK2XFLA-E · 18:25
+- **Transcript:** Captured via Firecrawl in-page transcript panel scrape (143 segments, 0:00-18:19, full video coverage). Linked Substack "Full Story": https://natesnewsletter.substack.com/p/ai-agent-maintenance?r=1z4sm5 (paywalled preview fetched).
+- **Details:** Nate opens with Vercel improving its sales agent by deleting 80% of its tools, then reframes that as a maintenance story rather than a labor-replacement story. Introduces [[agent-maintenance]]: agents break in two directions (the world drifts under them, or the model inside them improves past the harness built for it), and names seven parts of the harness/workbench that go stale — job, diet, memory, tools, reach, proof, value — drawn from his Substack breakdown. Core line: "the beginner instinct is to add, the maintenance instinct is to ask what should be removed." Classified FRAMEWORK. Cross-linked the new concept to the existing [[the-harness]] framework (2026-06-14) as its maintenance-focused counterpart. Updated [[nate-b-jones]], [[the-harness]], [[index]], and [[log]].
+- **Pages touched:** [[2026-06-17-nate-b-jones-daily]] (sources), [[2026-06-17-nate-b-jones-daily]] (transcript), [[2026-06-17-nate-b-jones-daily]] (email-archive), [[agent-maintenance]] (new concept), [[the-harness]] (concept updated), [[nate-b-jones]] (entity updated), [[index]], [[log]]

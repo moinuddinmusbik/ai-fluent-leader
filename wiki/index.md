@@ -27,6 +27,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-16-nate-b-jones-daily]] — No new content: only a 1:49 WWDC Short posted, no long-form episode or matching Substack post (2026-06-16)
 - [[2026-06-16-nate-herk-daily]] — We Might Actually Need to Stop AI: Anthropic and OpenAI both call for an AI pause right as each nears going public; bet on AI fluency, not any single lab's roadmap; COMMENTARY (2026-06-16)
 - [[2026-06-17-nate-herk-daily]] — No new video: channel check found no upload inside the 2026-06-17 IST window (2026-06-17)
+- [[2026-06-17-nate-b-jones-daily]] — Vercel deleted 80% of a sales agent's tools to improve it; [[agent-maintenance]] framework for keeping [[the-harness]] healthy as models and the world change; FRAMEWORK lens (2026-06-17)
 
 ## Entities
 - [[nate-herk]] — AI automation creator; primary source for the implementation lane
@@ -65,6 +66,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[ai-productivity-multiplier]] — measurable output-per-person multiplier for AI-native teams; Anthropic benchmark: 8× same headcount
 - [[ai-layoff-typology]] — five-category framework for reading AI-era layoffs as strategy signals: Hyperscaler · Visionary · Activity · Hope · Fifth Category
 - [[ai-agents-vs-workflows]] — the distinction between deterministic node-based workflows and probabilistic agent loops; knowing which to use is Nate Herk's Skill 3 (2026-06-15)
+- [[agent-maintenance]] — Nate B. Jones framework: the seven parts of an agent harness that go stale (job, diet, memory, tools, reach, proof, value); two ways agents break (world drifts / model improves); introduced 2026-06-17
 
 ## Analyses
 
