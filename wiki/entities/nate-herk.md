@@ -2,7 +2,7 @@
 title: "Nate Herk"
 type: entity
 created: 2026-05-21
-updated: 2026-06-16
+updated: 2026-06-17
 tags: [creator, implementation]
 sources: []
 ---
@@ -50,3 +50,4 @@ Primary source for the implementation lane of this wiki. Tracked via the **Nate 
 - [[2026-06-14-nate-herk-daily]] — No video (2026-06-14 IST)
 - [[2026-06-15-nate-herk-daily]] — Learn These 6 AI Skills Now (Before AI Replaces You): six career-futureproofing skills — from becoming the team AI person through income diversification as unemployment insurance; DEEP-DIVE (2026-06-15)
 - [[2026-06-16-nate-herk-daily]] — We Might Actually Need to Stop AI: both labs ask for an AI pause right as each nears going public; timing skepticism, why they can't stop, bet on fluency not a company; COMMENTARY (2026-06-16)
+- [[2026-06-17-nate-herk-daily]] — No video (2026-06-17 IST)

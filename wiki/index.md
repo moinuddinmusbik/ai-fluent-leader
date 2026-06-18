@@ -26,6 +26,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-15-nate-herk-daily]] — Learn These 6 AI Skills Now (Before AI Replaces You): six career-futureproofing AI skills — context engineering, agents vs. workflows, iteration speed, taste & judgment, income diversification (2026-06-15)
 - [[2026-06-16-nate-b-jones-daily]] — No new content: only a 1:49 WWDC Short posted, no long-form episode or matching Substack post (2026-06-16)
 - [[2026-06-16-nate-herk-daily]] — We Might Actually Need to Stop AI: Anthropic and OpenAI both call for an AI pause right as each nears going public; bet on AI fluency, not any single lab's roadmap; COMMENTARY (2026-06-16)
+- [[2026-06-17-nate-herk-daily]] — No new video: channel check found no upload inside the 2026-06-17 IST window (2026-06-17)
 
 ## Entities
 - [[nate-herk]] — AI automation creator; primary source for the implementation lane
