@@ -2,7 +2,7 @@
 title: "Nate Herk"
 type: entity
 created: 2026-05-21
-updated: 2026-06-18
+updated: 2026-06-19
 tags: [creator, implementation]
 sources: []
 ---
@@ -52,3 +52,4 @@ Primary source for the implementation lane of this wiki. Tracked via the **Nate 
 - [[2026-06-16-nate-herk-daily]] — We Might Actually Need to Stop AI: both labs ask for an AI pause right as each nears going public; timing skepticism, why they can't stop, bet on fluency not a company; COMMENTARY (2026-06-16)
 - [[2026-06-17-nate-herk-daily]] — No video (2026-06-17 IST)
 - [[2026-06-18-nate-herk-daily]] — Every Level of a Claude Second Brain Explained: 5-level framework (Router → Wiki+Memory → Semantic Search → Knowledge Graph → Always-on Brain OS); DEEP-DIVE (2026-06-18)
+- [[2026-06-19-nate-herk-daily]] — Finally. Agent Loops Clearly Explained.: reason→act→observe→repeat loop framework, verification-first design, three real demos (thumbnail scoring, three.js plane, Abbey Road recreation); transcript unavailable; DEEP-DIVE (2026-06-19)
