@@ -30,7 +30,8 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-17-nate-b-jones-daily]] — Vercel deleted 80% of a sales agent's tools to improve it; [[agent-maintenance]] framework for keeping [[the-harness]] healthy as models and the world change; FRAMEWORK lens (2026-06-17)
 - [[2026-06-18-nate-b-jones-daily]] — No new content: only a 1:25 App Intents Short posted, no long-form episode or matching Substack post (2026-06-18)
 - [[2026-06-18-nate-herk-daily]] — Every Level of a Claude Second Brain Explained: 5-level framework (Router → Wiki+Memory → Semantic Search → Knowledge Graph → Always-on Brain OS) for structuring an AI-readable knowledge base; DEEP-DIVE (2026-06-18)
-- [[2026-06-19-nate-herk-daily]] — Finally. Agent Loops Clearly Explained.: reason→act→observe→repeat agent loop framework, verification-first "done" criteria, three real demos (thumbnail scoring, three.js plane, Abbey Road recreation); transcript unavailable; DEEP-DIVE (2026-06-19)
+
+- [[2026-06-19-nate-b-jones-daily]] — Open Skills launch: agent skills (SKILL.md, runbooks) as the second-act ownership fight after [[open-brain]]; prompt/memory/skill split; portable across Claude Code, Codex, Cursor; FRAMEWORK lens (2026-06-19)
 
 ## Entities
 - [[nate-herk]] — AI automation creator; primary source for the implementation lane
@@ -71,7 +72,9 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[ai-agents-vs-workflows]] — the distinction between deterministic node-based workflows and probabilistic agent loops; knowing which to use is Nate Herk's Skill 3 (2026-06-15)
 - [[agent-maintenance]] — Nate B. Jones framework: the seven parts of an agent harness that go stale (job, diet, memory, tools, reach, proof, value); two ways agents break (world drifts / model improves); introduced 2026-06-17
 - [[second-brain-levels]] — Nate Herk's 5-level framework for structuring an AI-readable personal/team knowledge base, from CLAUDE.md routing through autonomous always-on memory; introduced 2026-06-18
-- [[agent-loop]] — reason→act→observe→repeat cycle (ReAct pattern) an AI agent runs against a checkable "done" condition; introduced by Nate Herk 2026-06-19
+
+- [[open-skills]] — Nate B. Jones framework: agent skills (SKILL.md, runbooks, scripts, MCP configs) as portable career capital that should travel across Claude Code, Codex, and Cursor; introduced 2026-06-19
+- [[open-brain]] — Nate B. Jones's precursor framework: personal/professional memory should be yours and portable across AI tools, not trapped in one product; referenced 2026-06-19
 
 ## Analyses
 
