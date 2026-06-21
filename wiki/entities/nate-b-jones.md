@@ -2,9 +2,9 @@
 title: "Nate B. Jones"
 type: entity
 created: 2026-05-21
-updated: 2026-06-19
+updated: 2026-06-20
 tags: [creator, strategy]
-sources: [2026-05-23-nate-b-jones-daily.md, 2026-06-15-nate-b-jones-daily.md, 2026-06-14-nate-b-jones-daily.md, 2026-05-24-nate-b-jones-daily.md, 2026-05-25-nate-b-jones-daily.md, 2026-05-26-nate-b-jones-daily.md, 2026-05-27-nate-b-jones-daily.md, 2026-05-28-nate-b-jones-daily.md, 2026-05-29-nate-b-jones-daily.md, 2026-05-30-nate-b-jones-daily.md, 2026-05-31-nate-b-jones-daily.md, 2026-06-01-nate-b-jones-daily.md, 2026-06-02-nate-b-jones-daily.md, 2026-06-03-nate-b-jones-daily.md, 2026-06-06-nate-b-jones-daily.md, 2026-06-07-nate-b-jones-daily.md, 2026-06-08-nate-b-jones-daily.md, 2026-06-10-nate-b-jones-daily.md, 2026-06-11-nate-b-jones-daily.md, 2026-06-12-nate-b-jones-daily.md, 2026-06-13-nate-b-jones-daily.md, 2026-06-16-nate-b-jones-daily.md, 2026-06-17-nate-b-jones-daily.md, 2026-06-18-nate-b-jones-daily.md, 2026-06-19-nate-b-jones-daily.md]
+sources: [2026-06-20-nate-b-jones-daily.md, 2026-05-23-nate-b-jones-daily.md, 2026-06-15-nate-b-jones-daily.md, 2026-06-14-nate-b-jones-daily.md, 2026-05-24-nate-b-jones-daily.md, 2026-05-25-nate-b-jones-daily.md, 2026-05-26-nate-b-jones-daily.md, 2026-05-27-nate-b-jones-daily.md, 2026-05-28-nate-b-jones-daily.md, 2026-05-29-nate-b-jones-daily.md, 2026-05-30-nate-b-jones-daily.md, 2026-05-31-nate-b-jones-daily.md, 2026-06-01-nate-b-jones-daily.md, 2026-06-02-nate-b-jones-daily.md, 2026-06-03-nate-b-jones-daily.md, 2026-06-06-nate-b-jones-daily.md, 2026-06-07-nate-b-jones-daily.md, 2026-06-08-nate-b-jones-daily.md, 2026-06-10-nate-b-jones-daily.md, 2026-06-11-nate-b-jones-daily.md, 2026-06-12-nate-b-jones-daily.md, 2026-06-13-nate-b-jones-daily.md, 2026-06-16-nate-b-jones-daily.md, 2026-06-17-nate-b-jones-daily.md, 2026-06-18-nate-b-jones-daily.md, 2026-06-19-nate-b-jones-daily.md]
 ---
 
 # Nate B. Jones
@@ -60,3 +60,4 @@ Primary source for the strategy lane of this wiki. Tracked via the **Nate B Jone
 - [[2026-06-17-nate-b-jones-daily]] — Vercel deleted 80% of a sales agent's tools to make it better; [[agent-maintenance]] framework (job/diet/memory/tools/reach/proof/value) for keeping [[the-harness]] healthy as models and the world change (FRAMEWORK, 2026-06-17)
 - [[2026-06-18-nate-b-jones-daily]] — No new content: only a 1:25 App Intents Short posted, no long-form episode or matching Substack post
 - [[2026-06-19-nate-b-jones-daily]] — Open Skills framework launch: agent skills (SKILL.md, runbooks) as the second act of [[open-brain]]'s memory-ownership fight; prompt/memory/skill distinction; portable procedures across Claude Code, Codex, Cursor (FRAMEWORK, 2026-06-19)
+- [[2026-06-20-nate-b-jones-daily]] — Voice cloning already passes a half-watching audience; "made with AI" is five questions not one; the creator trust stack framework for disclosure + accountability (FRAMEWORK, 2026-06-20)
