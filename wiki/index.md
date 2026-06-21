@@ -32,6 +32,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-18-nate-herk-daily]] — Every Level of a Claude Second Brain Explained: 5-level framework (Router → Wiki+Memory → Semantic Search → Knowledge Graph → Always-on Brain OS) for structuring an AI-readable knowledge base; DEEP-DIVE (2026-06-18)
 
 - [[2026-06-19-nate-b-jones-daily]] — Open Skills launch: agent skills (SKILL.md, runbooks) as the second-act ownership fight after [[open-brain]]; prompt/memory/skill split; portable across Claude Code, Codex, Cursor; FRAMEWORK lens (2026-06-19)
+- [[2026-06-20-nate-herk-daily]] — No new video: channel check found no upload inside the 2026-06-20 IST window (2026-06-20)
 
 ## Entities
 - [[nate-herk]] — AI automation creator; primary source for the implementation lane
