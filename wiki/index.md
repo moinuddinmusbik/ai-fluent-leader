@@ -35,6 +35,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-20-nate-herk-daily]] — No new video: channel check found no upload inside the 2026-06-20 IST window (2026-06-20)
 - [[2026-06-20-nate-b-jones-daily]] — Voice cloning already passes a half-watching audience; "made with AI" is five questions not one; the creator trust stack framework (FRAMEWORK lens, 2026-06-20)
 - [[2026-06-21-nate-b-jones-daily]] — Every AI agent needs one named human owner, not a committee; [[agent-ownership]] framework: one-sentence ownership test, job/diet/boundaries/review loop, the Agent Owner's Card; FRAMEWORK lens (2026-06-21)
+- [[2026-06-21-weekly-ai-leadership-stories]] — 5 in-window stories (June 15–21, 2026): Samsung×OpenAI full ChatGPT Enterprise + Codex deployment; Anthropic Seoul office; IBM AI Sovereignty study; IBM governance-to-assurance; Konecta Kolibri launch (2026-06-21)
 
 ## Entities
 - [[nate-herk]] — AI automation creator; primary source for the implementation lane
@@ -43,6 +44,9 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[openai]] — AI company; creator of GPT and Codex
 - [[microsoft]] — enterprise technology company; major AI deployment partner (Azure, Copilot)
 - [[apple]] — consumer technology company; AI strategy focused on trust-surface and on-device models
+- [[ibm]] — enterprise technology company; AI governance/sovereignty research (IBM IBV) and watsonx.governance platform
+- [[samsung]] — South Korean electronics conglomerate; large-scale ChatGPT Enterprise + Codex and Claude deployments
+- [[konecta]] — global customer-experience and digital-services provider; agentic AI orchestration platform (Kolibri)
 
 ## Concepts
 - [[the-harness]] — Nate B. Jones framework: the company layer (context, permissions, memory, standards, decision rights) that makes AI intelligence usable; introduced 2026-06-14
@@ -85,3 +89,4 @@ Master catalog of all wiki pages. Updated on every ingest.
 ## Analyses
 
 - [[2026-06-07-weekly-ai-leadership-stories]] — 5 in-window stories (June 1–7, 2026): Microsoft Build 2026 Autopilots; White House AI EO; Deloitte State of AI 2026; Anthropic 8× productivity; KPMG 276K deployment (2026-06-07)
+- [[2026-06-21-weekly-ai-leadership-stories]] — 5 in-window stories (June 15–21, 2026): Samsung×OpenAI full deployment; Anthropic Seoul office; IBM AI Sovereignty study; IBM governance-to-assurance; Konecta Kolibri launch (2026-06-21)
