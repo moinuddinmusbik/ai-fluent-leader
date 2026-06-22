@@ -33,8 +33,8 @@ Master catalog of all wiki pages. Updated on every ingest.
 
 - [[2026-06-19-nate-b-jones-daily]] — Open Skills launch: agent skills (SKILL.md, runbooks) as the second-act ownership fight after [[open-brain]]; prompt/memory/skill split; portable across Claude Code, Codex, Cursor; FRAMEWORK lens (2026-06-19)
 - [[2026-06-20-nate-herk-daily]] — No new video: channel check found no upload inside the 2026-06-20 IST window (2026-06-20)
-- [[2026-06-21-nate-herk-daily]] — No new video: channel check found no upload inside the 2026-06-21 IST window (2026-06-21)
 - [[2026-06-20-nate-b-jones-daily]] — Voice cloning already passes a half-watching audience; "made with AI" is five questions not one; the creator trust stack framework (FRAMEWORK lens, 2026-06-20)
+- [[2026-06-21-nate-b-jones-daily]] — Every AI agent needs one named human owner, not a committee; [[agent-ownership]] framework: one-sentence ownership test, job/diet/boundaries/review loop, the Agent Owner's Card; FRAMEWORK lens (2026-06-21)
 
 ## Entities
 - [[nate-herk]] — AI automation creator; primary source for the implementation lane
@@ -80,6 +80,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[open-brain]] — Nate B. Jones's precursor framework: personal/professional memory should be yours and portable across AI tools, not trapped in one product; referenced 2026-06-19
 - [[made-with-ai-five-questions]] — Nate B. Jones framework: replaces the binary "is this AI?" test with a five-part breakdown of what was used, where, and who is accountable; introduced 2026-06-20
 - [[creator-trust-stack]] — Nate B. Jones framework: what keeps audience trust intact once AI tools are in the production chain — disclosure + a named accountable human owner; introduced 2026-06-20
+- [[agent-ownership]] — Nate B. Jones framework: every depended-on AI agent needs one named human owner; the one-sentence ownership test, job/diet/boundaries/review loop, and the Agent Owner's Card artifact; introduced 2026-06-21
 
 ## Analyses
 
