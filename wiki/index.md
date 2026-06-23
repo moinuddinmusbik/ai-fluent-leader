@@ -37,6 +37,8 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-21-nate-b-jones-daily]] — Every AI agent needs one named human owner, not a committee; [[agent-ownership]] framework: one-sentence ownership test, job/diet/boundaries/review loop, the Agent Owner's Card; FRAMEWORK lens (2026-06-21)
 - [[2026-06-21-weekly-ai-leadership-stories]] — 5 in-window stories (June 15–21, 2026): Samsung×OpenAI full ChatGPT Enterprise + Codex deployment; Anthropic Seoul office; IBM AI Sovereignty study; IBM governance-to-assurance; Konecta Kolibri launch (2026-06-21)
 
+- [[2026-06-22-nate-b-jones-daily]] — Google lost $2.7B in talent this week, but Anthropic has had the better month: pre-training cadence and talent retention over press-cycle scorekeeping; flags Midjourney's medical imaging push as the week's most consequential signal (TAKE, 2026-06-22)
+
 ## Entities
 - [[nate-herk]] — AI automation creator; primary source for the implementation lane
 - [[nate-b-jones]] — AI strategy creator; primary source for the strategy lane
