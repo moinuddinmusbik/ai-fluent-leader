@@ -36,8 +36,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-20-nate-b-jones-daily]] — Voice cloning already passes a half-watching audience; "made with AI" is five questions not one; the creator trust stack framework (FRAMEWORK lens, 2026-06-20)
 - [[2026-06-21-nate-b-jones-daily]] — Every AI agent needs one named human owner, not a committee; [[agent-ownership]] framework: one-sentence ownership test, job/diet/boundaries/review loop, the Agent Owner's Card; FRAMEWORK lens (2026-06-21)
 - [[2026-06-21-weekly-ai-leadership-stories]] — 5 in-window stories (June 15–21, 2026): Samsung×OpenAI full ChatGPT Enterprise + Codex deployment; Anthropic Seoul office; IBM AI Sovereignty study; IBM governance-to-assurance; Konecta Kolibri launch (2026-06-21)
-
-- [[2026-06-22-nate-b-jones-daily]] — Google lost $2.7B in talent this week, but Anthropic has had the better month: pre-training cadence and talent retention over press-cycle scorekeeping; flags Midjourney's medical imaging push as the week's most consequential signal (TAKE, 2026-06-22)
+- [[2026-06-22-nate-herk-daily]] — So You Learned Claude, Now What?: the AI consultant pivot after learning Claude — doctor vs. pharmacist framing, independent vs. in-house roads, constraint-first/KPI-second/build-third [[ai-consultant-roadmap]]; COMMENTARY (2026-06-22)
 
 ## Entities
 - [[nate-herk]] — AI automation creator; primary source for the implementation lane
@@ -87,6 +86,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[made-with-ai-five-questions]] — Nate B. Jones framework: replaces the binary "is this AI?" test with a five-part breakdown of what was used, where, and who is accountable; introduced 2026-06-20
 - [[creator-trust-stack]] — Nate B. Jones framework: what keeps audience trust intact once AI tools are in the production chain — disclosure + a named accountable human owner; introduced 2026-06-20
 - [[agent-ownership]] — Nate B. Jones framework: every depended-on AI agent needs one named human owner; the one-sentence ownership test, job/diet/boundaries/review loop, and the Agent Owner's Card artifact; introduced 2026-06-21
+- [[ai-consultant-roadmap]] — Nate Herk's framework for the next phase after learning Claude: doctor-vs-pharmacist consultant framing, independent vs. in-house roads, and the constraint-first/KPI-second/build-third audit→pilot→pattern→formalize roadmap; introduced 2026-06-22
 
 ## Analyses
 
