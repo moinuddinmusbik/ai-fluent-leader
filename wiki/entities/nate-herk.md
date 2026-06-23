@@ -2,7 +2,7 @@
 title: "Nate Herk"
 type: entity
 created: 2026-05-21
-updated: 2026-06-21
+updated: 2026-06-22
 tags: [creator, implementation]
 sources: []
 ---
@@ -55,3 +55,4 @@ Primary source for the implementation lane of this wiki. Tracked via the **Nate 
 - [[2026-06-19-nate-herk-daily]] — Finally. Agent Loops Clearly Explained.: reason→act→observe→repeat loop framework, verification-first design, three real demos (thumbnail scoring, three.js plane, Abbey Road recreation); transcript unavailable; DEEP-DIVE (2026-06-19)
 - [[2026-06-20-nate-herk-daily]] — No video (2026-06-20 IST)
 - [[2026-06-21-nate-herk-daily]] — No video (2026-06-21 IST)
+- [[2026-06-22-nate-herk-daily]] — So You Learned Claude, Now What?: the next phase after learning the tool is becoming the AI consultant — doctor-vs-pharmacist framing, independent vs. in-house roads, constraint-first/KPI-second/build-third roadmap; COMMENTARY (2026-06-22)
