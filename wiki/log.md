@@ -291,3 +291,16 @@ Append-only chronological record of all operations on this wiki.
 - **Transcript:** UNAVAILABLE (YouTube blocking; youtubetranscript.com also blocked; Firecrawl stealth timed out at MCP 60s limit)
 - **Files written:** [[2026-06-23-nate-herk-daily]] (email-archive), [[2026-06-23-nate-herk-daily]] (wiki/sources), [[nate-herk]] (entity updated)
 - **Topic:** Sakana Fugu Ultra orchestration API — 38-task benchmark vs Claude Opus 4.8; auto-routing across frontier models; verdict: latency and cost overhead don't justify switching from tuned Opus/Claude Code workflow
+
+## [2026-06-23] ingest | Nate B Jones Daily Leader Briefing — TAKE
+- **Operation:** ingest
+- **Routine:** nate-b-jones-daily
+- **Lens:** TAKE
+- **Episode:** The Doing Got Cheap. Now What? | Claude Fable 5 Changes Work
+- **Duration:** 18:12
+- **URL:** https://www.youtube.com/watch?v=2w_vwQVvFmc
+- **Substack:** https://natesnewsletter.substack.com/p/claude-fable-5-how-to-use (preview; full post paid)
+- **Transcript:** Retrieved via TAVILY_EXTRACT (full spoken text obtained; Firecrawl-YouTube timed out at MCP 60s limit)
+- **Files written:** [[2026-06-23-nate-b-jones-daily]] (raw/transcripts), [[2026-06-23-nate-b-jones-daily]] (raw/emails-archive), [[2026-06-23-nate-b-jones-daily]] (wiki/sources), [[nate-b-jones]] (entity updated), [[detailed-task-imagination]] (concept page created), wiki/index.md (updated), wiki/log.md (this entry)
+- **Topic:** Fable 5 inverts the model/human bottleneck; detailed task imagination as the successor skill to prompt engineering; model manager as the new leadership role; Stripe compressed months into days; visual quality genuinely weak; government-pulled model still worth reviewing because the capability is coming regardless
+

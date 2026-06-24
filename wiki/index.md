@@ -93,3 +93,6 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-07-weekly-ai-leadership-stories]] — 5 in-window stories (June 1–7, 2026): Microsoft Build 2026 Autopilots; White House AI EO; Deloitte State of AI 2026; Anthropic 8× productivity; KPMG 276K deployment (2026-06-07)
 - [[2026-06-21-weekly-ai-leadership-stories]] — 5 in-window stories (June 15–21, 2026): Samsung×OpenAI full deployment; Anthropic Seoul office; IBM AI Sovereignty study; IBM governance-to-assurance; Konecta Kolibri launch (2026-06-21)
 - [[2026-06-23-nate-herk-daily]] — I Battle Tested Sakana Fugu's Fable Killer: 38-task benchmark DEEP-DIVE; Fugu Ultra auto-orchestration vs Opus 4.8; verdict: not switching; speed/cost overhead real; transcript unavailable (2026-06-23)
+- [[2026-06-23-nate-b-jones-daily]] — Fable 5 inverts the bottleneck; [[detailed-task-imagination]] framework; model manager role; Stripe months→days; visual quality weak (TAKE, 2026-06-23)
+- [[detailed-task-imagination]] — seeing the whole job an AI could carry; successor to prompt engineering for big-model-class AI; introduced 2026-06-23
+
