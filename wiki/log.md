@@ -281,3 +281,13 @@ Append-only chronological record of all operations on this wiki.
 - **Pages touched:** [[2026-06-22-nate-herk-daily]] (sources), [[2026-06-22-nate-herk-daily]] (transcript), [[2026-06-22-nate-herk-daily]] (email-archive), [[nate-herk]] (entity updated), [[ai-consultant-roadmap]] (new concept), [[index]], [[log]]
 - **Concept introduced:** [[ai-consultant-roadmap]] — Nate Herk's framework for the next phase after learning Claude: doctor-vs-pharmacist consultant framing, independent vs. in-house roads, and the constraint-first/KPI-second/build-third audit→pilot→pattern→formalize roadmap
 
+## [2026-06-23] ingest | Nate Herk Daily Implementation Playbook
+- **Operation:** ingest
+- **Routine:** nate-herk-daily
+- **Video:** I Battle Tested Sakana Fugu's Fable Killer
+- **Type:** DEEP-DIVE
+- **Duration:** 12:16 · Views: 74,210 · Likes: 1,825
+- **URL:** https://www.youtube.com/watch?v=GpSqBjW6hR4
+- **Transcript:** UNAVAILABLE (YouTube blocking; youtubetranscript.com also blocked; Firecrawl stealth timed out at MCP 60s limit)
+- **Files written:** [[2026-06-23-nate-herk-daily]] (email-archive), [[2026-06-23-nate-herk-daily]] (wiki/sources), [[nate-herk]] (entity updated)
+- **Topic:** Sakana Fugu Ultra orchestration API — 38-task benchmark vs Claude Opus 4.8; auto-routing across frontier models; verdict: latency and cost overhead don't justify switching from tuned Opus/Claude Code workflow
