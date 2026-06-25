@@ -304,3 +304,13 @@ Append-only chronological record of all operations on this wiki.
 - **Files written:** [[2026-06-23-nate-b-jones-daily]] (raw/transcripts), [[2026-06-23-nate-b-jones-daily]] (raw/emails-archive), [[2026-06-23-nate-b-jones-daily]] (wiki/sources), [[nate-b-jones]] (entity updated), [[detailed-task-imagination]] (concept page created), wiki/index.md (updated), wiki/log.md (this entry)
 - **Topic:** Fable 5 inverts the model/human bottleneck; detailed task imagination as the successor skill to prompt engineering; model manager as the new leadership role; Stripe compressed months into days; visual quality genuinely weak; government-pulled model still worth reviewing because the capability is coming regardless
 
+## [2026-06-24] ingest | Nate Herk Daily Implementation Playbook — COMMENTARY
+- **Operation:** ingest
+- **Routine:** nate-herk-daily
+- **Type:** COMMENTARY
+- **Episode:** Two AI Events I Want You At This Summer
+- **Duration:** 2:36
+- **URL:** https://www.youtube.com/watch?v=S2ME69hra-k
+- **Transcript:** Unavailable (Firecrawl transcript panel not found — short announcement video); grounded on description, linked event pages, and YouTube comments
+- **Files written:** [[2026-06-24-nate-herk-daily]] (raw/emails-archive), [[2026-06-24-nate-herk-daily]] (wiki/sources), [[nate-herk]] (entity updated), [[voice-ai-as-next-interface]] (concept page created), [[monetizing-ai-automation]] (concept page created), wiki/index.md (updated), wiki/log.md (this entry)
+- **Topic:** Nate announces two AI events — AIS Live (Jul 11–12, online, from $147 GA; two-day Build+Earn structure; Tool War slot: n8n/Claude Code/Make/GHL with revenue data; Anthropic Claude 2026 session; voice AI as next client interface) and Workless (Jul 29–31, Tivat Montenegro, invite-only; 20+ practitioners including Liam Ottley, Dave Ebbelaar, Jack Roberts). Community signal: tutorial phase → revenue/peer-cohort phase.

@@ -38,6 +38,8 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-21-weekly-ai-leadership-stories]] — 5 in-window stories (June 15–21, 2026): Samsung×OpenAI full ChatGPT Enterprise + Codex deployment; Anthropic Seoul office; IBM AI Sovereignty study; IBM governance-to-assurance; Konecta Kolibri launch (2026-06-21)
 - [[2026-06-22-nate-herk-daily]] — So You Learned Claude, Now What?: the AI consultant pivot after learning Claude — doctor vs. pharmacist framing, independent vs. in-house roads, constraint-first/KPI-second/build-third [[ai-consultant-roadmap]]; COMMENTARY (2026-06-22)
 
+- [[2026-06-24-nate-herk-daily]] — Two AI Events I Want You At This Summer: AIS Live (Jul 11–12 online) + Workless summit (Jul 29–31 Montenegro); practitioner revenue data event; Tool War (n8n/Claude Code/Make/GHL); voice AI next interface signal; COMMENTARY (2026-06-24)
+
 ## Entities
 - [[nate-herk]] — AI automation creator; primary source for the implementation lane
 - [[nate-b-jones]] — AI strategy creator; primary source for the strategy lane
@@ -87,6 +89,9 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[creator-trust-stack]] — Nate B. Jones framework: what keeps audience trust intact once AI tools are in the production chain — disclosure + a named accountable human owner; introduced 2026-06-20
 - [[agent-ownership]] — Nate B. Jones framework: every depended-on AI agent needs one named human owner; the one-sentence ownership test, job/diet/boundaries/review loop, and the Agent Owner's Card artifact; introduced 2026-06-21
 - [[ai-consultant-roadmap]] — Nate Herk's framework for the next phase after learning Claude: doctor-vs-pharmacist consultant framing, independent vs. in-house roads, and the constraint-first/KPI-second/build-third audit→pilot→pattern→formalize roadmap; introduced 2026-06-22
+
+- [[voice-ai-as-next-interface]] — the emerging client interface Nate flags in AIS Live Day 1; natural-language AI heading into production client-facing systems; introduced 2026-06-24
+- [[monetizing-ai-automation]] — Nate Herk's explicit category for the revenue phase after learning the tools — niche, outreach, offer, retainer; introduced 2026-06-24
 
 ## Analyses
 

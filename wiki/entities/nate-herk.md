@@ -2,7 +2,7 @@
 title: "Nate Herk"
 type: entity
 created: 2026-05-21
-updated: 2026-06-23
+updated: 2026-06-24
 tags: [creator, implementation]
 sources: []
 ---
@@ -57,3 +57,4 @@ Primary source for the implementation lane of this wiki. Tracked via the **Nate 
 - [[2026-06-21-nate-herk-daily]] — No video (2026-06-21 IST)
 - [[2026-06-22-nate-herk-daily]] — So You Learned Claude, Now What?: the next phase after learning the tool is becoming the AI consultant — doctor-vs-pharmacist framing, independent vs. in-house roads, constraint-first/KPI-second/build-third roadmap; COMMENTARY (2026-06-22)
 - [[2026-06-23-nate-herk-daily]] — I Battle Tested Sakana Fugu's Fable Killer: 38-task benchmark of Fugu Ultra (auto-orchestration API across Opus/GPT/Gemini) vs Claude Opus 4.8 — verdict: not switching off Claude Code; latency and cost overhead don't clear the bar; DEEP-DIVE (2026-06-23)
+- [[2026-06-24-nate-herk-daily]] — Two AI Events I Want You At This Summer: AIS Live (Jul 11–12, online, $147 GA) + Workless summit (Jul 29–31, Tivat Montenegro, invite-only); community phase signal — tutorial phase → revenue/peer-cohort phase; Tool War slot (n8n/Claude Code/Make/GHL), voice AI as next interface; transcript unavailable; COMMENTARY (2026-06-24)
