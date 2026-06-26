@@ -98,4 +98,5 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-23-nate-b-jones-daily]] — Fable 5 inverts the bottleneck; [[detailed-task-imagination]] framework; model manager role; Stripe months→days; visual quality weak (TAKE, 2026-06-23)
 - [[detailed-task-imagination]] — seeing the whole job an AI could carry; successor to prompt engineering for big-model-class AI; introduced 2026-06-23
 - [[2026-06-24-nate-b-jones-daily]] — Loop of Loops FRAMEWORK brief: three-tier agent architecture; app-era integration burden diagnosis; five-questions loop design test; contrarian on autonomy maximalism; transcript unavailable (2026-06-24)
-- [[2026-06-25-nate-herk-daily]] — No video published on 2026-06-25 (IST) · nate-herk-daily
+- [[2026-06-25-nate-b-jones-daily]] — Bottleneck Migration FRAMEWORK brief; "What's Expensive Here?" inversion; Cursor receipt; Ritual Audit; "In His Words" omitted — Shorts-only day (FRAMEWORK, 2026-06-25)
+- [[bottleneck-migration]] — AI relocated the primary organizational bottleneck from execution to clarity/ambition/distribution/relationships; introduced 2026-06-25

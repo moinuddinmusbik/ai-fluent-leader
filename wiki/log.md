@@ -317,9 +317,11 @@ Append-only chronological record of all operations on this wiki.
 - **Files written:** raw/emails-archive/2026-06-24-nate-b-jones-daily.md, wiki/sources/2026-06-24-nate-b-jones-daily.md, wiki/concepts/loop-of-loops.md, wiki/entities/nate-b-jones.md (updated), wiki/index.md (updated), wiki/log.md (this entry)
 - **Topic:** The app era made humans the integration layer between tasks; the loop-of-loops framework replaces that with bounded recurring AI agents that notice cross-domain dependencies; contrarian on autonomy maximalism — stop conditions are the primary design feature, not a limitation
 
-## [2026-06-25] ingest | Nate Herk Daily Implementation Playbook — no new video
-- **Routine:** nate-herk-daily
-- **Type:** no-video
-- **Result:** No video published on 2026-06-25 IST. Most recent video ("I asked Claude Code to make me as much money as possible") fell at 01:22 IST on 2026-06-26, outside the window.
-- **Files written:** raw/emails-archive/2026-06-25-nate-herk-daily.md, wiki/sources/2026-06-25-nate-herk-daily.md, wiki/entities/nate-herk.md (updated), wiki/index.md (updated), wiki/log.md (this entry)
-
+## [2026-06-25] ingest | Nate B Jones Daily Leader Briefing — FRAMEWORK
+- **Operation:** ingest
+- **Routine:** nate-b-jones-daily
+- **Lens:** FRAMEWORK
+- **Source:** YouTube Short (0:21, videoId mWT-dBFkQdQ) — Shorts-only day; no long-form episode. Substack post: "Grab the prompt kit I use when work feels inefficient but busy + specific experiments for each bottleneck" (natesnewsletter.substack.com/p/8-habits-worth-unlearning-in-the, Jan 15 2026, paywalled; free preview used)
+- **Concept introduced:** [[bottleneck-migration]] (The "What's Expensive Here?" Inversion Model)
+- **Files written:** raw/emails-archive/2026-06-25-nate-b-jones-daily.md, wiki/sources/2026-06-25-nate-b-jones-daily.md, wiki/concepts/bottleneck-migration.md, wiki/entities/nate-b-jones.md (updated), wiki/index.md (updated), wiki/log.md (this entry)
+- **Topic:** AI relocated the organizational bottleneck from execution (cheap now) to clarity, ambition, distribution, and relationships (expensive now). Nate's "What's Expensive Here?" diagnostic maps the inversion and names the habits now obsolete: permission loops, polish-as-hiding, meetings-as-accountability-theater. Cursor $1M→$500M ARR cited as the primary receipt. Contrarian on speed: the redesign signal from AI isn't "go faster" — it's "the entire decision sequence needs to collapse."
