@@ -100,3 +100,6 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-24-nate-b-jones-daily]] — Loop of Loops FRAMEWORK brief: three-tier agent architecture; app-era integration burden diagnosis; five-questions loop design test; contrarian on autonomy maximalism; transcript unavailable (2026-06-24)
 - [[2026-06-25-nate-b-jones-daily]] — Bottleneck Migration FRAMEWORK brief; "What's Expensive Here?" inversion; Cursor receipt; Ritual Audit; "In His Words" omitted — Shorts-only day (FRAMEWORK, 2026-06-25)
 - [[bottleneck-migration]] — AI relocated the primary organizational bottleneck from execution to clarity/ambition/distribution/relationships; introduced 2026-06-25
+- [[2026-06-26-nate-b-jones-daily]] — Open Engine FRAMEWORK brief; shared task queue for multi-agent handoffs; prompt mode vs. work mode; [[open-engine]] and [[prompt-vs-work-mode]] concepts introduced (FRAMEWORK, 2026-06-26)
+- [[open-engine]] — shared task queue + seven-part task record enabling agent-to-agent handoffs without human-as-integration-layer; introduced 2026-06-26
+- [[prompt-vs-work-mode]] — prompt mode asks for answers; work mode gives agents a task record and asks for documented results; introduced 2026-06-26

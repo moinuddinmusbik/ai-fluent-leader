@@ -325,3 +325,13 @@ Append-only chronological record of all operations on this wiki.
 - **Concept introduced:** [[bottleneck-migration]] (The "What's Expensive Here?" Inversion Model)
 - **Files written:** raw/emails-archive/2026-06-25-nate-b-jones-daily.md, wiki/sources/2026-06-25-nate-b-jones-daily.md, wiki/concepts/bottleneck-migration.md, wiki/entities/nate-b-jones.md (updated), wiki/index.md (updated), wiki/log.md (this entry)
 - **Topic:** AI relocated the organizational bottleneck from execution (cheap now) to clarity, ambition, distribution, and relationships (expensive now). Nate's "What's Expensive Here?" diagnostic maps the inversion and names the habits now obsolete: permission loops, polish-as-hiding, meetings-as-accountability-theater. Cursor $1M→$500M ARR cited as the primary receipt. Contrarian on speed: the redesign signal from AI isn't "go faster" — it's "the entire decision sequence needs to collapse."
+## [2026-06-26] ingest | Nate B Jones Daily Leader Briefing — FRAMEWORK
+- **Operation:** ingest
+- **Routine:** Nate B Jones Daily Leader Briefing
+- **Lens:** FRAMEWORK
+- **Episode:** "I Was The Only Thing Connecting Claude, ChatGPT, and Codex. So I Built My Replacement." (https://www.youtube.com/watch?v=QSK4vf_ZTRA) · 22:04
+- **Substack:** https://natesnewsletter.substack.com/p/ai-agent-handoffs (preview; full post paid)
+- **Transcript:** 168 segments, 23,532 chars — extracted via Firecrawl stealth + transcript-segment-view-model parsing
+- **Concepts introduced:** [[open-engine]] (shared task queue + seven-part task record for multi-agent handoffs), [[prompt-vs-work-mode]] (prompt mode asks for answers; work mode gives agents task records and asks for documented results)
+- **Files written:** raw/transcripts/2026-06-26-nate-b-jones-daily.md, raw/emails-archive/2026-06-26-nate-b-jones-daily.md, wiki/sources/2026-06-26-nate-b-jones-daily.md, wiki/concepts/open-engine.md, wiki/concepts/prompt-vs-work-mode.md, wiki/entities/nate-b-jones.md (updated), wiki/index.md (updated), wiki/log.md (this entry)
+- **Topic:** Nate argues you are not the AI bottleneck because your agents lack capability — they are capable enough. You are the bottleneck because you are the integration layer carrying context between Claude, Codex, ChatGPT, and every other tool. Open Engine is a shared task queue + seven-part task record that replaces the human-as-hallway with a structured handoff protocol. Key receipts: personal use (content, house move, team coordination), the "friend with a newborn" agency-lead case, OpenClaw/Hermes as signals of agent runtime maturity. Contrarian on platform consolidation: the answer is not choosing one AI — it is building the coordination layer.
