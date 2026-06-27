@@ -103,3 +103,4 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-26-nate-b-jones-daily]] — Open Engine FRAMEWORK brief; shared task queue for multi-agent handoffs; prompt mode vs. work mode; [[open-engine]] and [[prompt-vs-work-mode]] concepts introduced (FRAMEWORK, 2026-06-26)
 - [[open-engine]] — shared task queue + seven-part task record enabling agent-to-agent handoffs without human-as-integration-layer; introduced 2026-06-26
 - [[prompt-vs-work-mode]] — prompt mode asks for answers; work mode gives agents a task record and asks for documented results; introduced 2026-06-26
+- [[2026-06-26-nate-herk-daily]] — BUILD · Four Claude Code upgrades (Council/Verify/Handoff/Sub-agents) to make Claude profitable, not just productive · [[nate-herk]]
