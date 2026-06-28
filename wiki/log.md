@@ -349,8 +349,17 @@ Append-only chronological record of all operations on this wiki.
   - `wiki/log.md` (appended)
 - **Transcript note:** Firecrawl transcript panel rate-limited; spoken text sourced via Tavily-indexed YouTube auto-captions.
 
-## [2026-06-27] ingest | Nate Herk Daily Implementation Playbook (no new video)
+## [2026-06-27] ingest | Nate B Jones Daily Leader Briefing
 - **Operation:** ingest
-- **Source:** Nate Herk Daily Implementation Playbook
-- **Details:** No video published by @nateherk on 2026-06-27 (IST). IST window checked: [2026-06-26T18:30:00Z, 2026-06-27T18:30:00Z]. Top 10 channel videos scanned; none matched.
-- **Pages touched:** [[2026-06-27-nate-herk-daily]], [[nate-herk]]
+- **Routine:** nate-b-jones-daily
+- **Lens:** FRAMEWORK
+- **Video:** This is the real AI moat — and it’s not the models. (u763aFhSeoU) — 0:25 Short (teaser only)
+- **Substack:** https://natesnewsletter.substack.com/p/ai-agent-handoffs (preview; full post paid)
+- **Transcript note:** No long-form episode published on 2026-06-27. Brief sourced from Short description + Substack free preview. TRANSCRIPT_UNAVAILABLE.
+- **Files created/updated:**
+  - `raw/emails-archive/2026-06-27-nate-b-jones-daily.md`
+  - `wiki/sources/2026-06-27-nate-b-jones-daily.md`
+  - `wiki/concepts/operational-velocity-moat.md` (created)
+  - `wiki/entities/nate-b-jones.md` (updated)
+  - `wiki/index.md` (appended)
+  - `wiki/log.md` (appended)
