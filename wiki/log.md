@@ -348,3 +348,9 @@ Append-only chronological record of all operations on this wiki.
   - `wiki/index.md` (appended)
   - `wiki/log.md` (appended)
 - **Transcript note:** Firecrawl transcript panel rate-limited; spoken text sourced via Tavily-indexed YouTube auto-captions.
+
+## [2026-06-27] ingest | Nate Herk Daily Implementation Playbook (no new video)
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Details:** No video published by @nateherk on 2026-06-27 (IST). IST window checked: [2026-06-26T18:30:00Z, 2026-06-27T18:30:00Z]. Top 10 channel videos scanned; none matched.
+- **Pages touched:** [[2026-06-27-nate-herk-daily]], [[nate-herk]]

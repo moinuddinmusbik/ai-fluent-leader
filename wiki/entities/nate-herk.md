@@ -2,7 +2,7 @@
 title: "Nate Herk"
 type: entity
 created: 2026-05-21
-updated: 2026-06-26
+updated: 2026-06-27
 tags: [creator, implementation]
 sources: []
 ---
@@ -60,3 +60,4 @@ Primary source for the implementation lane of this wiki. Tracked via the **Nate 
 - [[2026-06-24-nate-herk-daily]] — Two AI Events I Want You At This Summer: AIS Live (Jul 11–12, online, $147 GA) + Workless summit (Jul 29–31, Tivat Montenegro, invite-only); community phase signal — tutorial phase → revenue/peer-cohort phase; Tool War slot (n8n/Claude Code/Make/GHL), voice AI as next interface; transcript unavailable; COMMENTARY (2026-06-24)
 - [[2026-06-25-nate-herk-daily]] — No video (2026-06-25 IST)
 - [[2026-06-26-nate-herk-daily]] — I asked Claude Code to make me as much money as possible: four Claude Code upgrades (Council roast, Build+Verify, Session Handoff, Sub-Agent goal loop) that fix sycophancy/false-done/context-rot; BUILD
+- [[2026-06-27-nate-herk-daily]] — No video published on 2026-06-27 (IST)
