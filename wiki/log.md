@@ -363,3 +363,14 @@ Append-only chronological record of all operations on this wiki.
   - `wiki/entities/nate-b-jones.md` (updated)
   - `wiki/index.md` (appended)
   - `wiki/log.md` (appended)
+
+## [2026-06-28] ingest | Nate Herk Daily Implementation Playbook (no new video)
+- **Routine:** nate-herk-daily
+- **Type:** no-video
+- **Note:** No video published on 2026-06-28 IST. Most recent video: "I asked Claude Code to make me as much money as possible" (2026-06-25T19:52:16Z = 2026-06-26 IST).
+- **Files created/updated:**
+  - `raw/emails-archive/2026-06-28-nate-herk-daily.md`
+  - `wiki/sources/2026-06-28-nate-herk-daily.md`
+  - `wiki/entities/nate-herk.md` (updated)
+  - `wiki/index.md` (appended)
+  - `wiki/log.md` (appended)

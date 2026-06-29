@@ -106,3 +106,4 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-26-nate-herk-daily]] — BUILD · Four Claude Code upgrades (Council/Verify/Handoff/Sub-agents) to make Claude profitable, not just productive · [[nate-herk]]
 - [[2026-06-27-nate-b-jones-daily]] — Operational velocity as AI moat; Claude Cowork 10-day build; [[open-engine]] + [[operational-velocity-moat]] (FRAMEWORK, 2026-06-27)
 - [[operational-velocity-moat]] — thesis that operational velocity (observe→infer→ship speed) is a larger AI moat than model quality; introduced 2026-06-27
+- [[2026-06-28-nate-herk-daily]] — No video published on 2026-06-28 IST · [[nate-herk]]
