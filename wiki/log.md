@@ -363,19 +363,20 @@ Append-only chronological record of all operations on this wiki.
   - `wiki/entities/nate-b-jones.md` (updated)
   - `wiki/index.md` (appended)
   - `wiki/log.md` (appended)
-
-## [2026-06-29] ingest | Weekly AI Leadership Stories — June 22–28, 2026
+## [2026-06-28] ingest | Nate B Jones Daily Leader Briefing
 - **Operation:** ingest
-- **Routine:** Weekly AI Leadership Stories
-- **Window:** June 22, 2026 – June 28, 2026
-- **Theme:** AI capability is now plentiful — the bottleneck has migrated from the model layer to the executive layer
-- **Stories covered:**
-  1. WEF Summer Davos: AI leadership pipeline crisis (entry-level erosion, 56% wage premium for AI fluency)
-  2. White House Presidential Order on AI Innovation & Security ($2.7T commitment, June 25, 2026)
-  3. TechCrunch: Enterprise AI governance crunch + Hang Ten Systems $32M seed (Vishal Sikka, June 22–24)
-  4. McKinsey State of Organizations 2026 (86% unprepared for agentic AI; trailblazers 2× more likely to scale)
-  5. Deloitte "From Ambition to Activation" (66% have productivity gains; activation gap; 44% employee trust deficit)
-- **Through-line:** Capability gap closing; organizational leadership gap widening; the 12% who redesigned operating models capture disproportionate AI value
-- **Concepts introduced:** [[activation-gap]], [[ai-leadership-pipeline-risk]]
-- **Entities introduced:** [[hang-ten-systems]], [[wef]], [[mckinsey]], [[deloitte]]
-- **Files written:** raw/emails-archive/2026-06-28-weekly-ai-leadership-stories.md, wiki/sources/2026-06-28-weekly-ai-leadership-stories.md, wiki/entities/hang-ten-systems.md, wiki/entities/wef.md, wiki/entities/mckinsey.md, wiki/entities/deloitte.md, wiki/concepts/activation-gap.md, wiki/concepts/ai-leadership-pipeline-risk.md, wiki/index.md (updated), wiki/log.md (this entry)
+- **Routine:** nate-b-jones-daily
+- **Lens:** TAKE
+- **Video:** GLM 5.2 Is Free And Beats Claude On Most Work. So Why Can't Companies Switch? (Zp8lr6IzUnQ) — 17:36
+- **Substack:** https://natesnewsletter.substack.com/p/glm-5-2-context-lock-in (preview; full post paid)
+- **Transcript note:** Full transcript sourced via Tavily extract (Firecrawl action-based scrape exceeded MCP 60s timeout; Tavily rendered full auto-captions successfully).
+- **Files created/updated:**
+  - `raw/transcripts/2026-06-28-nate-b-jones-daily.md` (full transcript)
+  - `raw/emails-archive/2026-06-28-nate-b-jones-daily.md`
+  - `wiki/sources/2026-06-28-nate-b-jones-daily.md`
+  - `wiki/concepts/context-lock-in.md` (created)
+  - `wiki/concepts/center-edge-distribution.md` (created)
+  - `wiki/concepts/ai-harness.md` (created)
+  - `wiki/entities/nate-b-jones.md` (updated)
+  - `wiki/index.md` (appended)
+  - `wiki/log.md` (appended)
