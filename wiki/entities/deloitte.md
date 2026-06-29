@@ -1,32 +1,38 @@
 ---
 title: "Deloitte"
 type: entity
-created: 2026-06-08
-updated: 2026-06-08
-tags: [big-four, professional-services, enterprise-ai, research, deloitte]
-sources: [2026-06-07-weekly-ai-leadership-stories.md]
+created: 2026-06-29
+updated: 2026-06-29
+tags: [entity, consulting, research, enterprise-ai, report]
+sources: [2026-06-28-weekly-ai-leadership-stories.md]
+routine: "Weekly AI Leadership Stories"
 ---
 
 # Deloitte
 
-One of the Big Four professional services firms. The Deloitte AI Institute publishes the annual "State of AI in the Enterprise" report, the primary benchmark survey for enterprise AI adoption and maturity.
+Big Four professional services and consulting firm; publisher of the annual State of AI in the Enterprise report, a primary benchmark for enterprise AI adoption and governance.
 
-## Deloitte AI Institute — State of AI in the Enterprise 2026
+## Key Facts
+- **Headquarters:** London, UK (global); New York, USA (US HQ)
+- **Founded:** 1845
+- **Practice areas:** Audit, consulting, financial advisory, risk advisory, tax, technology
+- **Key AI report:** State of AI in the Enterprise (annual; 3,000+ C-suite/director respondents)
 
-Published June 4, 2026. Survey of 2,000+ organizations globally.
+## AI Leadership Coverage
+Deloitte is a primary source for:
+- Enterprise AI adoption rates and productivity impact
+- AI governance quality and its correlation with business value
+- Employee trust and adoption drag data
+- AI maturity benchmarks by firm size and industry
 
-**Key findings:**
-- Worker AI access rose 50% in 2025
-- Companies with ≥40% AI projects in production set to double in six months
-- **85%** of companies deploying or customizing autonomous AI agents
-- Only **34%** truly reimagining the business (vs. layering AI on unchanged processes)
-- Twice as many leaders as last year report transformative impact
-- AI skills gap = the #1 barrier to integration
-- 58% already using physical AI; 83% view sovereign AI as strategically important
+## Notable Findings (June 2026)
+Deloitte's "From Ambition to Activation" (2026) found:
+- 66% of enterprises report measurable AI productivity gains
+- C-suite governance quality is the #1 predictor of AI ROI (more than model choice or budget)
+- Only 1% of organizations rate their AI strategy as mature
+- 44% employee trust rate — distrust is the #1 adoption drag
 
-**The defining gap (June 2026):** Deployment has become mainstream. Reimagination has not. The leaders who close this gap over the next 12–18 months will define the next performance baseline.
+Key concept introduced: [[activation-gap]]
 
-## Related
-
-- [[chief-ai-officer]] · [[ai-fluency]]
-- Source: [[2026-06-07-weekly-ai-leadership-stories]]
+## Sources
+- [[2026-06-28-weekly-ai-leadership-stories]]

@@ -38,6 +38,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-21-weekly-ai-leadership-stories]] — 5 in-window stories (June 15–21, 2026): Samsung×OpenAI full ChatGPT Enterprise + Codex deployment; Anthropic Seoul office; IBM AI Sovereignty study; IBM governance-to-assurance; Konecta Kolibri launch (2026-06-21)
 - [[2026-06-22-nate-herk-daily]] — So You Learned Claude, Now What?: the AI consultant pivot after learning Claude — doctor vs. pharmacist framing, independent vs. in-house roads, constraint-first/KPI-second/build-third [[ai-consultant-roadmap]]; COMMENTARY (2026-06-22)
 
+- [[2026-06-28-weekly-ai-leadership-stories]] — 5 in-window stories (June 22–28, 2026): WEF AI leadership pipeline crisis; White House $2.7T AI order; Enterprise AI governance crunch (TechCrunch/Hang Ten Systems); McKinsey State of Organizations 2026; Deloitte "From Ambition to Activation" (2026-06-28)
 ## Entities
 - [[nate-herk]] — AI automation creator; primary source for the implementation lane
 - [[nate-b-jones]] — AI strategy creator; primary source for the strategy lane
@@ -50,6 +51,10 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[konecta]] — global customer-experience and digital-services provider; agentic AI orchestration platform (Kolibri)
 - [[2026-06-24-nate-b-jones-daily]] — Loop of Loops framework: Prompt→Loop→Loop of Loops three-tier mental model; apps made humans the integration layer; bounded recurring agents with diet/boundaries/review; contrarian on autonomy maximalism (2026-06-24)
 
+- [[wef]] — World Economic Forum; key source for AI workforce, leadership pipeline, and Summer Davos AI strategy discussions
+- [[mckinsey]] — McKinsey & Company; leading management consultancy; publisher of State of Organizations, State of AI, and related enterprise AI reports
+- [[deloitte]] — Deloitte US; Big Four firm; publisher of annual State of AI in the Enterprise report
+- [[hang-ten-systems]] — Enterprise AI transformation firm founded June 2026 by Vishal Sikka (former Infosys CEO); $32M seed; helps enterprises build and operate AI-driven software
 ## Concepts
 - [[the-harness]] — Nate B. Jones framework: the company layer (context, permissions, memory, standards, decision rights) that makes AI intelligence usable; introduced 2026-06-14
 - [[ai-fluency]] — what it means to be an AI-fluent leader
@@ -90,6 +95,8 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[ai-consultant-roadmap]] — Nate Herk's framework for the next phase after learning Claude: doctor-vs-pharmacist consultant framing, independent vs. in-house roads, and the constraint-first/KPI-second/build-third audit→pilot→pattern→formalize roadmap; introduced 2026-06-22
 - [[loop-of-loops]] — Three-tier AI agent framework (Prompt→Loop→Loop of Loops); moves cross-domain integration burden from human memory into bounded recurring jobs with explicit diet, boundaries, and review; introduced 2026-06-24
 
+- [[activation-gap]] — Deloitte 2026 term for the gulf between enterprise AI ambition and enterprise-wide activation; governance quality is the primary differentiator
+- [[ai-leadership-pipeline-risk]] — WEF/Harvard finding that AI-driven entry-level job erosion (−80%/quarter) is structurally weakening the leadership succession pipeline
 ## Analyses
 
 - [[2026-06-07-weekly-ai-leadership-stories]] — 5 in-window stories (June 1–7, 2026): Microsoft Build 2026 Autopilots; White House AI EO; Deloitte State of AI 2026; Anthropic 8× productivity; KPMG 276K deployment (2026-06-07)
@@ -106,4 +113,5 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-26-nate-herk-daily]] — BUILD · Four Claude Code upgrades (Council/Verify/Handoff/Sub-agents) to make Claude profitable, not just productive · [[nate-herk]]
 - [[2026-06-27-nate-b-jones-daily]] — Operational velocity as AI moat; Claude Cowork 10-day build; [[open-engine]] + [[operational-velocity-moat]] (FRAMEWORK, 2026-06-27)
 - [[operational-velocity-moat]] — thesis that operational velocity (observe→infer→ship speed) is a larger AI moat than model quality; introduced 2026-06-27
-- [[2026-06-28-nate-herk-daily]] — No video published on 2026-06-28 IST · [[nate-herk]]
+
+- [[2026-06-28-weekly-ai-leadership-stories]] — 5 in-window stories (June 22–28, 2026): WEF leadership pipeline crisis; White House $2.7T AI order; Enterprise AI governance crunch; McKinsey State of Organizations 2026; Deloitte "Ambition-to-Activation" (2026-06-28)
