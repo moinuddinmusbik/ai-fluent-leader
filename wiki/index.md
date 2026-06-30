@@ -37,6 +37,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-21-nate-b-jones-daily]] — Every AI agent needs one named human owner, not a committee; [[agent-ownership]] framework: one-sentence ownership test, job/diet/boundaries/review loop, the Agent Owner's Card; FRAMEWORK lens (2026-06-21)
 - [[2026-06-21-weekly-ai-leadership-stories]] — 5 in-window stories (June 15–21, 2026): Samsung×OpenAI full ChatGPT Enterprise + Codex deployment; Anthropic Seoul office; IBM AI Sovereignty study; IBM governance-to-assurance; Konecta Kolibri launch (2026-06-21)
 - [[2026-06-22-nate-herk-daily]] — So You Learned Claude, Now What?: the AI consultant pivot after learning Claude — doctor vs. pharmacist framing, independent vs. in-house roads, constraint-first/KPI-second/build-third [[ai-consultant-roadmap]]; COMMENTARY (2026-06-22)
+- [[2026-06-29-nate-herk-daily]] — Stanford's Method Turns Claude Into a PHD Level Research Team: free Storm Research Claude Skill ports Stanford's STORM method (5 expert lenses, contradiction map, adversarial peer review) into Claude Code; benchmarked vs. native Deep Research; BUILD (2026-06-29)
 
 ## Entities
 - [[nate-herk]] — AI automation creator; primary source for the implementation lane
@@ -89,6 +90,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[agent-ownership]] — Nate B. Jones framework: every depended-on AI agent needs one named human owner; the one-sentence ownership test, job/diet/boundaries/review loop, and the Agent Owner's Card artifact; introduced 2026-06-21
 - [[ai-consultant-roadmap]] — Nate Herk's framework for the next phase after learning Claude: doctor-vs-pharmacist consultant framing, independent vs. in-house roads, and the constraint-first/KPI-second/build-third audit→pilot→pattern→formalize roadmap; introduced 2026-06-22
 - [[loop-of-loops]] — Three-tier AI agent framework (Prompt→Loop→Loop of Loops); moves cross-domain integration burden from human memory into bounded recurring jobs with explicit diet, boundaries, and review; introduced 2026-06-24
+- [[storm-research]] — Stanford's STORM research methodology ported into a free Claude Code skill by [[nate-herk]]: five-lens parallel research, contradiction mapping, synthesis, adversarial peer review; introduced 2026-06-29
 
 ## Analyses
 

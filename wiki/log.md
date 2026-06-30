@@ -380,3 +380,18 @@ Append-only chronological record of all operations on this wiki.
   - `wiki/entities/nate-b-jones.md` (updated)
   - `wiki/index.md` (appended)
   - `wiki/log.md` (appended)
+## [2026-06-29] ingest | Nate Herk Daily Implementation Playbook
+- **Operation:** ingest
+- **Routine:** nate-herk-daily
+- **Type:** BUILD
+- **Video:** Stanford's Method Turns Claude Into a PHD Level Research Team (Tj3018n5MVg)
+- **Duration:** 12:06 · Views: 23,563 · Likes: 972
+- **Files created/updated:**
+  - `raw/transcripts/2026-06-29-nate-herk-daily.md` (full transcript)
+  - `raw/emails-archive/2026-06-29-nate-herk-daily.md`
+  - `wiki/sources/2026-06-29-nate-herk-daily.md`
+  - `wiki/concepts/storm-research.md` (created)
+  - `wiki/entities/nate-herk.md` (updated)
+  - `wiki/index.md` (appended)
+  - `wiki/log.md` (appended)
+- **Transcript note:** Firecrawl transcript panel rendered successfully; YouTube's new transcript-segment-view-model DOM required a custom extraction pattern (documented routine's older segment-timestamp/segment-text pattern returned 0 matches). 96 segments, 0:00-12:00, no gaps.
