@@ -395,3 +395,16 @@ Append-only chronological record of all operations on this wiki.
   - `wiki/index.md` (appended)
   - `wiki/log.md` (appended)
 - **Transcript note:** Firecrawl transcript panel rendered successfully; YouTube's new transcript-segment-view-model DOM required a custom extraction pattern (documented routine's older segment-timestamp/segment-text pattern returned 0 matches). 96 segments, 0:00-12:00, no gaps.
+## [2026-06-29] ingest | Nate B Jones Daily Leader Briefing
+- **Operation:** ingest
+- **Routine:** nate-b-jones-daily
+- **Lens:** TAKE
+- **Video:** The Real Story Behind the Government GPT 5.6 Freeze. (H9oNA5IyrXA) — 17:14 — Views: 31,836 · Likes: 900 · Comments: 130
+- **Substack:** https://natesnewsletter.substack.com/p/ai-race-context (preview; full post paid)
+- **Transcript note:** Firecrawl rawHtml transcript-panel scrape attempted twice (per routine spec); both attempts returned 0 regex matches against the YouTube transcript-segment DOM. TRANSCRIPT_UNAVAILABLE=true. Brief grounded on video description/chapters (via YOUTUBE_GET_VIDEO_DETAILS_BATCH) + Substack free-preview text only. "In His Words" section omitted per binding quality bar (never fabricate quotes).
+- **Files created/updated:**
+  - `raw/emails-archive/2026-06-29-nate-b-jones-daily.md`
+  - `wiki/sources/2026-06-29-nate-b-jones-daily.md`
+  - `wiki/entities/nate-b-jones.md` (updated)
+  - `wiki/index.md` (appended)
+  - `wiki/log.md` (appended)
