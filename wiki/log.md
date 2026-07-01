@@ -408,15 +408,16 @@ Append-only chronological record of all operations on this wiki.
   - `wiki/entities/nate-b-jones.md` (updated)
   - `wiki/index.md` (appended)
   - `wiki/log.md` (appended)
-
-## [2026-06-30] ingest | Nate Herk Daily Implementation Playbook (no video)
-- **Routine:** nate-herk-daily
-- **Target date:** 2026-06-30 (IST)
-- **Result:** No video published on 2026-06-30 (IST). Last available: "Stanford's Method Turns Claude Into a PHD Level Research Team" (2026-06-29 IST).
-- **Email sent:** Nate Herk Daily Implementation Playbook — 2026-06-30 (no new video)
-- **Files created/updated:**
-  - `raw/emails-archive/2026-06-30-nate-herk-daily.md`
-  - `wiki/sources/2026-06-30-nate-herk-daily.md`
-  - `wiki/entities/nate-herk.md` (updated)
-  - `wiki/index.md` (appended)
-  - `wiki/log.md` (appended)
+## [2026-06-30] ingest | Nate B Jones Daily Leader Briefing
+- **Operation:** ingest
+- **Routine:** nate-b-jones-daily
+- **Lens:** TAKE
+- **Content note:** Short-only day (ZUK9fpJsHy8, 0:11). No long-form episode posted on 2026-06-30 IST. Brief sourced from Short description + Substack free preview (natesnewsletter.substack.com/p/claude-fable-5-how-to-use). No transcript archived.
+- **Topic:** Claude Fable 5 bigger-than-habits argument; detailed task imagination skill; Whole-Job Spec framework
+- **Files written:**
+  - raw/emails-archive/2026-06-30-nate-b-jones-daily.md
+  - wiki/sources/2026-06-30-nate-b-jones-daily.md
+  - wiki/entities/nate-b-jones.md (updated: 2026-06-30)
+  - wiki/concepts/whole-job-spec.md (new)
+  - wiki/index.md (appended)
+  - wiki/log.md (this entry)
