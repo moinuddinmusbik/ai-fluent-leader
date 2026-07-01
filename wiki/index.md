@@ -113,3 +113,4 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[center-edge-distribution]] — Nate's task-categorisation framework: center = common patterns, familiar shapes, inspectable outputs (GLM 5.2 tier); edge = novel/high-stakes/context-dense (frontier model tier); introduced 2026-06-28
 - [[ai-harness]] — surrounding system (prompts, memory, tool calls, routing, system prompt tuning) that makes a model productive in a specific work context; "a model is a brain in a jar without a harness"; introduced 2026-06-28
 - [[2026-06-29-nate-b-jones-daily]] — Government GPT-5.6 gating as a context-war signal, alongside Apple/Siri, Claude Tag/Slack, and Codex adoption; extends [[context-lock-in]] thread (TAKE, 2026-06-29)
+- [[2026-06-30-nate-herk-daily]] — No video on 2026-06-30 (IST) · nate-herk-daily routine
