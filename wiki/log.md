@@ -425,3 +425,17 @@ Append-only chronological record of all operations on this wiki.
 - **Type:** no-video
 - **Note:** No Nate Herk video published on 2026-07-01 IST. UTC check window: 2026-06-30T18:30Z → 2026-07-01T18:30Z. 10 most recent uploads checked.
 - **Files committed:** raw/emails-archive/2026-07-01-nate-herk-daily.md · wiki/sources/2026-07-01-nate-herk-daily.md · wiki/entities/nate-herk.md · wiki/index.md · wiki/log.md
+## [2026-07-01] ingest | Nate B Jones Daily Leader Briefing
+- **Operation:** ingest
+- **Routine:** nate-b-jones-daily
+- **Lens:** FRAMEWORK
+- **Content note:** Long-form episode (HgAQOkG_v8c, 16:17). Transcript unavailable (dynamic load, not in initial HTML); brief sourced from Substack free preview + video description. "In His Words" block omitted per binding quality bar.
+- **Topic:** Personal AI memory stack (Open Stack framework); responsible utility concept; 5-part agent loop; build-by-conversation approach; intent as the central agent problem
+- **Files written:**
+  - raw/emails-archive/2026-07-01-nate-b-jones-daily.md
+  - wiki/sources/2026-07-01-nate-b-jones-daily.md
+  - wiki/entities/nate-b-jones.md (updated: 2026-07-01)
+  - wiki/concepts/responsible-utility.md (new)
+  - wiki/concepts/5-part-agent-loop.md (new)
+  - wiki/index.md (appended)
+  - wiki/log.md (this entry)

@@ -116,3 +116,6 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-30-nate-b-jones-daily]] — Fable 5 bigger-than-habits TAKE; [[detailed-task-imagination]] + [[whole-job-spec]] nine-field spec; Short-only day, brief from Substack preview (TAKE, 2026-06-30)
 - [[whole-job-spec]] — Nate's nine-field framework for delegating a whole job to a frontier model; converts a prompt into a delegation; introduced 2026-06-30
 - [[2026-07-01-nate-herk-daily]] — No video on 2026-07-01 (nate-herk-daily).
+- [[2026-07-01-nate-b-jones-daily]] — Build Your Own AI Memory: [[open-stack]] unified framework; [[5-part-agent-loop]] (memory/method/boundary/receipt/judgment); [[responsible-utility]] introduced; "rent the intelligence, own the memory" (FRAMEWORK, 2026-07-01)
+- [[responsible-utility]] — Nate B. Jones's design goal for personal agents: useful enough to act, careful enough to know whether you authorized it; introduced 2026-07-01
+- [[5-part-agent-loop]] — The minimum structure for a trustworthy agent loop: memory, method, boundary, receipt, judgment; introduced 2026-07-01
