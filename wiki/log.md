@@ -421,3 +421,7 @@ Append-only chronological record of all operations on this wiki.
   - wiki/concepts/whole-job-spec.md (new)
   - wiki/index.md (appended)
   - wiki/log.md (this entry)
+## [2026-07-01] ingest | Nate Herk Daily Implementation Playbook
+- **Type:** no-video
+- **Note:** No Nate Herk video published on 2026-07-01 IST. UTC check window: 2026-06-30T18:30Z → 2026-07-01T18:30Z. 10 most recent uploads checked.
+- **Files committed:** raw/emails-archive/2026-07-01-nate-herk-daily.md · wiki/sources/2026-07-01-nate-herk-daily.md · wiki/entities/nate-herk.md · wiki/index.md · wiki/log.md

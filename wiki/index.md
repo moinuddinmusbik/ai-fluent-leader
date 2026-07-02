@@ -115,3 +115,4 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-06-29-nate-b-jones-daily]] — Government GPT-5.6 gating as a context-war signal, alongside Apple/Siri, Claude Tag/Slack, and Codex adoption; extends [[context-lock-in]] thread (TAKE, 2026-06-29)
 - [[2026-06-30-nate-b-jones-daily]] — Fable 5 bigger-than-habits TAKE; [[detailed-task-imagination]] + [[whole-job-spec]] nine-field spec; Short-only day, brief from Substack preview (TAKE, 2026-06-30)
 - [[whole-job-spec]] — Nate's nine-field framework for delegating a whole job to a frontier model; converts a prompt into a delegation; introduced 2026-06-30
+- [[2026-07-01-nate-herk-daily]] — No video on 2026-07-01 (nate-herk-daily).
