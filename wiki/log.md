@@ -439,3 +439,20 @@ Append-only chronological record of all operations on this wiki.
   - wiki/concepts/5-part-agent-loop.md (new)
   - wiki/index.md (appended)
   - wiki/log.md (this entry)
+
+
+## [2026-07-02] ingest | Nate Herk Daily Implementation Playbook
+- **Operation:** ingest
+- **Routine:** nate-herk-daily
+- **Type:** DEEP-DIVE
+- **Video:** How Anthropic Engineers Actually Prompt Fable 5 (https://www.youtube.com/watch?v=vcU85OrwuV0)
+- **Duration:** 10:45 · 48,696 views
+- **Transcript:** Captured via Firecrawl (354 segments, 15536 chars)
+- **Topic:** Six Fable 5 prompting habits distilled from Anthropic's official docs; effort-level matching (high/xhigh/medium/low); silent Opus 4.8 handoff triggers ("explain your reasoning" in system prompts); verification-first design (Rule 4 block); say-less-not-more principle; promotional window closes July 7th
+- **Files written:**
+  - raw/transcripts/2026-07-02-nate-herk-daily.md
+  - raw/emails-archive/2026-07-02-nate-herk-daily.md
+  - wiki/sources/2026-07-02-nate-herk-daily.md
+  - wiki/entities/nate-herk.md (updated: 2026-07-02)
+  - wiki/index.md (appended)
+  - wiki/log.md (this entry)

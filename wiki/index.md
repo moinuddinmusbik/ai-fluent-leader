@@ -119,3 +119,5 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-07-01-nate-b-jones-daily]] — Build Your Own AI Memory: [[open-stack]] unified framework; [[5-part-agent-loop]] (memory/method/boundary/receipt/judgment); [[responsible-utility]] introduced; "rent the intelligence, own the memory" (FRAMEWORK, 2026-07-01)
 - [[responsible-utility]] — Nate B. Jones's design goal for personal agents: useful enough to act, careful enough to know whether you authorized it; introduced 2026-07-01
 - [[5-part-agent-loop]] — The minimum structure for a trustworthy agent loop: memory, method, boundary, receipt, judgment; introduced 2026-07-01
+
+- [[2026-07-02-nate-herk-daily]] — Six Fable 5 prompting habits (from Anthropic's own docs): give-the-why, negative-prompt, let-it-act, make-it-prove-it, stop-showing-reasoning, say-less; effort-level matching; silent Opus handoff mechanics; promotional window closes July 7th; DEEP-DIVE (2026-07-02)
