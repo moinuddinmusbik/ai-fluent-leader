@@ -3,121 +3,54 @@
 Master catalog of all wiki pages. Updated on every ingest.
 
 ## Sources
-- [[2026-05-23-nate-b-jones-daily]] — Emergency AI's 15-day Claude implementation: Otter.ai transcript pipeline + 76-source synthesis + Substack post framing (2026-05-23)
-- [[2026-05-25-nate-herk-daily]] — The Playbook for a $100M AI Agency ft. Devin Kearns: agency structure, team roles, pricing model, automation stack (2026-05-25)
-- [[2026-05-27-nate-herk-daily]] — 100 hours Claude Code vs Codex: Claude wins on complex agentic tasks; Codex better for simple parallel jobs (2026-05-27)
-- [[2026-05-29-nate-herk-daily]] — Opus 4.8 release + Four C's AI OS framework: Context/Connections/Capabilities/Cadence; memory tiers; agentic hooks (2026-05-29)
-- [[2026-05-30-nate-herk-daily]] — Dynamic workflows: runtime-adaptive tool chains that select the right agent or model per task at execution time (2026-05-30)
-- [[2026-06-02-nate-herk-daily]] — 100 Years of Artificial Intelligence: historical arc from 1956 Dartmouth to 2026 agentic systems; pattern recognition for practitioners (2026-06-02)
-- [[2026-06-03-nate-herk-daily]] — Claude Code feature tier list: Skills ranked #1; subagents, hooks, MCP in A-tier; Projects, memory, computer use in B-tier (2026-06-03)
-- [[2026-06-05-nate-b-jones-daily]] — Anthropic "When AI Builds Itself" report: >80% code written by Claude; three AGI scenarios; AGI = practical definition already here (2026-06-05)
-- [[2026-06-06-nate-herk-daily]] — AGI is Here. Anthropic Just Proved It.: Anthropic's "When AI Builds Itself" report; >80% code authored by Claude; three-scenario AGI framework (2026-06-06)
-- [[2026-06-07-nate-herk-daily]] — Is Claude Mythos Coming?: Mythos API leak, Project Glasswing, IPO timing hype; base case = capabilities fold into Opus silently (2026-06-07)
-- [[2026-06-07-weekly-ai-leadership-stories]] — 5 in-window stories (June 1–7, 2026): Microsoft Build 2026 Autopilots; White House AI EO; Deloitte State of AI 2026; Anthropic 8× productivity; KPMG 276K deployment (2026-06-07)
-- [[2026-06-08-nate-b-jones-daily]] — Microsoft Build 2026: AI Autopilots, Entra identity for agents, Apple Surface strategy; TAKE lens (2026-06-08)
-- [[2026-06-09-nate-herk-daily]] — Claude Mythos is Finally Here.: Fable-5 (Mythos-class, public until June 22nd) vs. Mythos-5 (Project Glasswing only); agentic loop warnings (2026-06-09)
-- [[2026-06-10-nate-herk-daily]] — I Turned Claude Fable Into The Ultimate Second Brain: Four Cs framework in production on Fable; routing tree architecture; DEEP-DIVE (2026-06-10)
-- [[2026-06-11-nate-b-jones-daily]] — Apple WWDC 2026 Highlights: App Intents OS-level API; surface strategy; Apple positions as the trust layer over frontier models; TAKE lens (2026-06-11)
-- [[2026-06-12-nate-herk-daily]] — From Zero to Head of AI in 1 Year: Ailin's story — email dev to Head of AI via n8n + Claude Code + building in public; COMMENTARY (2026-06-12)
-- [[2026-06-12-nate-b-jones-daily]] — Anthropic Fable 5 shutdown by US government: export control directive, foreign national design flaw, policy surface as new variable; TAKE lens (2026-06-12 pm)
-- [[2026-06-13-nate-herk-daily]] — Claude Fable 5 Made This Entire Video By Itself.: One-prompt orchestrated YouTube video (voice, avatar, graphics, edit); BUILD (2026-06-13)
-- [[2026-06-13-nate-b-jones-daily]] — US government Fable 5 shutdown analysis (filmed on a plane); jailbreak claim, "foreign national" design flaw, business-reality case for fast resolution; TAKE (2026-06-13)
-- [[2026-06-14-nate-b-jones-daily]] — OpenAI IPO filing: the real story is the harness above the model, not the trillion-dollar valuation; TAKE lens (2026-06-14)
-- [[2026-06-15-nate-herk-daily]] — Learn These 6 AI Skills Now (Before AI Replaces You): six career-futureproofing AI skills — context engineering, agents vs. workflows, iteration speed, taste & judgment, income diversification (2026-06-15)
-- [[2026-06-16-nate-b-jones-daily]] — No new content: only a 1:49 WWDC Short posted, no long-form episode or matching Substack post (2026-06-16)
-- [[2026-06-16-nate-herk-daily]] — We Might Actually Need to Stop AI: Anthropic and OpenAI both call for an AI pause right as each nears going public; bet on AI fluency, not any single lab's roadmap; COMMENTARY (2026-06-16)
-- [[2026-06-17-nate-herk-daily]] — No new video: channel check found no upload inside the 2026-06-17 IST window (2026-06-17)
-- [[2026-06-17-nate-b-jones-daily]] — Vercel deleted 80% of a sales agent's tools to improve it; [[agent-maintenance]] framework for keeping [[the-harness]] healthy as models and the world change; FRAMEWORK lens (2026-06-17)
-- [[2026-06-18-nate-b-jones-daily]] — No new content: only a 1:25 App Intents Short posted, no long-form episode or matching Substack post (2026-06-18)
-- [[2026-06-18-nate-herk-daily]] — Every Level of a Claude Second Brain Explained: 5-level framework (Router → Wiki+Memory → Semantic Search → Knowledge Graph → Always-on Brain OS) for structuring an AI-readable knowledge base; DEEP-DIVE (2026-06-18)
-
-- [[2026-06-19-nate-b-jones-daily]] — Open Skills launch: agent skills (SKILL.md, runbooks) as the second-act ownership fight after [[open-brain]]; prompt/memory/skill split; portable across Claude Code, Codex, Cursor; FRAMEWORK lens (2026-06-19)
-- [[2026-06-20-nate-herk-daily]] — No new video: channel check found no upload inside the 2026-06-20 IST window (2026-06-20)
-- [[2026-06-20-nate-b-jones-daily]] — Voice cloning already passes a half-watching audience; "made with AI" is five questions not one; the creator trust stack framework (FRAMEWORK lens, 2026-06-20)
-- [[2026-06-21-nate-b-jones-daily]] — Every AI agent needs one named human owner, not a committee; [[agent-ownership]] framework: one-sentence ownership test, job/diet/boundaries/review loop, the Agent Owner's Card; FRAMEWORK lens (2026-06-21)
-- [[2026-06-21-weekly-ai-leadership-stories]] — 5 in-window stories (June 15–21, 2026): Samsung×OpenAI full ChatGPT Enterprise + Codex deployment; Anthropic Seoul office; IBM AI Sovereignty study; IBM governance-to-assurance; Konecta Kolibri launch (2026-06-21)
-- [[2026-06-22-nate-herk-daily]] — So You Learned Claude, Now What?: the AI consultant pivot after learning Claude — doctor vs. pharmacist framing, independent vs. in-house roads, constraint-first/KPI-second/build-third [[ai-consultant-roadmap]]; COMMENTARY (2026-06-22)
-- [[2026-06-29-nate-herk-daily]] — Stanford's Method Turns Claude Into a PHD Level Research Team: free Storm Research Claude Skill ports Stanford's STORM method (5 expert lenses, contradiction map, adversarial peer review) into Claude Code; benchmarked vs. native Deep Research; BUILD (2026-06-29)
-
-## Entities
-- [[nate-herk]] — AI automation creator; primary source for the implementation lane
-- [[nate-b-jones]] — AI strategy creator; primary source for the strategy lane
-- [[anthropic]] — AI safety company; maker of Claude
-- [[openai]] — AI company; creator of GPT and Codex
-- [[microsoft]] — enterprise technology company; major AI deployment partner (Azure, Copilot)
-- [[apple]] — consumer technology company; AI strategy focused on trust-surface and on-device models
-- [[ibm]] — enterprise technology company; AI governance/sovereignty research (IBM IBV) and watsonx.governance platform
-- [[samsung]] — South Korean electronics conglomerate; large-scale ChatGPT Enterprise + Codex and Claude deployments
-- [[konecta]] — global customer-experience and digital-services provider; agentic AI orchestration platform (Kolibri)
-- [[2026-06-24-nate-b-jones-daily]] — Loop of Loops framework: Prompt→Loop→Loop of Loops three-tier mental model; apps made humans the integration layer; bounded recurring agents with diet/boundaries/review; contrarian on autonomy maximalism (2026-06-24)
-
-## Concepts
-- [[the-harness]] — Nate B. Jones framework: the company layer (context, permissions, memory, standards, decision rights) that makes AI intelligence usable; introduced 2026-06-14
-- [[ai-fluency]] — what it means to be an AI-fluent leader
-- [[chief-ai-officer]] — the emerging role of a CAIO / Head of AI in mid-to-large organisations
-- [[ai-agency-structure]] — how $100M AI agencies organise teams, price work, and select automation stacks
-- [[agentic-ai]] — AI systems that autonomously plan, execute, and iterate toward goals
-- [[claude-code]] — Anthropic's CLI-based agentic coding tool; primary implementation platform tracked in this wiki
-- [[context-engineering]] — the discipline of structuring CLAUDE.md, project files, and conversation context so an AI agent performs reliably across sessions
-- [[four-cs-framework]] — Nate Herk's AI OS framework: Context / Connections / Capabilities / Cadence
-- [[ai-os]] — personal or team-level operating system built on an AI agent (e.g. Claude Fable); governed by the Four Cs framework
-- [[dynamic-workflows]] — runtime-adaptive tool chains that select the right agent or model per task type at execution time
-- [[claude-code-skills]] — reusable slash-command workflows in Claude Code; ranked #1 feature by Nate Herk
-- [[mcp-servers]] — Model Context Protocol servers; A-tier Claude Code feature for extending agent capabilities via external tools
-- [[recursive-self-improvement]] — AI writing the code that makes AI better; Anthropic's >80% internal benchmark is the first credible industry data point
-- [[agi-definition]] — practical vs. technical AGI definitions; Nate B. Jones and Nate Herk both argue practical AGI is already here per Anthropic's data
-- [[claude-fable-5]] — Anthropic's Mythos-class model for general release (June 2026); 2× Opus pricing; free on plans until June 22, 2026
-- [[project-glasswing]] — Anthropic's restricted program for Mythos-5 (cyber safeguards lifted); US government and cyber defenders only
-- [[steer-or-dispatch]] — Two modes of AI agent management: steer (Claude) vs dispatch (Codex); includes failure modes and decision rule
-- [[agent-literacy]] — The skill of 2026: agent loop management — steer, dispatch, verify, demand proof
-- [[apple-surface-strategy]] — AI economic power concentrates at the trusted device surface, not the model layer
-- [[app-intents]] — Apple's OS-level API that makes third-party apps agent-callable; introduced as a concept 2026-06-11
-- [[building-in-public]] — sharing work-in-progress AI builds publicly to create an auditable proof-of-work portfolio for career transitions and credibility
-- [[what-have-you-built-test]] — the emerging AI-era hiring bar: ask for a link to something actually shipped, not credentials or years of experience
-- [[ai-policy-surface]] — Frontier model access as a government policy lever; introduced by [[nate-b-jones]] after Fable 5 shutdown June 12 2026
-- [[minimum-effective-intelligence]] — MEI routing rule: assign AI workloads to the minimum intelligence tier (frontier/open/none) that meets the task's need
-- [[enterprise-ai-autopilots]] — always-on autonomous agents with enterprise Entra ID identity; introduced by Microsoft at Build 2026
-- [[ai-productivity-multiplier]] — measurable output-per-person multiplier for AI-native teams; Anthropic benchmark: 8× same headcount
-- [[ai-layoff-typology]] — five-category framework for reading AI-era layoffs as strategy signals: Hyperscaler · Visionary · Activity · Hope · Fifth Category
-- [[ai-agents-vs-workflows]] — the distinction between deterministic node-based workflows and probabilistic agent loops; knowing which to use is Nate Herk's Skill 3 (2026-06-15)
-- [[agent-maintenance]] — Nate B. Jones framework: the seven parts of an agent harness that go stale (job, diet, memory, tools, reach, proof, value); two ways agents break (world drifts / model improves); introduced 2026-06-17
-- [[second-brain-levels]] — Nate Herk's 5-level framework for structuring an AI-readable personal/team knowledge base, from CLAUDE.md routing through autonomous always-on memory; introduced 2026-06-18
-
-- [[open-skills]] — Nate B. Jones framework: agent skills (SKILL.md, runbooks, scripts, MCP configs) as portable career capital that should travel across Claude Code, Codex, and Cursor; introduced 2026-06-19
-- [[open-brain]] — Nate B. Jones's precursor framework: personal/professional memory should be yours and portable across AI tools, not trapped in one product; referenced 2026-06-19
-- [[made-with-ai-five-questions]] — Nate B. Jones framework: replaces the binary "is this AI?" test with a five-part breakdown of what was used, where, and who is accountable; introduced 2026-06-20
-- [[creator-trust-stack]] — Nate B. Jones framework: what keeps audience trust intact once AI tools are in the production chain — disclosure + a named accountable human owner; introduced 2026-06-20
-- [[agent-ownership]] — Nate B. Jones framework: every depended-on AI agent needs one named human owner; the one-sentence ownership test, job/diet/boundaries/review loop, and the Agent Owner's Card artifact; introduced 2026-06-21
-- [[ai-consultant-roadmap]] — Nate Herk's framework for the next phase after learning Claude: doctor-vs-pharmacist consultant framing, independent vs. in-house roads, and the constraint-first/KPI-second/build-third audit→pilot→pattern→formalize roadmap; introduced 2026-06-22
-- [[loop-of-loops]] — Three-tier AI agent framework (Prompt→Loop→Loop of Loops); moves cross-domain integration burden from human memory into bounded recurring jobs with explicit diet, boundaries, and review; introduced 2026-06-24
-- [[storm-research]] — Stanford's STORM research methodology ported into a free Claude Code skill by [[nate-herk]]: five-lens parallel research, contradiction mapping, synthesis, adversarial peer review; introduced 2026-06-29
-
-## Analyses
-
-- [[2026-06-07-weekly-ai-leadership-stories]] — 5 in-window stories (June 1–7, 2026): Microsoft Build 2026 Autopilots; White House AI EO; Deloitte State of AI 2026; Anthropic 8× productivity; KPMG 276K deployment (2026-06-07)
-- [[2026-06-21-weekly-ai-leadership-stories]] — 5 in-window stories (June 15–21, 2026): Samsung×OpenAI full deployment; Anthropic Seoul office; IBM AI Sovereignty study; IBM governance-to-assurance; Konecta Kolibri launch (2026-06-21)
-- [[2026-06-23-nate-herk-daily]] — I Battle Tested Sakana Fugu's Fable Killer: 38-task benchmark DEEP-DIVE; Fugu Ultra auto-orchestration vs Opus 4.8; verdict: not switching; speed/cost overhead real; transcript unavailable (2026-06-23)
-- [[2026-06-23-nate-b-jones-daily]] — Fable 5 inverts the bottleneck; [[detailed-task-imagination]] framework; model manager role; Stripe months→days; visual quality weak (TAKE, 2026-06-23)
-- [[detailed-task-imagination]] — seeing the whole job an AI could carry; successor to prompt engineering for big-model-class AI; introduced 2026-06-23
-- [[2026-06-24-nate-b-jones-daily]] — Loop of Loops FRAMEWORK brief: three-tier agent architecture; app-era integration burden diagnosis; five-questions loop design test; contrarian on autonomy maximalism; transcript unavailable (2026-06-24)
-- [[2026-06-25-nate-b-jones-daily]] — Bottleneck Migration FRAMEWORK brief; "What's Expensive Here?" inversion; Cursor receipt; Ritual Audit; "In His Words" omitted — Shorts-only day (FRAMEWORK, 2026-06-25)
-- [[bottleneck-migration]] — AI relocated the primary organizational bottleneck from execution to clarity/ambition/distribution/relationships; introduced 2026-06-25
-- [[2026-06-26-nate-b-jones-daily]] — Open Engine FRAMEWORK brief; shared task queue for multi-agent handoffs; prompt mode vs. work mode; [[open-engine]] and [[prompt-vs-work-mode]] concepts introduced (FRAMEWORK, 2026-06-26)
-- [[open-engine]] — shared task queue + seven-part task record enabling agent-to-agent handoffs without human-as-integration-layer; introduced 2026-06-26
-- [[prompt-vs-work-mode]] — prompt mode asks for answers; work mode gives agents a task record and asks for documented results; introduced 2026-06-26
-- [[2026-06-26-nate-herk-daily]] — BUILD · Four Claude Code upgrades (Council/Verify/Handoff/Sub-agents) to make Claude profitable, not just productive · [[nate-herk]]
-- [[2026-06-27-nate-b-jones-daily]] — Operational velocity as AI moat; Claude Cowork 10-day build; [[open-engine]] + [[operational-velocity-moat]] (FRAMEWORK, 2026-06-27)
-- [[operational-velocity-moat]] — thesis that operational velocity (observe→infer→ship speed) is a larger AI moat than model quality; introduced 2026-06-27
-- [[2026-06-28-nate-b-jones-daily]] — Context lock-in TAKE brief; GLM 5.2 vs Claude Tag; center/edge-of-distribution task split; [[context-lock-in]], [[center-edge-distribution]], [[ai-harness]] concepts introduced (TAKE, 2026-06-28)
-- [[context-lock-in]] — dynamic where frontier model integration (e.g. Claude Tag/Slack) makes switching economically irrational regardless of competitor model quality or price; introduced 2026-06-28
-- [[center-edge-distribution]] — Nate's task-categorisation framework: center = common patterns, familiar shapes, inspectable outputs (GLM 5.2 tier); edge = novel/high-stakes/context-dense (frontier model tier); introduced 2026-06-28
-- [[ai-harness]] — surrounding system (prompts, memory, tool calls, routing, system prompt tuning) that makes a model productive in a specific work context; "a model is a brain in a jar without a harness"; introduced 2026-06-28
+- [[2026-05-23-nate-b-jones-daily]] — Emergency AI's 15-day C-Suite experiment; "the harness is the real story"; safety nets for agents; multi-agent task assignment vs. agent execution
+- [[2026-05-24-nate-b-jones-daily]] — AI supply chain constraints; compute as a supply contract; Nvidia H100 allocation as the new strategic scarce resource
+- [[2026-05-25-nate-b-jones-daily]] — Platform teams become AI bottlenecks; "shadow AI" as an organizational cost; technical translation as a leadership skill
+- [[2026-05-26-nate-b-jones-daily]] — Shopify's River agent; the public AI work gap; apprenticeship collapse and what replaces it
+- [[2026-05-27-nate-b-jones-daily]] — AI document workflow and "truth layer"; hostile reviewer prompt as a quality gate; structured skepticism before sign-off
+- [[2026-05-28-nate-b-jones-daily]] — Agent analytics; Cursor database wipe incident; completion-vs-acceptance metric as the leading indicator of agent adoption health
+- [[2026-05-29-nate-b-jones-daily]] — Product management after cheap software; prototype commons and the production class ladder; how PM skills shift when building is nearly free
+- [[2026-05-30-nate-b-jones-daily]] — AI workflow evolution; context architecture over prompt quality; how durable workflows survive model churn
+- [[2026-05-31-nate-b-jones-daily]] — Career evidence collapse; judgment visibility as the new professional differentiator; "show your thinking" as the new resume
+- [[2026-06-01-nate-b-jones-daily]] — AI agents and the enterprise context platform race; OpenAI vs. Anthropic organizational memory play
+- [[2026-06-02-nate-b-jones-daily]] — Five-person strike team; coordination combinatorics; scout vs. strike team distinction; the Steinberger Threshold
+- [[2026-06-03-nate-b-jones-daily]] — Opus 4.8 benchmark trap; harness beats model score; dark factory approach for knowledge workers
+- [[2026-06-06-nate-b-jones-daily]] — Organizational AI taste; rejections as institutional knowledge; recognition, articulation, encoding; the Epic Systems model
+- [[2026-06-07-nate-b-jones-daily]] — Uber's AI budget blowup; token burn as operating-model signal; Minimum Effective Intelligence routing
+- [[2026-06-08-nate-b-jones-daily]] — Layoff signal taxonomy; Meta CapEx trap; Block vision; Cloudflare activity distress; five-category diagnostic
+- [[2026-06-10-nate-b-jones-daily]] — Steer or Dispatch framework; Claude Code = cockpit, Codex = operations desk; agent literacy as 2026 skill
+- [[2026-06-11-nate-b-jones-daily]] — Apple WWDC 2026 surface-ownership play; App Intents as agent-integration monopoly on 1B+ devices; model race vs. surface race
+- [[2026-06-12-nate-b-jones-daily]] — Codex Operating Model; five-component framework; unit-of-work shift from prompt to run; chief-of-staff threads
+- [[2026-06-13-nate-b-jones-daily]] — Fable 5 forced offline by US export control directive; frontier model access as a policy surface; three-layer analysis
+- [[2026-06-14-nate-b-jones-daily]] — OpenAI IPO filed; harness ownership above the model as the real competitive moat (TAKE, 2026-06-14)
+- [[2026-06-15-nate-b-jones-daily]] — AI bubble/stock correction reframe; [[buildout-vs-payback]] test; [[narrative-correction-sorting]] three phases; $194B NVIDIA chips (TAKE, 2026-06-15)
+- [[2026-06-16-nate-b-jones-daily]] — No new content (Shorts only)
+- [[2026-06-17-nate-b-jones-daily]] — Vercel deleted 80% of sales agent tools to make it better; [[agent-maintenance]] seven-dimension framework (FRAMEWORK, 2026-06-17)
+- [[2026-06-18-nate-b-jones-daily]] — No new content (Shorts only)
+- [[2026-06-19-nate-b-jones-daily]] — Open Skills framework; agent skills as SKILL.md runbooks; portable procedures across Claude Code, Codex, Cursor (FRAMEWORK, 2026-06-19)
+- [[2026-06-20-nate-b-jones-daily]] — Voice cloning trust collapse; "made with AI" as five questions; creator trust stack disclosure framework (FRAMEWORK, 2026-06-20)
+- [[2026-06-21-nate-b-jones-daily]] — Every AI agent needs one named human owner; [[agent-ownership]] framework; Agent Owner's Card (FRAMEWORK, 2026-06-21)
+- [[2026-06-22-nate-b-jones-daily]] — Google $2.7B talent loss; Anthropic's better month thesis; Midjourney medical imaging as the week's sleeper signal (TAKE, 2026-06-22)
+- [[2026-06-23-nate-b-jones-daily]] — Fable 5 inverts the bottleneck to task imagination; [[detailed-task-imagination]] framework; model manager as new role (TAKE, 2026-06-23)
+- [[2026-06-24-nate-b-jones-daily]] — Loop of Loops framework: Prompt → Loop → Loop of Loops; cross-domain recurring-work integration (FRAMEWORK, 2026-06-24)
+- [[2026-06-25-nate-b-jones-daily]] — Bottleneck Migration FRAMEWORK; "What's Expensive Here?" inversion; Cursor $1M→$500M receipt; Agile's wrong assumption (FRAMEWORK, 2026-06-25)
+- [[2026-06-26-nate-b-jones-daily]] — Open Engine FRAMEWORK: shared task queue for multi-agent handoffs; prompt mode vs. work mode (FRAMEWORK, 2026-06-26)
+- [[2026-06-27-nate-b-jones-daily]] — Operational velocity as AI moat; Claude Cowork 10-day build; [[open-engine]] + [[operational-velocity-moat]] framing (FRAMEWORK, 2026-06-27)
+- [[2026-06-28-nate-b-jones-daily]] — Context lock-in TAKE; center/edge task split; Claude Tag as strategic context-capture; [[context-lock-in]], [[center-edge-distribution]], [[ai-harness]] concepts introduced (TAKE, 2026-06-28)
 - [[2026-06-29-nate-b-jones-daily]] — Government GPT-5.6 gating as a context-war signal, alongside Apple/Siri, Claude Tag/Slack, and Codex adoption; extends [[context-lock-in]] thread (TAKE, 2026-06-29)
 - [[2026-06-30-nate-b-jones-daily]] — Fable 5 bigger-than-habits TAKE; [[detailed-task-imagination]] + [[whole-job-spec]] nine-field spec; Short-only day, brief from Substack preview (TAKE, 2026-06-30)
-- [[whole-job-spec]] — Nate's nine-field framework for delegating a whole job to a frontier model; converts a prompt into a delegation; introduced 2026-06-30
 - [[2026-07-01-nate-herk-daily]] — No video on 2026-07-01 (nate-herk-daily).
 - [[2026-07-01-nate-b-jones-daily]] — Build Your Own AI Memory: [[open-stack]] unified framework; [[5-part-agent-loop]] (memory/method/boundary/receipt/judgment); [[responsible-utility]] introduced; "rent the intelligence, own the memory" (FRAMEWORK, 2026-07-01)
 - [[responsible-utility]] — Nate B. Jones's design goal for personal agents: useful enough to act, careful enough to know whether you authorized it; introduced 2026-07-01
 - [[5-part-agent-loop]] — The minimum structure for a trustworthy agent loop: memory, method, boundary, receipt, judgment; introduced 2026-07-01
+- [[2026-07-02-nate-b-jones-daily]] — Job-First Routing FRAMEWORK: 3-tier model (Daily Driver / Cheap Workhorse / Frontier) + Specialists; Fable 5 return as routing-resilience test; harness portability as career skill; Coinbase/Cursor/Lindy routing receipts (FRAMEWORK, 2026-07-02)
+- [[job-first-routing]] — Nate's 4-tier model-selection framework: define the job before picking the model; tiers: Daily Driver / Cheap Workhorse (GLM 5.2) / Frontier (Claude/ChatGPT) / Specialists (images/video/live-web); extends [[center-edge-distribution]]; introduced 2026-07-02
+- [[fable-style-problem]] — Nate's term for tasks requiring broad, strong generalized intelligence: novel domain, unclear shape, judgment-heavy, discovery-mode; contrast with center-of-distribution work; introduced 2026-07-02
 
-- [[2026-07-02-nate-herk-daily]] — Six Fable 5 prompting habits (from Anthropic's own docs): give-the-why, negative-prompt, let-it-act, make-it-prove-it, stop-showing-reasoning, say-less; effort-level matching; silent Opus handoff mechanics; promotional window closes July 7th; DEEP-DIVE (2026-07-02)
+## Concepts
+- [[context-lock-in]] — dynamic where frontier model integration (e.g. Claude Tag/Slack) makes switching economically irrational regardless of competitor model quality or price; introduced 2026-06-28
+- [[center-edge-distribution]] — Nate's task-categorisation framework: center = common patterns, familiar shapes, inspectable outputs (GLM 5.2 tier); edge = novel/high-stakes/context-dense (frontier model tier); introduced 2026-06-28
+- [[ai-harness]] — surrounding system (prompts, memory, tool calls, routing, system prompt tuning) that makes a model productive in a specific work context; "a model is a brain in a jar without a harness"; introduced 2026-06-28
+- [[whole-job-spec]] — Nate's nine-field framework for delegating a whole job to a frontier model; converts a prompt into a delegation; introduced 2026-06-30
+- [[job-first-routing]] — Nate's 4-tier model-selection framework; define the job before picking the model; introduced 2026-07-02
+- [[fable-style-problem]] — tasks requiring broad generalized intelligence: novel domain, unclear shape, judgment-heavy; contrast with center-of-distribution work; introduced 2026-07-02
