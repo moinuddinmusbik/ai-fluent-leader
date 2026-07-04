@@ -54,3 +54,5 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[whole-job-spec]] — Nate's nine-field framework for delegating a whole job to a frontier model; converts a prompt into a delegation; introduced 2026-06-30
 - [[job-first-routing]] — Nate's 4-tier model-selection framework; define the job before picking the model; introduced 2026-07-02
 - [[fable-style-problem]] — tasks requiring broad generalized intelligence: novel domain, unclear shape, judgment-heavy; contrast with center-of-distribution work; introduced 2026-07-02
+
+- [[2026-07-03-nate-herk-daily]] — How Claude is Creating a New Generation of Millionaires · COMMENTARY · 2026-07-03 · Claude-as-wealth-enabler thesis; Vulcan state contract; The Four Things framework; closing-window urgency

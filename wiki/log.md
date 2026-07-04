@@ -454,3 +454,16 @@ Append-only chronological record of all operations on this wiki.
   - wiki/concepts/fable-style-problem.md (new)
   - wiki/index.md (appended)
   - wiki/log.md (this entry)
+
+## [2026-07-03] ingest | Nate Herk Daily Implementation Playbook
+- **Operation:** ingest
+- **Routine:** nate-herk-daily
+- **Type:** COMMENTARY
+- **Content note:** Short-form commentary (pbrln2TVeh4, 9:36). Transcript unavailable — caption API 403 (third-party video); Firecrawl transcript panel click failed both attempts. All sections grounded in description, chapter titles, and community comments. "In His Words" block omitted per routine spec.
+- **Topic:** Claude-as-wealth-enabler thesis; Vulcan (3-person team → state contract) as proof; "The Four Things" framework; urgency framing ("window is closing fast"); no-code business playbook
+- **Files written:**
+  - raw/emails-archive/2026-07-03-nate-herk-daily.md
+  - wiki/sources/2026-07-03-nate-herk-daily.md
+  - wiki/entities/nate-herk.md (updated: 2026-07-03)
+  - wiki/index.md (appended)
+  - wiki/log.md (this entry)

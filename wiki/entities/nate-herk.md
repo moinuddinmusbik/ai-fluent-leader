@@ -2,7 +2,7 @@
 title: "Nate Herk"
 type: entity
 created: 2026-05-21
-updated: 2026-07-02
+updated: 2026-07-03
 tags: [creator, implementation]
 sources: []
 ---
@@ -67,3 +67,4 @@ Primary source for the implementation lane of this wiki. Tracked via the **Nate 
 
 - [[2026-07-01-nate-herk-daily]] — No video published on 2026-07-01 (IST).
 - [[2026-07-02-nate-herk-daily]] — How Anthropic Engineers Actually Prompt Fable 5: six prompting habits for Fable 5 distilled from Anthropic's official docs; effort-level matching; silent Opus handoff triggers; verification-first design; DEEP-DIVE (2026-07-02)
+- [[2026-07-03-nate-herk-daily]] — How Claude is Creating a New Generation of Millionaires (COMMENTARY, 2026-07-03): Claude creating millionaires thesis; Vulcan 3-person state contract; The Four Things framework; urgency framing
