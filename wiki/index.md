@@ -46,6 +46,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-07-02-nate-b-jones-daily]] — Job-First Routing FRAMEWORK: 3-tier model (Daily Driver / Cheap Workhorse / Frontier) + Specialists; Fable 5 return as routing-resilience test; harness portability as career skill; Coinbase/Cursor/Lindy routing receipts (FRAMEWORK, 2026-07-02)
 - [[job-first-routing]] — Nate's 4-tier model-selection framework: define the job before picking the model; tiers: Daily Driver / Cheap Workhorse (GLM 5.2) / Frontier (Claude/ChatGPT) / Specialists (images/video/live-web); extends [[center-edge-distribution]]; introduced 2026-07-02
 - [[fable-style-problem]] — Nate's term for tasks requiring broad, strong generalized intelligence: novel domain, unclear shape, judgment-heavy, discovery-mode; contrast with center-of-distribution work; introduced 2026-07-02
+- [[2026-07-03-nate-b-jones-daily]] — Reusable Agent Rig: nine-step reusable skeleton for high-trust paperwork; one rule (agent drafts, never sends); KFF: 85M denied claims, <1% appealed; Senate report on algorithmic denial tools; flywheel build model (FRAMEWORK, 2026-07-03)
 
 ## Concepts
 - [[context-lock-in]] — dynamic where frontier model integration (e.g. Claude Tag/Slack) makes switching economically irrational regardless of competitor model quality or price; introduced 2026-06-28
@@ -54,5 +55,4 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[whole-job-spec]] — Nate's nine-field framework for delegating a whole job to a frontier model; converts a prompt into a delegation; introduced 2026-06-30
 - [[job-first-routing]] — Nate's 4-tier model-selection framework; define the job before picking the model; introduced 2026-07-02
 - [[fable-style-problem]] — tasks requiring broad generalized intelligence: novel domain, unclear shape, judgment-heavy; contrast with center-of-distribution work; introduced 2026-07-02
-
-- [[2026-07-03-nate-herk-daily]] — How Claude is Creating a New Generation of Millionaires · COMMENTARY · 2026-07-03 · Claude-as-wealth-enabler thesis; Vulcan state contract; The Four Things framework; closing-window urgency
+- [[reusable-agent-rig]] — Nate's nine-step reusable AI agent skeleton for high-trust paperwork: context pack goes in, cited packet comes out, hard stop before any submission; proof runs: email → insurance appeal → tax prep; introduced 2026-07-03
