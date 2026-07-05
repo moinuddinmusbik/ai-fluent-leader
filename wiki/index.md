@@ -48,6 +48,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[fable-style-problem]] — Nate's term for tasks requiring broad, strong generalized intelligence: novel domain, unclear shape, judgment-heavy, discovery-mode; contrast with center-of-distribution work; introduced 2026-07-02
 - [[2026-07-03-nate-b-jones-daily]] — Reusable Agent Rig: nine-step reusable skeleton for high-trust paperwork; one rule (agent drafts, never sends); KFF: 85M denied claims, <1% appealed; Senate report on algorithmic denial tools; flywheel build model (FRAMEWORK, 2026-07-03)
 
+- [[2026-07-04-nate-b-jones-daily]] — Goal Harness: Fable 5 as goal harness architect, not planner; short prompts beat long on hard problems; routing-over-loyalty thesis; three-tier model taxonomy (TAKE, 2026-07-04)
 ## Concepts
 - [[context-lock-in]] — dynamic where frontier model integration (e.g. Claude Tag/Slack) makes switching economically irrational regardless of competitor model quality or price; introduced 2026-06-28
 - [[center-edge-distribution]] — Nate's task-categorisation framework: center = common patterns, familiar shapes, inspectable outputs (GLM 5.2 tier); edge = novel/high-stakes/context-dense (frontier model tier); introduced 2026-06-28
@@ -56,4 +57,4 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[job-first-routing]] — Nate's 4-tier model-selection framework; define the job before picking the model; introduced 2026-07-02
 - [[fable-style-problem]] — tasks requiring broad generalized intelligence: novel domain, unclear shape, judgment-heavy; contrast with center-of-distribution work; introduced 2026-07-02
 - [[reusable-agent-rig]] — Nate's nine-step reusable AI agent skeleton for high-trust paperwork: context pack goes in, cited packet comes out, hard stop before any submission; proof runs: email → insurance appeal → tax prep; introduced 2026-07-03
-- [[2026-07-04-nate-herk-daily]] — Fable 5 + Karpathy's LLM Wiki is Basically Cheating (BUILD, 2026-07-04)
+- [[goal-harness]] — Nate's term for the objective structure a frontier model defines to steer downstream execution models; separates goal-definition layer from execution layer; introduced 2026-07-04

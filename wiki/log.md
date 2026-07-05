@@ -470,19 +470,20 @@ Append-only chronological record of all operations on this wiki.
   - wiki/index.md (appended source + concept lines)
   - wiki/log.md (this entry)
 - **New concept introduced:** [[reusable-agent-rig]]
-
-## [2026-07-04] ingest | Nate Herk Daily Implementation Playbook
+## [2026-07-04] ingest | Nate B Jones Daily Leader Briefing
 - **Operation:** ingest
-- **Routine:** nate-herk-daily
-- **Video type:** BUILD
-- **Video:** Fable 5 + Karpathy's LLM Wiki is Basically Cheating
-- **URL:** https://www.youtube.com/watch?v=hQvwMj7IJe4
-- **Duration:** 14:35 · **Views:** 44,622
-- **Summary:** LLM wiki pattern (Karpathy gist + Claude Code + Obsidian): raw/ ingest → cross-linked wiki/ pages; Opus 4.8 for ingest, Fable 5 for synthesis; flat vs structured wikis; model-drift gotcha; 20-page wiki from 2 sources demo.
+- **Routine:** Nate B Jones Daily Leader Briefing
+- **Lens:** TAKE
+- **Episode:** Free Fable 5 tokens this weekend? Here's how to max them (3:50)
+- **Video:** https://www.youtube.com/watch?v=RtxUdvSTQGc
+- **Substack:** https://natesnewsletter.substack.com/p/which-ai-model-to-use (preview; full post paid)
+- **Transcript:** UNAVAILABLE (Firecrawl panel action blocked on both attempts; brief grounded on video description + Substack preview)
+- **Summary:** Fable 5 returns after 2+ weeks offline with usage caps and credit model; Nate's take: aim it at goal harness architecture not commodity tasks; short prompts beat long on hard problems; routing-over-loyalty as core skill; Coinbase/Cursor routing receipts; three-tier taxonomy (daily driver/workhorse/frontier); [[goal-harness]] concept introduced
 - **Files committed:**
-  - raw/transcripts/2026-07-04-nate-herk-daily.md (full transcript)
-  - raw/emails-archive/2026-07-04-nate-herk-daily.md
-  - wiki/sources/2026-07-04-nate-herk-daily.md
-  - wiki/entities/nate-herk.md (updated: bumped updated date, added source)
-  - wiki/index.md (appended source line)
+  - raw/emails-archive/2026-07-04-nate-b-jones-daily.md
+  - wiki/sources/2026-07-04-nate-b-jones-daily.md
+  - wiki/concepts/goal-harness.md (new)
+  - wiki/entities/nate-b-jones.md (updated: bumped updated date, added source)
+  - wiki/index.md (appended source + concept lines)
   - wiki/log.md (this entry)
+- **New concept introduced:** [[goal-harness]]
