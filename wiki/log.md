@@ -470,3 +470,19 @@ Append-only chronological record of all operations on this wiki.
   - wiki/index.md (appended source + concept lines)
   - wiki/log.md (this entry)
 - **New concept introduced:** [[reusable-agent-rig]]
+
+## [2026-07-04] ingest | Nate Herk Daily Implementation Playbook
+- **Operation:** ingest
+- **Routine:** nate-herk-daily
+- **Video type:** BUILD
+- **Video:** Fable 5 + Karpathy's LLM Wiki is Basically Cheating
+- **URL:** https://www.youtube.com/watch?v=hQvwMj7IJe4
+- **Duration:** 14:35 · **Views:** 44,622
+- **Summary:** LLM wiki pattern (Karpathy gist + Claude Code + Obsidian): raw/ ingest → cross-linked wiki/ pages; Opus 4.8 for ingest, Fable 5 for synthesis; flat vs structured wikis; model-drift gotcha; 20-page wiki from 2 sources demo.
+- **Files committed:**
+  - raw/transcripts/2026-07-04-nate-herk-daily.md (full transcript)
+  - raw/emails-archive/2026-07-04-nate-herk-daily.md
+  - wiki/sources/2026-07-04-nate-herk-daily.md
+  - wiki/entities/nate-herk.md (updated: bumped updated date, added source)
+  - wiki/index.md (appended source line)
+  - wiki/log.md (this entry)

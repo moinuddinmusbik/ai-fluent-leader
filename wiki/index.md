@@ -56,3 +56,4 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[job-first-routing]] — Nate's 4-tier model-selection framework; define the job before picking the model; introduced 2026-07-02
 - [[fable-style-problem]] — tasks requiring broad generalized intelligence: novel domain, unclear shape, judgment-heavy; contrast with center-of-distribution work; introduced 2026-07-02
 - [[reusable-agent-rig]] — Nate's nine-step reusable AI agent skeleton for high-trust paperwork: context pack goes in, cited packet comes out, hard stop before any submission; proof runs: email → insurance appeal → tax prep; introduced 2026-07-03
+- [[2026-07-04-nate-herk-daily]] — Fable 5 + Karpathy's LLM Wiki is Basically Cheating (BUILD, 2026-07-04)
