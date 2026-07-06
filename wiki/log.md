@@ -499,3 +499,25 @@ Append-only chronological record of all operations on this wiki.
   - wiki/entities/nate-herk.md (updated: bumped updated date, added source stub)
   - wiki/index.md (appended source line)
   - wiki/log.md (this entry)
+
+## [2026-07-06] ingest | Weekly AI Leadership Stories
+- **Routine:** weekly-ai-leadership-stories
+- **Window:** 2026-06-29 to 2026-07-05
+- **Stories ingested:** 5
+  1. Microsoft Frontier Company — CNBC, July 2, 2026
+  2. Morgan Stanley FIXR agents — VentureBeat, June 30, 2026
+  3. Palantir CEO Karp AI sovereignty — CNBC, July 1, 2026
+  4. EU AI Act Council final approval — Axis Intelligence, June 29, 2026
+  5. AI Engineer World's Fair 2026 enterprise imperatives — StartupHub.ai, July 2, 2026
+- **Theme:** Access ≠ Deployment ≠ Adoption ≠ Value. Competitive moat shifting from model access to organizational mastery.
+- **Files committed:**
+  - raw/emails-archive/2026-07-05-weekly-ai-leadership-stories.md
+  - wiki/sources/2026-07-05-weekly-ai-leadership-stories.md
+  - wiki/entities/microsoft-frontier-company.md (new)
+  - wiki/concepts/ai-data-sovereignty.md (new)
+  - wiki/concepts/eu-ai-act.md (new)
+  - wiki/concepts/forward-deployed-engineering.md (new)
+  - wiki/index.md (appended source + entity + concept lines)
+  - wiki/log.md (this entry)
+- **New entities:** [[microsoft-frontier-company]]
+- **New concepts:** [[ai-data-sovereignty]], [[eu-ai-act]], [[forward-deployed-engineering]]

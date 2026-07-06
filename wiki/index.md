@@ -59,3 +59,10 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[reusable-agent-rig]] — Nate's nine-step reusable AI agent skeleton for high-trust paperwork: context pack goes in, cited packet comes out, hard stop before any submission; proof runs: email → insurance appeal → tax prep; introduced 2026-07-03
 - [[goal-harness]] — Nate's term for the objective structure a frontier model defines to steer downstream execution models; separates goal-definition layer from execution layer; introduced 2026-07-04
 - [[2026-07-05-nate-herk-daily]] — No video (2026-07-05 IST)
+- [[2026-07-05-weekly-ai-leadership-stories]] — Weekly AI Leadership Stories (2026-06-29 to 2026-07-05): Microsoft Frontier Company, Morgan Stanley FIXR, Palantir AI sovereignty, EU AI Act enforcement, AI Engineer World's Fair imperatives
+
+## Entities
+- [[microsoft-frontier-company]] — Microsoft's $2.5B, 6,000-person enterprise AI deployment unit; inverts license-access model to outcome accountability; introduced 2026-07-05
+- [[ai-data-sovereignty]] — enterprise right to control proprietary data processed by external AI providers; framed as board-level risk by Palantir CEO Karp; introduced 2026-07-05
+- [[eu-ai-act]] — EU comprehensive AI regulation; full enforcement August 2, 2026; risk-tiered compliance up to 7% global turnover penalty; introduced 2026-07-05
+- [[forward-deployed-engineering]] — embedding AI engineers inside business units to own outcomes; highest-signal org model from AI Engineer World's Fair 2026; introduced 2026-07-05
