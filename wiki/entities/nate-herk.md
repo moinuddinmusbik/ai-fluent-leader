@@ -2,7 +2,7 @@
 title: "Nate Herk"
 type: entity
 created: 2026-05-21
-updated: 2026-07-05
+updated: 2026-07-06
 tags: [creator, implementation]
 sources: []
 ---
@@ -70,3 +70,4 @@ Primary source for the implementation lane of this wiki. Tracked via the **Nate 
 - [[2026-07-03-nate-herk-daily]] — How Claude is Creating a New Generation of Millionaires (COMMENTARY, 2026-07-03): Claude creating millionaires thesis; Vulcan 3-person state contract; The Four Things framework; urgency framing
 - [[2026-07-04-nate-herk-daily]] — Fable 5 + Karpathy's LLM Wiki is Basically Cheating: LLM wiki BUILD — Karpathy schema + Claude Code + Obsidian; raw/wiki folder pattern; Opus for ingest, Fable for synthesis; model-drift gotcha; 20 cross-linked pages from 2 sources; BUILD (2026-07-04)
 - [[2026-07-05-nate-herk-daily]] — No video (2026-07-05 IST)
+- [[2026-07-06-nate-herk-daily]] — No video (2026-07-06 IST)
