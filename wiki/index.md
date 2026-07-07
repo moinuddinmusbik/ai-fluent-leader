@@ -62,3 +62,5 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[cheap-engine-frontier-steering]] — Nate's two-layer AI architecture: cheapest capable model (open-weights) as execution engine; frontier models as steering for novel/judgment-heavy tasks; advantage forms in the steering layer; introduced 2026-07-05
 - [[2026-07-05-nate-herk-daily]] — No video (2026-07-05 IST)
 - [[2026-07-06-nate-herk-daily]] — No video (2026-07-06 IST)
+- [[2026-07-06-nate-b-jones-daily]] — OpenAI $42B government stake + Meta compute cloud + Jersey Mike's IPO as one AI scoreboard-shift thesis; best-model race replaced by compute/distribution/political-permission competition; [[ai-scoreboard-shift]] framing (TAKE, 2026-07-06)
+- [[ai-scoreboard-shift]] — Nate's framing for the post-model-race competition axis: compute infrastructure ownership, distribution channel control, and government/regulatory permission as the three levers that determine value capture once model capability commoditizes; introduced 2026-07-06

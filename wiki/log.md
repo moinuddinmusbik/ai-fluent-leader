@@ -529,3 +529,21 @@ Append-only chronological record of all operations on this wiki.
   - wiki/entities/nate-herk.md (bumped updated date, added source stub)
   - wiki/index.md (appended source line; also fixed double-base64 encoding)
   - wiki/log.md (this entry; also fixed double-base64 encoding)
+
+## 2026-07-07
+
+- **Routine:** nate-b-jones-daily (Strategy lane)
+- **Target date:** 2026-07-06
+- **Lens:** TAKE
+- **Episode:** "OpenAI Just Offered The Government $42 Billion. This Is The Real Reason." (oOpgmS88pLw, 12:36)
+- **Short on same day:** "This time ... the rumors are true." (zs-2gPbQNQ4, PT19S) — Substack teaser for Claude Fable 5, treated as separate
+- **Transcript:** Unavailable (Firecrawl transcript panel did not render after two attempts; brief grounded on description + chapters + ytInitialData clues)
+- **Substack:** No specific post linked in episode description; general newsletter URL used
+- **Brief topic:** AI scoreboard shift — five stories (OpenAI $42B government stake, Meta compute cloud, Meta gaming app, Jersey Mike's IPO, Anthropic enterprise) connected into one thesis about value capture post-model-race
+- **New concept introduced:** [[ai-scoreboard-shift]]
+- **Files committed:**
+  - raw/emails-archive/2026-07-06-nate-b-jones-daily.md
+  - wiki/sources/2026-07-06-nate-b-jones-daily.md
+  - wiki/entities/nate-b-jones.md (bumped updated to 2026-07-06, added Jul 05 + Jul 06 source entries, added 2026-07-06 to sources list)
+  - wiki/index.md (appended source line + ai-scoreboard-shift concept)
+  - wiki/log.md (this entry)
