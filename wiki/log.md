@@ -547,20 +547,20 @@ Append-only chronological record of all operations on this wiki.
   - wiki/entities/nate-b-jones.md (bumped updated to 2026-07-06, added Jul 05 + Jul 06 source entries, added 2026-07-06 to sources list)
   - wiki/index.md (appended source line + ai-scoreboard-shift concept)
   - wiki/log.md (this entry)
-## [2026-07-07] ingest | Nate Herk Daily Implementation Playbook
-- **Operation:** ingest
-- **Routine:** nate-herk-daily
-- **Type:** BUILD
-- **Video:** [How I Make Opus Think Like Fable (5 easy steps)](https://www.youtube.com/watch?v=XTBWVVcF3Pk) · 10:00 · 50,369 views
-- **Video ID:** XTBWVVcF3Pk · Published: 2026-07-07T02:44:05Z
-- **Transcript:** Extracted via Firecrawl (343 segments, 13,190 chars)
-- **New concepts introduced:** [[fable-mode-skill]], [[model-routing-table]]
+## [2026-07-07]
+
+- **Routine:** nate-b-jones-daily (Strategy lane)
+- **Target date:** 2026-07-07
+- **Lens:** TAKE
+- **Episode:** Short-only day — no long-form episode posted on 2026-07-07 (IST). Single Short: "Now ... real people get accused of being AI" (nFzVuipvxXg, 0:31)
+- **Transcript:** N/A (Short-only; no long-form transcript)
+- **Substack:** "If the AI is a vibe, the human is a scar" — https://natesnewsletter.substack.com/p/if-the-ai-is-a-vibe-the-human-is (preview; full post paid)
+- **Brief topic:** The polarity inversion of synthetic-media paranoia — real humans now accused of being AI for looking too polished/consistent; human inconsistency (the stumble, the repeated shirt) as the last legible proof-of-work for human presence; vibe (AI) vs. scar (human) as a trust-signal framework
+- **New concept introduced:** [[vibe-vs-scar]]
 - **Files committed:**
-  - raw/transcripts/2026-07-07-nate-herk-daily.md
-  - raw/emails-archive/2026-07-07-nate-herk-daily.md
-  - wiki/sources/2026-07-07-nate-herk-daily.md
-  - wiki/entities/nate-herk.md (bumped updated to 2026-07-07, added 2026-07-07 source entry)
-  - wiki/concepts/fable-mode-skill.md
-  - wiki/concepts/model-routing-table.md
-  - wiki/index.md (appended source line + 2 new concepts)
+  - raw/emails-archive/2026-07-07-nate-b-jones-daily.md
+  - wiki/sources/2026-07-07-nate-b-jones-daily.md
+  - wiki/concepts/vibe-vs-scar.md (new)
+  - wiki/entities/nate-b-jones.md (bumped updated to 2026-07-07, added 2026-07-07 source entry)
+  - wiki/index.md (appended source line + vibe-vs-scar concept)
   - wiki/log.md (this entry)
