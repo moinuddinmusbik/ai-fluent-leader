@@ -64,3 +64,6 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-07-06-nate-herk-daily]] — No video (2026-07-06 IST)
 - [[2026-07-06-nate-b-jones-daily]] — OpenAI $42B government stake + Meta compute cloud + Jersey Mike's IPO as one AI scoreboard-shift thesis; best-model race replaced by compute/distribution/political-permission competition; [[ai-scoreboard-shift]] framing (TAKE, 2026-07-06)
 - [[ai-scoreboard-shift]] — Nate's framing for the post-model-race competition axis: compute infrastructure ownership, distribution channel control, and government/regulatory permission as the three levers that determine value capture once model capability commoditizes; introduced 2026-07-06
+- [[2026-07-07-nate-herk-daily]] — How I Make Opus Think Like Fable (5 easy steps): Fable Mode Skill + Model Routing Table; process over model selection; BUILD (2026-07-07)
+- [[fable-mode-skill]] — Nate's Claude Code skill file encoding Fable 5's five-gate reasoning discipline (Scope/Evidence/Attack/Verify/Calibrate) for any model; activated via /fable-mode; introduced 2026-07-07
+- [[model-routing-table]] — Nate's structured table (model × cost score × intelligence × taste) given to an orchestrator to auto-delegate tasks to the cheapest capable model; introduced 2026-07-07

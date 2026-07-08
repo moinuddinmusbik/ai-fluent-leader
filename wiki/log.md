@@ -547,3 +547,20 @@ Append-only chronological record of all operations on this wiki.
   - wiki/entities/nate-b-jones.md (bumped updated to 2026-07-06, added Jul 05 + Jul 06 source entries, added 2026-07-06 to sources list)
   - wiki/index.md (appended source line + ai-scoreboard-shift concept)
   - wiki/log.md (this entry)
+## [2026-07-07] ingest | Nate Herk Daily Implementation Playbook
+- **Operation:** ingest
+- **Routine:** nate-herk-daily
+- **Type:** BUILD
+- **Video:** [How I Make Opus Think Like Fable (5 easy steps)](https://www.youtube.com/watch?v=XTBWVVcF3Pk) · 10:00 · 50,369 views
+- **Video ID:** XTBWVVcF3Pk · Published: 2026-07-07T02:44:05Z
+- **Transcript:** Extracted via Firecrawl (343 segments, 13,190 chars)
+- **New concepts introduced:** [[fable-mode-skill]], [[model-routing-table]]
+- **Files committed:**
+  - raw/transcripts/2026-07-07-nate-herk-daily.md
+  - raw/emails-archive/2026-07-07-nate-herk-daily.md
+  - wiki/sources/2026-07-07-nate-herk-daily.md
+  - wiki/entities/nate-herk.md (bumped updated to 2026-07-07, added 2026-07-07 source entry)
+  - wiki/concepts/fable-mode-skill.md
+  - wiki/concepts/model-routing-table.md
+  - wiki/index.md (appended source line + 2 new concepts)
+  - wiki/log.md (this entry)
