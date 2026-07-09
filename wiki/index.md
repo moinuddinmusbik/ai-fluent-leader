@@ -66,3 +66,4 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[ai-scoreboard-shift]] — Nate's framing for the post-model-race competition axis: compute infrastructure ownership, distribution channel control, and government/regulatory permission as the three levers that determine value capture once model capability commoditizes; introduced 2026-07-06
 - [[2026-07-07-nate-b-jones-daily]] — "If the AI is a vibe, the human is a scar": real humans now accused of being AI for being too consistent/polished; human inconsistency as proof-of-work for authentic presence; [[vibe-vs-scar]] framework (TAKE, 2026-07-07)
 - [[vibe-vs-scar]] — Nate's framework: AI = vibe (smooth, stateless); human = scar (accumulated experience, visible inconsistency); the scar is the trust credential in an AI-content-flooded environment; introduced 2026-07-07
+- [[2026-07-08-nate-herk-daily]] — No new Nate Herk video on 2026-07-08 IST (no-video stub).

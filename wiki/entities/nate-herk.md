@@ -2,7 +2,7 @@
 title: "Nate Herk"
 type: entity
 created: 2026-05-21
-updated: 2026-07-07
+updated: 2026-07-08
 tags: [creator, implementation]
 sources: []
 ---
@@ -72,3 +72,5 @@ Primary source for the implementation lane of this wiki. Tracked via the **Nate 
 - [[2026-07-05-nate-herk-daily]] — No video (2026-07-05 IST)
 - [[2026-07-06-nate-herk-daily]] — No video (2026-07-06 IST)
 - [[2026-07-07-nate-herk-daily]] — How I Make Opus Think Like Fable (5 easy steps): Fable Mode Skill (5-gate: Scope/Evidence/Attack/Verify/Calibrate) + Model Routing Table; Fable orchestrating Opus ≈ all-Fable at fraction of cost; effort-level calibration; BUILD (2026-07-07)
+
+- [[2026-07-08-nate-herk-daily]] — No video published on 2026-07-08 IST.

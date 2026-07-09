@@ -564,3 +564,15 @@ Append-only chronological record of all operations on this wiki.
   - wiki/entities/nate-b-jones.md (bumped updated to 2026-07-07, added 2026-07-07 source entry)
   - wiki/index.md (appended source line + vibe-vs-scar concept)
   - wiki/log.md (this entry)
+
+## [2026-07-08] nate-herk-daily | No video published
+- **Routine:** Nate Herk Daily Implementation Playbook
+- **Target date:** 2026-07-08 (IST)
+- **Result:** No video found in UTC window 2026-07-07T18:30:00Z–2026-07-08T18:30:00Z.
+- **Action:** No-content path (STEP 6). Email sent, stub files committed.
+- **Files committed:**
+  - raw/emails-archive/2026-07-08-nate-herk-daily.md
+  - wiki/sources/2026-07-08-nate-herk-daily.md
+  - wiki/entities/nate-herk.md (bumped updated to 2026-07-08, added no-video source entry)
+  - wiki/index.md (appended source stub line)
+  - wiki/log.md (this entry)
