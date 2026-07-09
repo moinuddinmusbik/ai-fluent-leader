@@ -576,3 +576,20 @@ Append-only chronological record of all operations on this wiki.
   - wiki/entities/nate-herk.md (bumped updated to 2026-07-08, added no-video source entry)
   - wiki/index.md (appended source stub line)
   - wiki/log.md (this entry)
+## [2026-07-08] ingest | Nate B Jones Daily Leader Briefing
+- **Operation:** ingest
+- **Routine:** Nate B Jones Daily Leader Briefing
+- **Target date:** 2026-07-08 (IST)
+- **Lens:** TAKE
+- **Episode:** "Claude Fable 5 Bossed 20 Cheap AI Agents. The Whole Site Cost $8." (19:18) — https://www.youtube.com/watch?v=suY66oTDn0s
+- **Substack:** https://natesnewsletter.substack.com/p/trust-ai-agents (preview; full post paid)
+- **Key concepts introduced:** [[verified-agent-swarm]], [[agent-constitution]]
+- **Files committed:**
+  - raw/transcripts/2026-07-08-nate-b-jones-daily.md (full transcript via Firecrawl YouTube postprocessor)
+  - raw/emails-archive/2026-07-08-nate-b-jones-daily.md
+  - wiki/sources/2026-07-08-nate-b-jones-daily.md (TAKE brief: big idea, argument, receipts, contrarian edge, what-it-means, 2 verbatim quotes)
+  - wiki/entities/nate-b-jones.md (bumped updated to 2026-07-08, added 2026-07-08 source entry)
+  - wiki/concepts/verified-agent-swarm.md (new)
+  - wiki/concepts/agent-constitution.md (new)
+  - wiki/index.md (appended source line + 2 concept lines)
+  - wiki/log.md (this entry)
