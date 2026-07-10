@@ -593,3 +593,17 @@ Append-only chronological record of all operations on this wiki.
   - wiki/concepts/agent-constitution.md (new)
   - wiki/index.md (appended source line + 2 concept lines)
   - wiki/log.md (this entry)
+## [2026-07-09] ingest | Nate Herk Daily Implementation Playbook
+- **Operation:** ingest
+- **Routine:** nate-herk-daily
+- **Video:** Fable 5 Just Built Me a Business With One Prompt (R0qF17BVl9w)
+- **Type:** BUILD
+- **Duration:** 12:28 · Views: 41,658 · Likes: 1,342
+- **Published:** 2026-07-09 IST (2026-07-08T22:05:01Z UTC)
+- **Files written:**
+  - raw/transcripts/2026-07-09-nate-herk-daily.md (full transcript, 15K chars)
+  - raw/emails-archive/2026-07-09-nate-herk-daily.md
+  - wiki/sources/2026-07-09-nate-herk-daily.md (BUILD: what-he-builds, architecture, nine-phase arc, goal-file prompt, gotchas, 2 verbatim quotes, steal-this, mistake, source+chapters)
+  - wiki/entities/nate-herk.md (bumped updated to 2026-07-09, added 2026-07-09 source entry)
+  - wiki/index.md (appended source line)
+  - wiki/log.md (this entry)
