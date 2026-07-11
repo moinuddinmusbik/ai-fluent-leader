@@ -610,3 +610,20 @@ Append-only chronological record of all operations on this wiki.
   - wiki/concepts/infrastructure-inversion.md (new)
   - wiki/index.md (appended source line + 2 concept lines)
   - wiki/log.md (this entry)
+## [2026-07-10] ingest | Nate B Jones Daily Leader Briefing (FRAMEWORK)
+- **Operation:** ingest
+- **Routine:** nate-b-jones-daily
+- **Lens:** FRAMEWORK
+- **Episode:** "1.6M agents registered for OpenClaw and did NOTHING." (28:04)
+- **Video:** https://www.youtube.com/watch?v=PRqiGS6fnIM
+- **Substack:** https://natesnewsletter.substack.com/p/agent-shaped-work (preview; full post paid)
+- **Transcript:** UNAVAILABLE (Firecrawl transcript panel did not render after two attempts). Grounded on Substack preview + YouTube description. "In His Words" block omitted.
+- **Key concept introduced:** [[one-minute-agent-test]] — 4-estimate dispatch framework (Size, Independence, Separation, Checkability) → 4 verdicts (Chat / Single Agent / Team / Don't Bother); verification wedge + context ceiling as the two structural limits
+- **Files committed:**
+  - raw/emails-archive/2026-07-10-nate-b-jones-daily.md
+  - wiki/sources/2026-07-10-nate-b-jones-daily.md (FRAMEWORK brief: big idea, framework, how it works, where it applies, receipts, what-it-means, mistake)
+  - wiki/concepts/one-minute-agent-test.md (new)
+  - wiki/entities/nate-b-jones.md (bumped updated to 2026-07-10, added 2026-07-10 source entry)
+  - wiki/index.md (appended source line + concept line)
+  - wiki/log.md (this entry)
+
