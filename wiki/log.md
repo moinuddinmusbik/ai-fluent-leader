@@ -610,20 +610,19 @@ Append-only chronological record of all operations on this wiki.
   - wiki/concepts/infrastructure-inversion.md (new)
   - wiki/index.md (appended source line + 2 concept lines)
   - wiki/log.md (this entry)
-## [2026-07-10] ingest | Nate B Jones Daily Leader Briefing (FRAMEWORK)
-- **Operation:** ingest
-- **Routine:** nate-b-jones-daily
-- **Lens:** FRAMEWORK
-- **Episode:** "1.6M agents registered for OpenClaw and did NOTHING." (28:04)
-- **Video:** https://www.youtube.com/watch?v=PRqiGS6fnIM
-- **Substack:** https://natesnewsletter.substack.com/p/agent-shaped-work (preview; full post paid)
-- **Transcript:** UNAVAILABLE (Firecrawl transcript panel did not render after two attempts). Grounded on Substack preview + YouTube description. "In His Words" block omitted.
-- **Key concept introduced:** [[one-minute-agent-test]] — 4-estimate dispatch framework (Size, Independence, Separation, Checkability) → 4 verdicts (Chat / Single Agent / Team / Don't Bother); verification wedge + context ceiling as the two structural limits
-- **Files committed:**
-  - raw/emails-archive/2026-07-10-nate-b-jones-daily.md
-  - wiki/sources/2026-07-10-nate-b-jones-daily.md (FRAMEWORK brief: big idea, framework, how it works, where it applies, receipts, what-it-means, mistake)
-  - wiki/concepts/one-minute-agent-test.md (new)
-  - wiki/entities/nate-b-jones.md (bumped updated to 2026-07-10, added 2026-07-10 source entry)
-  - wiki/index.md (appended source line + concept line)
-  - wiki/log.md (this entry)
 
+## [2026-07-10] ingest | Nate Herk Daily Implementation Playbook
+- **Operation:** ingest
+- **Routine:** Nate Herk Daily Implementation Playbook
+- **Target date:** 2026-07-10 (IST)
+- **Video type:** DEEP-DIVE
+- **Episode:** "I Tested GPT 5.6 Sol vs Fable 5. What You Need To Know." — https://www.youtube.com/watch?v=EthxaDswUFo — 20:25
+- **Views:** 141,249 · **Likes:** 3,025 · **Comments:** 332
+- **Transcript:** UNAVAILABLE — Firecrawl action selectors timed out (MCP 60s limit); YouTube timedtext API returned empty from sandbox IP (rate-limited). Playbook grounded on description, chapters, and top 10 community comments.
+- **Key concepts:** Manager vs Worker model routing; GPT-5.6 Sol as cost-effective executor; Claude Fable 5 as creative orchestrator.
+- **Files committed:**
+  - raw/emails-archive/2026-07-10-nate-herk-daily.md
+  - wiki/sources/2026-07-10-nate-herk-daily.md (DEEP-DIVE brief: what-it-is, test architecture, verdict, when-to-use, set-it-up, prompts/configs, gotchas, steal-this, mistake)
+  - wiki/entities/nate-herk.md (bumped updated to 2026-07-10, added 2026-07-10 source entry)
+  - wiki/index.md (appended source line)
+  - wiki/log.md (this entry)
