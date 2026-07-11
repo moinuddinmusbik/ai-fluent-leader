@@ -2,7 +2,7 @@
 title: "Nate Herk"
 type: entity
 created: 2026-05-21
-updated: 2026-07-09
+updated: 2026-07-10
 tags: [creator, implementation]
 sources: []
 ---
@@ -13,7 +13,7 @@ AI automation creator focused on **hands-on Claude Code workflows and practical 
 
 ## Channels
 
-- YouTube: [@nateherk](https://www.youtube.com/@nateherk)
+- YouTube: [@nateherk](https://www.youtube.com/c/nateherk)
 - Skool: [AI Automation Society](https://www.skool.com/ai-automation-society)
 
 ## Relevance
@@ -40,9 +40,9 @@ Primary source for the implementation lane of this wiki. Tracked via the **Nate 
 - [[2026-06-02-nate-herk-daily]] — 100 Years of Artificial Intelligence Explained (2026-06-02)
 - [[2026-06-03-nate-herk-daily]] — I Tested Every Claude Code Feature, These 12 Are the Best (2026-06-03)
 - [[2026-06-06-nate-herk-daily]] — AGI is Here. Anthropic Just Proved It.: Anthropic's "When AI Builds Itself" report; >80% code authored by Claude; three-scenario AGI framework; practical AGI = scenario two already arrived per their own data (2026-06-06)
-- [[2026-06-07-nate-herk-daily]] — Is Claude Mythos Coming?: Mythos API leak, Project Glasswing, IPO timing hype, base case = capabilities fold into next Opus silently; public Mythos unlikely under that name (2026-06-07)
+- [[2026-06-07-nate-herk-daily]] — Is Claude Mythos Coming?: Mythos API leak, Project Glasswind, IPO timing hype, base case = capabilities fold into next Opus silently; public Mythos unlikely under that name (2026-06-07)
 - [[2026-06-08-nate-herk-daily]] — No video (2026-06-08 IST)
-- [[2026-06-09-nate-herk-daily]] — Claude Mythos is Finally Here.: Fable-5 (Mythos-class, public until June 22nd) vs. Mythos-5 (Project Glasswing only); agentic loop token-burn warning; IPO profitability constraint (2026-06-09)
+- [[2026-06-09-nate-herk-daily]] — Claude Mythos is Finally Here.: Fable-5 (Mythos-class, public until June 22nd) vs. Mythos-5 (Project Glasswind only); agentic loop token-burn warning; IPO profitability constraint (2026-06-09)
 - [[2026-06-10-nate-herk-daily]] — I Turned Claude Fable Into The Ultimate Second Brain: Four Cs framework (Context/Connections/Capabilities/Cadence) in production on Claude Fable; routing tree architecture; DEEP-DIVE (2026-06-10)
 - [[2026-06-11-nate-herk-daily]] — No video (2026-06-11 IST)
 - [[2026-06-12-nate-herk-daily]] — From Zero to Head of AI in 1 Year (as a regular person): Ailin's story — 15-yr email dev → Head of AI in ~1 year via n8n + Claude Code; building in public; the "What have you built?" pivot question; COMMENTARY (2026-06-12)
@@ -64,7 +64,6 @@ Primary source for the implementation lane of this wiki. Tracked via the **Nate 
 - [[2026-06-28-nate-herk-daily]] — No video (2026-06-28 IST)
 - [[2026-06-29-nate-herk-daily]] — Stanford's Method Turns Claude Into a PHD Level Research Team: free Storm Research Claude Skill (5-lens STORM method) benchmarked against native Deep Research; BUILD
 - [[2026-06-30-nate-herk-daily]] — No video published on 2026-06-30 (IST)
-
 - [[2026-07-01-nate-herk-daily]] — No video published on 2026-07-01 (IST).
 - [[2026-07-02-nate-herk-daily]] — How Anthropic Engineers Actually Prompt Fable 5: six prompting habits for Fable 5 distilled from Anthropic's official docs; effort-level matching; silent Opus handoff triggers; verification-first design; DEEP-DIVE (2026-07-02)
 - [[2026-07-03-nate-herk-daily]] — How Claude is Creating a New Generation of Millionaires (COMMENTARY, 2026-07-03): Claude creating millionaires thesis; Vulcan 3-person state contract; The Four Things framework; urgency framing
@@ -72,6 +71,6 @@ Primary source for the implementation lane of this wiki. Tracked via the **Nate 
 - [[2026-07-05-nate-herk-daily]] — No video (2026-07-05 IST)
 - [[2026-07-06-nate-herk-daily]] — No video (2026-07-06 IST)
 - [[2026-07-07-nate-herk-daily]] — How I Make Opus Think Like Fable (5 easy steps): Fable Mode Skill (5-gate: Scope/Evidence/Attack/Verify/Calibrate) + Model Routing Table; Fable orchestrating Opus ≈ all-Fable at fraction of cost; effort-level calibration; BUILD (2026-07-07)
-
 - [[2026-07-08-nate-herk-daily]] — No video published on 2026-07-08 IST.
 - [[2026-07-09-nate-herk-daily]] — Fable 5 Just Built Me a Business With One Prompt: Fable-5 orchestrates hundreds of Opus/Sonnet workers across a nine-phase company-build (pain hunt → tournament → brand → product → videos → red-team → package); goal-file prompt pattern; Definition of Done as convergence signal; Counterbrief SaaS output; BUILD (2026-07-09)
+- [[2026-07-10-nate-herk-daily]] — I Tested GPT 5.6 Sol vs Fable 5 (Manager vs Worker framing; Fable=creative orchestrator, Sol=fast cost-effective executor; one-shot frontend test battery; model routing heuristic; DEEP-DIVE, 2026-07-10)
