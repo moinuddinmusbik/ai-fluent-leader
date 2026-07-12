@@ -626,3 +626,20 @@ Append-only chronological record of all operations on this wiki.
   - wiki/entities/nate-herk.md (bumped updated to 2026-07-10, added 2026-07-10 source entry)
   - wiki/index.md (appended source line)
   - wiki/log.md (this entry)
+
+## [2026-07-11] ingest | Nate B Jones Daily Leader Briefing 2026-07-11 (FRAMEWORK)
+- **Operation:** ingest
+- **Routine:** nate-b-jones-daily
+- **Date:** 2026-07-11
+- **Lens:** FRAMEWORK
+- **Episode type:** Short-only day (teaser Short 0:39; no long-form episode); transcript unavailable
+- **Short:** "The AI skill nobody talks about (and it isn't prompting)" — https://www.youtube.com/watch?v=gROqcBXoz_c
+- **Substack:** "The economist who formalized the AI doom scenario says its own conditions are too extreme to hold — here's what the math actually shows + the gap framework that changes your career calculus" — https://natesnewsletter.substack.com/p/a-fictional-recession-just-crashed (Feb 26, 2026; preview; full post paid)
+- **Key content:** [[capability-dissipation-gap]] framework (individual: specification-writing vs chat-window; economy-wide: four inertia forces); Citrini doom scenario deflated; IBM/$200B+ market-cap wipe as dissipation-lag; $40-70% service cost compression; purchasing-power paradox math; skill ≠ prompting.
+- **Files committed:**
+  - raw/emails-archive/2026-07-11-nate-b-jones-daily.md
+  - wiki/sources/2026-07-11-nate-b-jones-daily.md (FRAMEWORK brief: big idea, framework, how it works, where it applies, receipts, contrarian edge, what-it-means, mistake)
+  - wiki/concepts/capability-dissipation-gap.md (new concept page)
+  - wiki/entities/nate-b-jones.md (bumped updated to 2026-07-11, added 2026-07-11 source entry)
+  - wiki/index.md (appended source line + new concept line)
+  - wiki/log.md (this entry)
