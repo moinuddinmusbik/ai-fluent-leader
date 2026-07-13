@@ -76,4 +76,15 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-07-10-nate-herk-daily]] — I Tested GPT 5.6 Sol vs Fable 5: Manager vs Worker model framing; Fable=creative orchestrator, Sol=fast cost-effective executor; one-shot frontend test battery in Codex vs Claude Code + API; model routing heuristic; DEEP-DIVE (2026-07-10)
 - [[2026-07-11-nate-b-jones-daily]] — Short-only day; FRAMEWORK lens; [[capability-dissipation-gap]] (individual: spec-writing vs chat-window; economy: four inertia forces); Citrini doom deflated; IBM/$200B market-cap wipe as dissipation-lag; skill ≠ prompting (2026-07-11)
 - [[capability-dissipation-gap]] — Nate's framework for the widening distance between what AI can technically do and what any person/org/economy has reorganized to use; operates at individual scale (spec-writing vs chat-window) and economy-wide scale (four inertia forces: regulatory, organizational, cultural, trust); introduced 2026-07-11
-- [[2026-07-12-nate-herk-daily]] — Claude Code + Clay lead gen machine: /goal prompt spawns parallel sub-agents; Clay waterfall enriches leads (80-90% email match); $12/50 fully enriched leads + personalized copy; context-files are a hard prereq; BUILD (2026-07-12)
+- [[2026-07-12-weekly-ai-leadership-stories]] — Weekly AI Leadership Stories (Jul 6–12, 2026): AI accountability era; IBM control gap; Cognizant/HDFC deployments; CAIO maturity; Anthropic LTBT
+
+## Entities
+- [[ibm]] — IBM Institute for Business Value; AI control gap study 2026
+- [[cognizant]] — Gemini Enterprise rollout to 200K associates; AI Builder strategy
+- [[anthropic]] — Long-Term Benefit Trust; Public Benefit Corporation AI governance
+- [[ben-bernanke]] — Nobel economist; appointed to Anthropic LTBT Jul 2026
+- [[hdfc-bank]] — Neev GenAI platform; India's largest private bank AI deployment
+- [[chief-ai-officer]] — CAIO role maturity; archetypes; effectiveness criteria; 2026 adoption data
+- [[ai-governance]] — IBM control gap; LTBT model; board-level oversight; shadow AI
+- [[enterprise-ai-platform]] — Neev (HDFC), Gemini Enterprise (Cognizant); shared-infrastructure patterns
+- [[ai-accountability]] — Unifying theme of Jul 6–12 2026 digest
