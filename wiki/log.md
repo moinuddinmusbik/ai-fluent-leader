@@ -643,3 +643,20 @@ Append-only chronological record of all operations on this wiki.
   - wiki/entities/nate-b-jones.md (bumped updated to 2026-07-11, added 2026-07-11 source entry)
   - wiki/index.md (appended source line + new concept line)
   - wiki/log.md (this entry)
+
+## [2026-07-12] ingest | Nate Herk Daily Implementation Playbook
+- **Operation:** ingest
+- **Routine:** Nate Herk Daily Implementation Playbook
+- **Video:** Claude Code + Clay Makes Lead Generation Actually Fun
+- **URL:** https://www.youtube.com/watch?v=zyvdl__Ywfk
+- **Duration:** 18:03
+- **Type:** BUILD
+- **Transcript segments:** 141
+- **Key facts:** Claude Code orchestrates; Clay waterfall enriches leads (80-90% email match vs ~30% single-vendor); /goal + dynamic workflow verification; 6 parallel sub-agents by city; 50 leads in ~1 hour full run or ~5 min quick pull; 172 Clay credits ($12); context files are a hard prerequisite for copy quality; Clay MCP can't manage campaigns yet.
+- **Files committed:**
+  - raw/transcripts/2026-07-12-nate-herk-daily.md
+  - raw/emails-archive/2026-07-12-nate-herk-daily.md
+  - wiki/sources/2026-07-12-nate-herk-daily.md (BUILD playbook: what-he-builds, architecture, build-it-yourself steps, prompts/configs, gotchas, steal-this, mistake, in-his-words, source)
+  - wiki/entities/nate-herk.md (bumped updated to 2026-07-12, added 2026-07-12 source entry)
+  - wiki/index.md (appended source line)
+  - wiki/log.md (this entry)

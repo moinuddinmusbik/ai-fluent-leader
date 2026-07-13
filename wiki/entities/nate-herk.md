@@ -2,7 +2,7 @@
 title: "Nate Herk"
 type: entity
 created: 2026-05-21
-updated: 2026-07-11
+updated: 2026-07-12
 tags: [creator, implementation]
 sources: []
 ---
@@ -75,3 +75,4 @@ Primary source for the implementation lane of this wiki. Tracked via the **Nate 
 - [[2026-07-09-nate-herk-daily]] — Fable 5 Just Built Me a Business With One Prompt: Fable-5 orchestrates hundreds of Opus/Sonnet workers across a nine-phase company-build (pain hunt → tournament → brand → product → videos → red-team → package); goal-file prompt pattern; Definition of Done as convergence signal; Counterbrief SaaS output; BUILD (2026-07-09)
 - [[2026-07-10-nate-herk-daily]] — I Tested GPT 5.6 Sol vs Fable 5 (Manager vs Worker framing; Fable=creative orchestrator, Sol=fast cost-effective executor; one-shot frontend test battery; model routing heuristic; DEEP-DIVE, 2026-07-10)
 - [[2026-07-11-nate-herk-daily]] — Claude Code for Non-Coders (6 Hour Course) (2026-07-11)
+- [[2026-07-12-nate-herk-daily]] — Claude Code + Clay Makes Lead Generation Actually Fun: Claude Code + Clay lead gen machine; /goal prompt drives parallel sub-agents across cities; Clay waterfall enrichment (80-90% email hit rate); $12/50 leads; context-files prereq for copy quality; BUILD (2026-07-12)
