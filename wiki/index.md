@@ -76,15 +76,6 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-07-10-nate-herk-daily]] — I Tested GPT 5.6 Sol vs Fable 5: Manager vs Worker model framing; Fable=creative orchestrator, Sol=fast cost-effective executor; one-shot frontend test battery in Codex vs Claude Code + API; model routing heuristic; DEEP-DIVE (2026-07-10)
 - [[2026-07-11-nate-b-jones-daily]] — Short-only day; FRAMEWORK lens; [[capability-dissipation-gap]] (individual: spec-writing vs chat-window; economy: four inertia forces); Citrini doom deflated; IBM/$200B market-cap wipe as dissipation-lag; skill ≠ prompting (2026-07-11)
 - [[capability-dissipation-gap]] — Nate's framework for the widening distance between what AI can technically do and what any person/org/economy has reorganized to use; operates at individual scale (spec-writing vs chat-window) and economy-wide scale (four inertia forces: regulatory, organizational, cultural, trust); introduced 2026-07-11
-- [[2026-07-12-weekly-ai-leadership-stories]] — Weekly AI Leadership Stories (Jul 6–12, 2026): AI accountability era; IBM control gap; Cognizant/HDFC deployments; CAIO maturity; Anthropic LTBT
-
-## Entities
-- [[ibm]] — IBM Institute for Business Value; AI control gap study 2026
-- [[cognizant]] — Gemini Enterprise rollout to 200K associates; AI Builder strategy
-- [[anthropic]] — Long-Term Benefit Trust; Public Benefit Corporation AI governance
-- [[ben-bernanke]] — Nobel economist; appointed to Anthropic LTBT Jul 2026
-- [[hdfc-bank]] — Neev GenAI platform; India's largest private bank AI deployment
-- [[chief-ai-officer]] — CAIO role maturity; archetypes; effectiveness criteria; 2026 adoption data
-- [[ai-governance]] — IBM control gap; LTBT model; board-level oversight; shadow AI
-- [[enterprise-ai-platform]] — Neev (HDFC), Gemini Enterprise (Cognizant); shared-infrastructure patterns
-- [[ai-accountability]] — Unifying theme of Jul 6–12 2026 digest
+- [[2026-07-12-nate-b-jones-daily]] — FRAMEWORK lens; [[ai-native-commandments]] (15 commandments as one operating system); operator's job = move repeatable coordination into code; [[enforcement-ladder]] (value→instruction→reminder→hard block→human decision); photography analogy for cost-collapse; "humans become the rate limit" thesis (2026-07-12)
+- [[ai-native-commandments]] — Nate's 15-commandment operating system for AI-native organizational speed; four clusters (speed/meetings/systems/human); replacement rule: ban without installing the replacement deletes coordination; introduced 2026-07-12
+- [[enforcement-ladder]] — Five-rung model for turning org rules into software-enforced behavior: value → instruction → reminder → hard block → human-owned decision; machine asks, person keeps judgment; introduced 2026-07-12

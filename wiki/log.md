@@ -643,29 +643,19 @@ Append-only chronological record of all operations on this wiki.
   - wiki/entities/nate-b-jones.md (bumped updated to 2026-07-11, added 2026-07-11 source entry)
   - wiki/index.md (appended source line + new concept line)
   - wiki/log.md (this entry)
-## [2026-07-13] ingest | Weekly AI Leadership Stories Jul 6–12, 2026
+## [2026-07-12] ingest | Nate B Jones Daily Leader Briefing — Your Roadmap Is Why You're Losing to AI-Native Teams.
 - **Operation:** ingest
-- **Routine:** Weekly AI Leadership Stories
-- **Window:** 2026-07-06 to 2026-07-12 (Asia/Calcutta)
-- **Email sent:** moinuddin.musbik@gmail.com
-- **Subject:** Weekly AI Leadership Stories — July 6, 2026 to July 12, 2026
-- **Files written:**
-  - raw/emails-archive/2026-07-12-weekly-ai-leadership-stories.md
-  - wiki/sources/2026-07-12-weekly-ai-leadership-stories.md
-  - wiki/entities/ibm.md (new)
-  - wiki/entities/cognizant.md (new)
-  - wiki/entities/anthropic.md (new)
-  - wiki/entities/ben-bernanke.md (new)
-  - wiki/entities/hdfc-bank.md (new)
-  - wiki/concepts/chief-ai-officer.md (new)
-  - wiki/concepts/ai-governance.md (new)
-  - wiki/concepts/enterprise-ai-platform.md (new)
-  - wiki/index.md (updated)
-  - wiki/log.md (updated)
-- **Stories covered:**
-  1. IBM IBV — CIOs/CTOs AI control gap (Jul 8, 2026)
-  2. Cognizant + Google Cloud — Gemini Enterprise for 200K associates (Jul 7, 2026)
-  3. Anthropic — Ben Bernanke appointed to LTBT (Jul 9, 2026)
-  4. Alex Smale — CAIO role maturity in 2026 (Jul 8, 2026)
-  5. HDFC Bank — Neev GenAI platform launch (Jul 11, 2026)
-- **Theme:** AI leadership's accountability era — from exploration to operation, from advisory to accountable, from pilots to platforms.
+- **Source:** Nate B Jones Daily Leader Briefing
+- **Lens:** FRAMEWORK
+- **Video:** https://www.youtube.com/watch?v=hYcOFTMesGc (17:53)
+- **Substack:** https://natesnewsletter.substack.com/p/ai-native-company-rules (preview; full post paid)
+- **Key content:** [[ai-native-commandments]] framework (15 commandments as one operating system: speed/meetings/systems/human clusters); [[enforcement-ladder]] (five-rung: value→instruction→reminder→hard block→human-owned decision); replacement rule — ban requires installing replacement first; photography analogy for cost-collapse; "humans become the rate limit" thesis; Meeting Challenger tool as C7 running as software.
+- **Files committed:**
+  - raw/transcripts/2026-07-12-nate-b-jones-daily-transcript.md
+  - raw/emails-archive/2026-07-12-nate-b-jones-daily.md
+  - wiki/sources/2026-07-12-nate-b-jones-daily.md (FRAMEWORK brief)
+  - wiki/concepts/ai-native-commandments.md (new concept page)
+  - wiki/concepts/enforcement-ladder.md (new concept page)
+  - wiki/entities/nate-b-jones.md (bumped updated to 2026-07-12, added 2026-07-12 source entry)
+  - wiki/index.md (appended source line + two new concept lines)
+  - wiki/log.md (this entry)
