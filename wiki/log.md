@@ -659,3 +659,14 @@ Append-only chronological record of all operations on this wiki.
   - wiki/entities/nate-b-jones.md (bumped updated to 2026-07-12, added 2026-07-12 source entry)
   - wiki/index.md (appended source line + two new concept lines)
   - wiki/log.md (this entry)
+## [2026-07-13] ingest | Nate Herk Daily Implementation Playbook (no new video)
+- **Operation:** ingest
+- **Routine:** nate-herk-daily
+- **Type:** no-video
+- **Result:** No video published by Nate Herk (@nateherk) on 2026-07-13 (IST).
+- **Files written:**
+  - raw/emails-archive/2026-07-13-nate-herk-daily.md
+  - wiki/sources/2026-07-13-nate-herk-daily.md (stub: no video)
+  - wiki/entities/nate-herk.md (bumped updated to 2026-07-13, added no-video stub under Linked pages)
+  - wiki/index.md (appended no-video source line)
+  - wiki/log.md (this entry)
