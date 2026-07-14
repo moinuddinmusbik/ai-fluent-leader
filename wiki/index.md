@@ -80,3 +80,5 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[ai-native-commandments]] — Nate's 15-commandment operating system for AI-native organizational speed; four clusters (speed/meetings/systems/human); replacement rule: ban without installing the replacement deletes coordination; introduced 2026-07-12
 - [[enforcement-ladder]] — Five-rung model for turning org rules into software-enforced behavior: value → instruction → reminder → hard block → human-owned decision; machine asks, person keeps judgment; introduced 2026-07-12
 - [[2026-07-13-nate-herk-daily]] — No video published on 2026-07-13 (IST); no playbook content.
+- [[2026-07-13-nate-b-jones-daily]] — TAKE lens; [[model-fit]] diagnostic; benchmarks ≠ fit; Sol vs Fable family split; "the job is only half of it" (work-pattern axis); Sol 93/Dingo; modelfit.natebjones.com (2026-07-13)
+- [[model-fit]] — Nate's diagnostic concept/tool for selecting AI models by work pattern, not benchmark rank; Sol-family (execution/RL) vs Fable-family (intent-inference/pre-train) split; two-week calibration window; introduced 2026-07-13

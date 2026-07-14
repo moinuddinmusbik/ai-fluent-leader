@@ -670,3 +670,18 @@ Append-only chronological record of all operations on this wiki.
   - wiki/entities/nate-herk.md (bumped updated to 2026-07-13, added no-video stub under Linked pages)
   - wiki/index.md (appended no-video source line)
   - wiki/log.md (this entry)
+## [2026-07-13] ingest | Nate B Jones Daily Leader Briefing — Your Next AI Subscription Shouldn't Be ChatGPT 5.6 Or Fable 5. It Should Be Both.
+- **Operation:** ingest
+- **Source:** Nate B Jones Daily Leader Briefing
+- **Lens:** TAKE
+- **Video:** https://www.youtube.com/watch?v=jOWXBzP6nNg (13:27)
+- **Substack:** https://natesnewsletter.substack.com/p/pick-ai-model-how-you-work (preview; full post paid)
+- **Transcript:** Unavailable (YouTube captions blocked; brief grounded on Substack preview + video description)
+- **Key content:** Model selection by work pattern, not benchmark rank; OpenAI RL-bet (Sol) vs Anthropic pre-train-bet (Fable) as two distinct model families; Nate's Dingo benchmark (Sol 93, Fable suite-winner); [[model-fit]] diagnostic tool introduced; "the job is only half of it — the person doing the work matters too"; two-week calibration window.
+- **Files committed:**
+  - raw/emails-archive/2026-07-13-nate-b-jones-daily.md
+  - wiki/sources/2026-07-13-nate-b-jones-daily.md (TAKE brief)
+  - wiki/concepts/model-fit.md (new concept page)
+  - wiki/entities/nate-b-jones.md (bumped updated to 2026-07-13, added 2026-07-13 source entry)
+  - wiki/index.md (appended source line + new concept line)
+  - wiki/log.md (this entry)
