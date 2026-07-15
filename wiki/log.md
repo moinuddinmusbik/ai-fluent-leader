@@ -685,3 +685,20 @@ Append-only chronological record of all operations on this wiki.
   - wiki/entities/nate-b-jones.md (bumped updated to 2026-07-13, added 2026-07-13 source entry)
   - wiki/index.md (appended source line + new concept line)
   - wiki/log.md (this entry)
+## [2026-07-14] ingest | Nate B Jones Daily Leader Briefing — You Can Build 80% of Your AI Memory Just by Talking
+- **Operation:** ingest
+- **Source:** Nate B Jones Daily Leader Briefing
+- **Lens:** FRAMEWORK
+- **Video:** Short only — https://www.youtube.com/watch?v=VOLWSC_XeZY (0:30) — no long-form episode on 2026-07-14
+- **Substack:** https://natesnewsletter.substack.com/p/build-your-own-ai-memory (preview; full post paid) — Jul 01, 2026
+- **Transcript:** Unavailable (Short-only day; brief grounded on Substack free preview + Short description)
+- **Key content:** [[one-loop]] (Memory/Method/Boundary/Receipt/Judgment as minimum responsible-agent unit); [[owned-stack]] (Open Brain + Open Skills + Open Engine; "rented intelligence on top, owned context underneath"); [[agent-intent]] ("what the agent thought it had permission to do"); Lemonade Insurance case (Jan 2026, @Hormold); ~80% buildable by conversation; February-to-now capability jump.
+- **Pages committed:**
+  - raw/emails-archive/2026-07-14-nate-b-jones-daily.md
+  - wiki/sources/2026-07-14-nate-b-jones-daily.md (FRAMEWORK brief)
+  - wiki/concepts/one-loop.md (new)
+  - wiki/concepts/owned-stack.md (new)
+  - wiki/concepts/agent-intent.md (new)
+  - wiki/entities/nate-b-jones.md (bumped updated to 2026-07-14, added 2026-07-14 source entry)
+  - wiki/index.md (appended source line + 3 new concept lines)
+  - wiki/log.md (this entry)
