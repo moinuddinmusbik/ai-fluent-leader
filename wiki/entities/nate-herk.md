@@ -2,7 +2,7 @@
 title: "Nate Herk"
 type: entity
 created: 2026-05-21
-updated: 2026-07-13
+updated: 2026-07-14
 tags: [creator, implementation]
 sources: []
 ---
@@ -78,3 +78,4 @@ Primary source for the implementation lane of this wiki. Tracked via the **Nate 
 - [[2026-07-12-nate-herk-daily]] — Claude Code + Clay Makes Lead Generation Actually Fun: Claude Code + Clay lead gen machine; /goal prompt drives parallel sub-agents across cities; Clay waterfall enrichment (80-90% email hit rate); $12/50 leads; context-files prereq for copy quality; BUILD (2026-07-12)
 
 - [[2026-07-13-nate-herk-daily]] — No video published on 2026-07-13 (IST); no playbook content.
+- [[2026-07-14-nate-herk-daily]] — The $200K AI Job That Didn't Exist Last Year: in-house AI operator emergence; doctor vs pharmacist frame; builder trap warning; 4-step roadmap; COMMENTARY (2026-07-14)
