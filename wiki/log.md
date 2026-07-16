@@ -712,3 +712,18 @@ Append-only chronological record of all operations on this wiki.
   - wiki/entities/nate-herk.md (bumped updated to 2026-07-15, added stub entry)
   - wiki/index.md (appended source line)
   - wiki/log.md (this entry)
+## [2026-07-15] ingest | Nate B Jones Daily Leader Briefing
+- **Operation:** ingest
+- **Routine:** nate-b-jones-daily
+- **Lane:** strategy
+- **Lens:** FRAMEWORK
+- **Episode:** "2026-07-15 — Every Prompt You Send Drags 18,384 Words Of Junk. Here's How I Cut It." (15:51)
+- **Transcript:** unavailable (caption API returned empty; brief grounded on Substack preview + video description)
+- **Files written:**
+  - raw/emails-archive/2026-07-15-nate-b-jones-daily.md
+  - wiki/sources/2026-07-15-nate-b-jones-daily.md (full FRAMEWORK brief; ai-harness-audit framework, harness-bloat phenomenon, six rules, receipts)
+  - wiki/entities/nate-b-jones.md (bumped updated to 2026-07-15, added source entry)
+  - wiki/concepts/ai-harness-audit.md (new concept page)
+  - wiki/concepts/harness-bloat.md (new concept page)
+  - wiki/index.md (appended source line + 2 new concept lines)
+  - wiki/log.md (this entry)
