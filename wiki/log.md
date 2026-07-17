@@ -740,3 +740,19 @@ Append-only chronological record of all operations on this wiki.
   - wiki/entities/nate-herk.md (bumped updated to 2026-07-16, added stub entry)
   - wiki/index.md (appended source line)
   - wiki/log.md (this entry)
+
+## [2026-07-16] ingest | Nate B Jones Daily Leader Briefing
+- **Operation:** ingest
+- **Routine:** nate-b-jones-daily
+- **Lane:** strategy
+- **Lens:** FRAMEWORK
+- **Type:** short-only (no long-form transcript)
+- **Source:** Short video xeid_wnpfJs (PT36S) + Substack post https://natesnewsletter.substack.com/p/build-your-own-ai-memory (preview; full post paid; originally published 2026-07-01)
+- **Key concepts covered:** [[one-loop]] (Five-Part Loop: memory/method/boundary/receipt/judgment); [[owned-stack]] (Open Brain + Open Skills + Open Engine); [[agent-intent]] (capability→intent shift; Lemonade Insurance canonical case)
+- **Note:** No long-form transcript available; briefing grounded on Substack free preview + Short description. "In His Words" block omitted per no-transcript protocol. Concepts [[one-loop]], [[owned-stack]], [[agent-intent]] already exist (first introduced 2026-07-14); no new concept pages created.
+- **Files written:**
+  - raw/emails-archive/2026-07-16-nate-b-jones-daily.md
+  - wiki/sources/2026-07-16-nate-b-jones-daily.md
+  - wiki/entities/nate-b-jones.md (bumped updated to 2026-07-16, added source entry)
+  - wiki/index.md (appended source line)
+  - wiki/log.md (this entry)

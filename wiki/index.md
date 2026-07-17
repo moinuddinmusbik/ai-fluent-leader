@@ -91,3 +91,4 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[ai-harness-audit]] — Six-rule framework for mapping, cleaning, and maintaining AI instruction harnesses across model upgrades; introduced 2026-07-15
 - [[harness-bloat]] — Phenomenon of accumulated AI instructions degrading delivery; compact brief outperforms enriched brief on execution; introduced 2026-07-15
 - [[2026-07-16-nate-herk-daily]] — No video published on 2026-07-16 (IST).
+- [[2026-07-16-nate-b-jones-daily]] — Short-only day; FRAMEWORK: [[one-loop]] (Five-Part Loop: memory/method/boundary/receipt/judgment); [[owned-stack]] (Open Brain + Open Skills + Open Engine); [[agent-intent]]; Lemonade Insurance canonical case; build ~5× easier via coding agents (FRAMEWORK, 2026-07-16)
