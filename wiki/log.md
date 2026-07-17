@@ -727,3 +727,16 @@ Append-only chronological record of all operations on this wiki.
   - wiki/concepts/harness-bloat.md (new concept page)
   - wiki/index.md (appended source line + 2 new concept lines)
   - wiki/log.md (this entry)
+
+## [2026-07-16] ingest | Nate Herk Daily Implementation Playbook
+- **Operation:** ingest
+- **Routine:** nate-herk-daily
+- **Lane:** implementation
+- **Type:** no-content
+- **Note:** No Nate Herk video published on 2026-07-16 (IST). UTC window 2026-07-15 18:30:00Z → 2026-07-16 18:30:00Z was empty; most recent video was 2026-07-14.
+- **Files written:**
+  - raw/emails-archive/2026-07-16-nate-herk-daily.md
+  - wiki/sources/2026-07-16-nate-herk-daily.md (stub)
+  - wiki/entities/nate-herk.md (bumped updated to 2026-07-16, added stub entry)
+  - wiki/index.md (appended source line)
+  - wiki/log.md (this entry)

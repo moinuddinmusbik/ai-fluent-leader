@@ -90,3 +90,4 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-07-15-nate-b-jones-daily]] — Six-rule AI harness audit; [[ai-harness-audit]] framework; [[harness-bloat]] phenomenon; 18,384-word load revealed in audit (FRAMEWORK, 2026-07-15)
 - [[ai-harness-audit]] — Six-rule framework for mapping, cleaning, and maintaining AI instruction harnesses across model upgrades; introduced 2026-07-15
 - [[harness-bloat]] — Phenomenon of accumulated AI instructions degrading delivery; compact brief outperforms enriched brief on execution; introduced 2026-07-15
+- [[2026-07-16-nate-herk-daily]] — No video published on 2026-07-16 (IST).
