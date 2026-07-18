@@ -761,3 +761,9 @@ Append-only chronological record of all operations on this wiki.
 - **Source:** Nate Herk Daily Implementation Playbook
 - **Details:** No long-form video published by Nate Herk on 2026-07-17 IST. UTC check window: 2026-07-16T18:30:00Z → 2026-07-17T18:30:00Z. Most recent video: "The $200K AI Job That Didn't Exist Last Year" (2026-07-14). No-content path executed per STEP 6.
 - **Pages touched:** [[2026-07-17-nate-herk-daily]], [[nate-herk]], [[index]], [[log]]
+## [2026-07-17] ingest | Nate B Jones Daily Leader Briefing
+- **Operation:** ingest
+- **Source:** Nate B Jones Daily Leader Briefing
+- **Lens:** TAKE
+- **Details:** Episode "Codex vs Fable: Which AI Agent Picked the Better Problem?" (uCWKXIyvM_8, 12:08) published 2026-07-17T14:00:33Z. Transcript unavailable (YouTube transcript panel inaccessible from automation); brief grounded on Substack preview + video description. Concept page created: [[strategic-discovery-vs-execution]].
+- **Pages touched:** [[2026-07-17-nate-b-jones-daily]], [[nate-b-jones]], [[strategic-discovery-vs-execution]], [[index]], [[log]]
