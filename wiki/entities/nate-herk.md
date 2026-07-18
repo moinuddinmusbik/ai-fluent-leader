@@ -2,7 +2,7 @@
 title: "Nate Herk"
 type: entity
 created: 2026-05-21
-updated: 2026-07-16
+updated: 2026-07-17
 tags: [creator, implementation]
 sources: []
 ---
@@ -81,3 +81,4 @@ Primary source for the implementation lane of this wiki. Tracked via the **Nate 
 - [[2026-07-14-nate-herk-daily]] — The $200K AI Job That Didn't Exist Last Year: in-house AI operator emergence; doctor vs pharmacist frame; builder trap warning; 4-step roadmap; COMMENTARY (2026-07-14)
 - [[2026-07-15-nate-herk-daily]] — No video published on 2026-07-15 (IST); no playbook content.
 - [[2026-07-16-nate-herk-daily]] — No video published on 2026-07-16 (IST); no playbook content.
+- [[2026-07-17-nate-herk-daily]] — No video published on 2026-07-17 (IST).

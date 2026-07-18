@@ -756,3 +756,8 @@ Append-only chronological record of all operations on this wiki.
   - wiki/entities/nate-b-jones.md (bumped updated to 2026-07-16, added source entry)
   - wiki/index.md (appended source line)
   - wiki/log.md (this entry)
+## [2026-07-17] ingest | Nate Herk Daily Implementation Playbook (no new video)
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Details:** No long-form video published by Nate Herk on 2026-07-17 IST. UTC check window: 2026-07-16T18:30:00Z → 2026-07-17T18:30:00Z. Most recent video: "The $200K AI Job That Didn't Exist Last Year" (2026-07-14). No-content path executed per STEP 6.
+- **Pages touched:** [[2026-07-17-nate-herk-daily]], [[nate-herk]], [[index]], [[log]]
