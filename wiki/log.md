@@ -774,3 +774,9 @@ Append-only chronological record of all operations on this wiki.
 - **Type:** no-video
 - **Details:** No video published on 2026-07-18 (IST). Channel last uploaded on 2026-07-14.
 - **Pages touched:** [[2026-07-18-nate-herk-daily]], [[nate-herk]], [[index]], [[log]]
+## [2026-07-18] ingest | Nate B Jones Daily Leader Briefing
+- **Operation:** ingest
+- **Routine:** Nate B Jones Daily Leader Briefing
+- **Lens:** FRAMEWORK
+- **Details:** Short-only day (0:34, videoId: 5Ho0NYVhL14). No long-form episode published on 2026-07-18 (IST). Substack post sourced: "Why it's time to escape the application pile + the exact site I shipped" (Jan 16, 2026, preview only; full post paid). Transcript unavailable. Concept page created: [[escape-the-application-pile]].
+- **Pages touched:** [[2026-07-18-nate-b-jones-daily]], [[nate-b-jones]], [[escape-the-application-pile]], [[index]], [[log]]
