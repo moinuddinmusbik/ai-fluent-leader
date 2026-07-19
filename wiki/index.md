@@ -94,3 +94,4 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-07-16-nate-b-jones-daily]] — Short-only day; FRAMEWORK: [[one-loop]] (Five-Part Loop: memory/method/boundary/receipt/judgment); [[owned-stack]] (Open Brain + Open Skills + Open Engine); [[agent-intent]]; Lemonade Insurance canonical case; build ~5× easier via coding agents (FRAMEWORK, 2026-07-16)
 - [[2026-07-17-nate-herk-daily]] — No video published on 2026-07-17 (IST).
 - [[2026-07-17-nate-b-jones-daily]] — TAKE: Codex vs Fable experiment; strategic discovery vs execution; [[strategic-discovery-vs-execution]]; "big model smell"; stop-and-propose checkpoint; 5-offer discipline (TAKE, 2026-07-17)
+- [[2026-07-18-nate-herk-daily]] — No video published on 2026-07-18 (IST).

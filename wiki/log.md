@@ -767,3 +767,10 @@ Append-only chronological record of all operations on this wiki.
 - **Lens:** TAKE
 - **Details:** Episode "Codex vs Fable: Which AI Agent Picked the Better Problem?" (uCWKXIyvM_8, 12:08) published 2026-07-17T14:00:33Z. Transcript unavailable (YouTube transcript panel inaccessible from automation); brief grounded on Substack preview + video description. Concept page created: [[strategic-discovery-vs-execution]].
 - **Pages touched:** [[2026-07-17-nate-b-jones-daily]], [[nate-b-jones]], [[strategic-discovery-vs-execution]], [[index]], [[log]]
+
+## [2026-07-18] ingest | Nate Herk Daily Implementation Playbook
+- **Operation:** ingest
+- **Routine:** Nate Herk Daily Implementation Playbook
+- **Type:** no-video
+- **Details:** No video published on 2026-07-18 (IST). Channel last uploaded on 2026-07-14.
+- **Pages touched:** [[2026-07-18-nate-herk-daily]], [[nate-herk]], [[index]], [[log]]
