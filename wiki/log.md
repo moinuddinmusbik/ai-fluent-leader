@@ -786,3 +786,9 @@ Append-only chronological record of all operations on this wiki.
 - **Result:** No video published on 2026-07-19 (IST).
 - **Most recent prior upload:** "The $200K AI Job That Didn't Exist Last Year" (2026-07-14)
 - **Files:** raw/emails-archive/2026-07-19-nate-herk-daily.md, wiki/sources/2026-07-19-nate-herk-daily.md, wiki/entities/nate-herk.md, wiki/index.md, wiki/log.md
+## [2026-07-19] ingest | Nate B Jones Daily Leader Briefing
+- **Operation:** ingest
+- **Routine:** Nate B Jones Daily Leader Briefing
+- **Lens:** TAKE
+- **Details:** Long-form episode (14:04, videoId: 5slsNizN6MQ). "I Cut the Internet and Let AI Read the File I Could Never Upload. It Caught the Leak." Transcript extracted (370 segments, 14,171 chars). Substack: "Executive Briefing: How Microsoft, Bayer, and Discovery Use AI on the Data You Can't Upload" (preview; full post paid). Key receipts: Discovery Bank (5×4o-mini/4.1-mini variants; 5–6 sec → 1.5–2 sec), Bayer (Phi LoRA; days → 30 sec), Grok Build leak proof point, LM Studio live demo. Contrarian edge: open source ≠ free to switch vendors; model portability is the real strategic question.
+- **Pages touched:** [[2026-07-19-nate-b-jones-daily]], [[2026-07-19-nate-b-jones-daily-transcript]], [[nate-b-jones]], [[index]], [[log]]
