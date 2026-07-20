@@ -98,4 +98,8 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-07-18-nate-b-jones-daily]] — Short-only day (0:34); FRAMEWORK: [[escape-the-application-pile]] (exit the ATS arms race by building a personal AI interface; assert-vs-demonstrate; bidirectional fit assessment; sub-1% success rate; implementation spectrum from 30-min doc to weekend site build) (FRAMEWORK, 2026-07-18)
 - [[escape-the-application-pile]] — Career strategy framework: exit the ATS application arms race by building a personal AI-powered interface; shift from filtered document to discoverable surface; bidirectional fit assessment tool; introduced 2026-07-18
 - [[2026-07-19-nate-herk-daily]] — No new Nate Herk video on 2026-07-19 (IST).
-- [[2026-07-19-nate-b-jones-daily]] — TAKE: "bring the model to the file"; Grok Build leak; Discovery Bank + Bayer receipts; LM Studio demo; Microsoft LoRA lock-in; open-weight portability as the real strategic frontier (TAKE, 2026-07-19)
+- [[2026-07-19-weekly-ai-leadership-stories]] — Weekly AI Leadership Stories digest (2026-07-13 to 2026-07-19): Return on Intelligence, Chief of Staff AI role, enterprise deployment battleground, tiered agent governance, agentic bifurcation
+- [[chief-ai-officer]] — C-suite role owning AI strategy and transformation; 76% of orgs have one in 2026 (up from 26% in 2025); introduced 2026-07-20
+- [[chief-of-staff-as-ai-role]] — Chief of Staff as CEO's AI orchestrator and CAIO operating partner; postings doubled, compensation to $400K; introduced 2026-07-20
+- [[return-on-intelligence]] — Measurement framework: tracking AI's decision leverage and outcomes, not just cost savings; only 7% of leaders demonstrate established AI ROI; introduced 2026-07-20
+- [[tiered-agent-governance]] — Governance framework classifying agents by decision impact and data access scope, applying proportional controls; introduced 2026-07-20

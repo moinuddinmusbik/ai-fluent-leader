@@ -786,9 +786,10 @@ Append-only chronological record of all operations on this wiki.
 - **Result:** No video published on 2026-07-19 (IST).
 - **Most recent prior upload:** "The $200K AI Job That Didn't Exist Last Year" (2026-07-14)
 - **Files:** raw/emails-archive/2026-07-19-nate-herk-daily.md, wiki/sources/2026-07-19-nate-herk-daily.md, wiki/entities/nate-herk.md, wiki/index.md, wiki/log.md
-## [2026-07-19] ingest | Nate B Jones Daily Leader Briefing
+## [2026-07-20] ingest | Weekly AI Leadership Stories
 - **Operation:** ingest
-- **Routine:** Nate B Jones Daily Leader Briefing
-- **Lens:** TAKE
-- **Details:** Long-form episode (14:04, videoId: 5slsNizN6MQ). "I Cut the Internet and Let AI Read the File I Could Never Upload. It Caught the Leak." Transcript extracted (370 segments, 14,171 chars). Substack: "Executive Briefing: How Microsoft, Bayer, and Discovery Use AI on the Data You Can't Upload" (preview; full post paid). Key receipts: Discovery Bank (5×4o-mini/4.1-mini variants; 5–6 sec → 1.5–2 sec), Bayer (Phi LoRA; days → 30 sec), Grok Build leak proof point, LM Studio live demo. Contrarian edge: open source ≠ free to switch vendors; model portability is the real strategic question.
-- **Pages touched:** [[2026-07-19-nate-b-jones-daily]], [[2026-07-19-nate-b-jones-daily-transcript]], [[nate-b-jones]], [[index]], [[log]]
+- **Routine:** Weekly AI Leadership Stories
+- **Window:** 2026-07-13 to 2026-07-19
+- **Details:** 5 stories ingested covering Return on Intelligence (CEOWORLD, Jul 13), Chief of Staff as AI Role (Bloomberg, Jul 16), Enterprise AI Deployment Battleground (Grow to Your Fullest, Jul 13–19), Tiered Agent Governance (Technology Radar, Jul 2026), and Agentic AI Enterprise Playbook (VMblog, Jul 17). Email sent to moinuddin.musbik@gmail.com. New entity pages: [[chief-ai-officer]], [[chief-of-staff-as-ai-role]]. New concept pages: [[return-on-intelligence]], [[tiered-agent-governance]].
+- **Pages touched:** [[2026-07-19-weekly-ai-leadership-stories]], [[chief-ai-officer]], [[chief-of-staff-as-ai-role]], [[return-on-intelligence]], [[tiered-agent-governance]], [[index]], [[log]]
+
