@@ -97,3 +97,4 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-07-18-nate-herk-daily]] — No video published on 2026-07-18 (IST).
 - [[2026-07-18-nate-b-jones-daily]] — Short-only day (0:34); FRAMEWORK: [[escape-the-application-pile]] (exit the ATS arms race by building a personal AI interface; assert-vs-demonstrate; bidirectional fit assessment; sub-1% success rate; implementation spectrum from 30-min doc to weekend site build) (FRAMEWORK, 2026-07-18)
 - [[escape-the-application-pile]] — Career strategy framework: exit the ATS application arms race by building a personal AI-powered interface; shift from filtered document to discoverable surface; bidirectional fit assessment tool; introduced 2026-07-18
+- [[2026-07-19-nate-herk-daily]] — No new Nate Herk video on 2026-07-19 (IST).

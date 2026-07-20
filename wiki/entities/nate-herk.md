@@ -2,7 +2,7 @@
 title: "Nate Herk"
 type: entity
 created: 2026-05-21
-updated: 2026-07-18
+updated: 2026-07-19
 tags: [creator, implementation]
 sources: []
 ---
@@ -83,3 +83,4 @@ Primary source for the implementation lane of this wiki. Tracked via the **Nate 
 - [[2026-07-16-nate-herk-daily]] — No video published on 2026-07-16 (IST); no playbook content.
 - [[2026-07-17-nate-herk-daily]] — No video published on 2026-07-17 (IST).
 - [[2026-07-18-nate-herk-daily]] — No video published on 2026-07-18 (IST); no playbook content.
+- [[2026-07-19-nate-herk-daily]] — No video published on 2026-07-19 (IST).

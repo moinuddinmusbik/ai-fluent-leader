@@ -780,3 +780,9 @@ Append-only chronological record of all operations on this wiki.
 - **Lens:** FRAMEWORK
 - **Details:** Short-only day (0:34, videoId: 5Ho0NYVhL14). No long-form episode published on 2026-07-18 (IST). Substack post sourced: "Why it's time to escape the application pile + the exact site I shipped" (Jan 16, 2026, preview only; full post paid). Transcript unavailable. Concept page created: [[escape-the-application-pile]].
 - **Pages touched:** [[2026-07-18-nate-b-jones-daily]], [[nate-b-jones]], [[escape-the-application-pile]], [[index]], [[log]]
+## [2026-07-19] ingest | Nate Herk Daily Implementation Playbook
+- **Operation:** ingest
+- **Routine:** nate-herk-daily (implementation lane)
+- **Result:** No video published on 2026-07-19 (IST).
+- **Most recent prior upload:** "The $200K AI Job That Didn't Exist Last Year" (2026-07-14)
+- **Files:** raw/emails-archive/2026-07-19-nate-herk-daily.md, wiki/sources/2026-07-19-nate-herk-daily.md, wiki/entities/nate-herk.md, wiki/index.md, wiki/log.md
