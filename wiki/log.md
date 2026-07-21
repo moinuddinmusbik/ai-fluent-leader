@@ -793,3 +793,13 @@ Append-only chronological record of all operations on this wiki.
 - **Details:** 5 stories ingested covering Return on Intelligence (CEOWORLD, Jul 13), Chief of Staff as AI Role (Bloomberg, Jul 16), Enterprise AI Deployment Battleground (Grow to Your Fullest, Jul 13–19), Tiered Agent Governance (Technology Radar, Jul 2026), and Agentic AI Enterprise Playbook (VMblog, Jul 17). Email sent to moinuddin.musbik@gmail.com. New entity pages: [[chief-ai-officer]], [[chief-of-staff-as-ai-role]]. New concept pages: [[return-on-intelligence]], [[tiered-agent-governance]].
 - **Pages touched:** [[2026-07-19-weekly-ai-leadership-stories]], [[chief-ai-officer]], [[chief-of-staff-as-ai-role]], [[return-on-intelligence]], [[tiered-agent-governance]], [[index]], [[log]]
 
+## [2026-07-20] ingest | Nate Herk Daily Implementation Playbook
+- **Operation:** ingest
+- **Routine:** nate-herk-daily
+- **Video type:** COMMENTARY
+- **Title:** Why Your AI Offer Isn't Selling, and How to Fix That
+- **URL:** https://www.youtube.com/watch?v=8MEJen0nblQ
+- **Duration:** 55:41
+- **Guest:** Nate B. Jones
+- **Transcript:** Unavailable (Firecrawl transcript panel did not render after two attempts; grounded on description + chapters + comments)
+- **Files written:** raw/emails-archive/2026-07-20-nate-herk-daily.md, wiki/sources/2026-07-20-nate-herk-daily.md, wiki/entities/nate-herk.md, wiki/index.md, wiki/log.md
