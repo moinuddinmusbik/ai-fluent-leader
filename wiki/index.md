@@ -3,6 +3,7 @@
 Master catalog of all wiki pages. Updated on every ingest.
 
 ## Sources
+- [[2026-07-20-nate-b-jones-daily]] — China's K3 Model Reveals the Problem With Open Weights — TAKE (open weights ≠ cheap compute; 64-chip floor; model-replacement test)
 - [[2026-05-23-nate-b-jones-daily]] — Emergency AI's 15-day C-Suite experiment; "the harness is the real story"; safety nets for agents; multi-agent task assignment vs. agent execution
 - [[2026-05-24-nate-b-jones-daily]] — AI supply chain constraints; compute as a supply contract; Nvidia H100 allocation as the new strategic scarce resource
 - [[2026-05-25-nate-b-jones-daily]] — Platform teams become AI bottlenecks; "shadow AI" as an organizational cost; technical translation as a leadership skill
@@ -51,6 +52,9 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-07-04-nate-b-jones-daily]] — Goal Harness: Fable 5 as goal harness architect, not planner; short prompts beat long on hard problems; routing-over-loyalty thesis; three-tier model taxonomy (TAKE, 2026-07-04)
 - [[2026-07-05-nate-b-jones-daily]] — Cheap engine, frontier steering: routing is table stakes; [[cheap-engine-frontier-steering]] two-layer architecture; Hashimoto $40 experiment; BlackBerry/Apple; Stripe structured-knowledge dividend (TAKE, 2026-07-05)
 ## Concepts
+- [[open-weights]] — downloadable model files; infrastructure dependency persists
+- [[ai-regulatory-headroom]] — provider's ability to navigate government distribution restrictions
+- [[model-replacement-test]] — workload portability test before AI contract renewal
 - [[context-lock-in]] — dynamic where frontier model integration (e.g. Claude Tag/Slack) makes switching economically irrational regardless of competitor model quality or price; introduced 2026-06-28
 - [[center-edge-distribution]] — Nate's task-categorisation framework: center = common patterns, familiar shapes, inspectable outputs (GLM 5.2 tier); edge = novel/high-stakes/context-dense (frontier model tier); introduced 2026-06-28
 - [[ai-harness]] — surrounding system (prompts, memory, tool calls, routing, system prompt tuning) that makes a model productive in a specific work context; "a model is a brain in a jar without a harness"; introduced 2026-06-28
@@ -103,4 +107,3 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[chief-of-staff-as-ai-role]] — Chief of Staff as CEO's AI orchestrator and CAIO operating partner; postings doubled, compensation to $400K; introduced 2026-07-20
 - [[return-on-intelligence]] — Measurement framework: tracking AI's decision leverage and outcomes, not just cost savings; only 7% of leaders demonstrate established AI ROI; introduced 2026-07-20
 - [[tiered-agent-governance]] — Governance framework classifying agents by decision impact and data access scope, applying proportional controls; introduced 2026-07-20
-- [[2026-07-20-nate-herk-daily]] — Why Your AI Offer Isn't Selling, and How to Fix That (COMMENTARY, Nate Herk feat. Nate B. Jones)
