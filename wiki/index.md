@@ -108,3 +108,5 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[return-on-intelligence]] — Measurement framework: tracking AI's decision leverage and outcomes, not just cost savings; only 7% of leaders demonstrate established AI ROI; introduced 2026-07-20
 - [[tiered-agent-governance]] — Governance framework classifying agents by decision impact and data access scope, applying proportional controls; introduced 2026-07-20
 - [[2026-07-21-nate-herk-daily]] — No video published on 2026-07-21 (IST).
+- [[2026-07-21-nate-b-jones-daily]] — FRAMEWORK: The Reusable Agent Rig; 9-stage paperwork automation pattern; hard stop governance; KFF denial stats; UnitedHealthcare Senate PSI; 2026-07-21
+- [[reusable-agent-rig]] — 9-stage AI agent pattern for high-stakes paperwork; only context pack + output template change between builds; hard stop = governance layer; introduced 2026-07-21

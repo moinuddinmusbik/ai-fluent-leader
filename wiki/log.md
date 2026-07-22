@@ -822,3 +822,19 @@ Append-only chronological record of all operations on this wiki.
   - wiki/entities/nate-herk.md (bumped updated, added source stub)
   - wiki/index.md (appended source line)
   - wiki/log.md (this entry)
+## [2026-07-21] nate-b-jones-daily | FRAMEWORK ingest
+- **Operation:** ingest
+- **Routine:** Nate B Jones Daily Leader Briefing
+- **Lens:** FRAMEWORK
+- **Episode:** No long-form video on 2026-07-21 (IST); only a 28-second Short (teaser, videoId: D64_UhhSj6A). Brief grounded in linked Substack post (preview; full post paid).
+- **Substack:** https://natesnewsletter.substack.com/p/reusable-ai-agent (preview; full post paid)
+- **Short:** https://www.youtube.com/watch?v=D64_UhhSj6A (0:28)
+- **Transcript:** Unavailable (Short only; no long-form episode published on target date)
+- **Framework introduced:** Reusable Agent Rig (9-stage pattern)
+- **Files written:**
+  - raw/emails-archive/2026-07-21-nate-b-jones-daily.md
+  - wiki/sources/2026-07-21-nate-b-jones-daily.md
+  - wiki/entities/nate-b-jones.md (bumped updated to 2026-07-21, added source)
+  - wiki/concepts/reusable-agent-rig.md (created)
+  - wiki/index.md (appended source + concept lines)
+  - wiki/log.md (this entry)

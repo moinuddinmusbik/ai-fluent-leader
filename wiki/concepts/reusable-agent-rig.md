@@ -1,60 +1,49 @@
 ---
 title: "Reusable Agent Rig"
 type: concept
-created: 2026-07-03
-updated: 2026-07-03
-tags: [framework, agent-design, context-engineering, paperwork-automation, nate-b-jones]
-sources: [2026-07-03-nate-b-jones-daily.md]
+created: 2026-07-21
+updated: 2026-07-21
+tags: [framework, ai-agents, automation, governance]
+introduced_by: "[[nate-b-jones]]"
+first_seen: "[[2026-07-21-nate-b-jones-daily]]"
 ---
 
 # Reusable Agent Rig
 
-A framework introduced by [[nate-b-jones]] on 2026-07-03 for building one AI agent skeleton that works across multiple high-trust paperwork jobs.
+A 9-stage AI agent architecture designed for high-stakes, document-heavy paperwork tasks. Built once, pointed at many jobs — only the context pack and output template change between builds. Introduced by [[nate-b-jones]] in his 2026-07-21 Substack post.
 
-## Definition
+## The Core Principle
 
-A nine-step reusable workflow skeleton — assembled once on low-stakes work (email/calendar), then pointed at any pile of sensitive documents with a real decision attached. Between jobs, only two things change: the **context pack** (what documents go in and how they are structured) and the **export template** (what the output packet looks like). The nine steps themselves are invariant.
+"Every agent you build should make your next agent cheaper to build." If that ratio is not improving, you are collecting chores that happen to run on AI, not building a system.
 
-## The One Rule
+## The Pattern
 
-The agent drafts and organizes only. It **never sends, files, submits, pays, or signs.** This is not a risk disclaimer; it is the architectural decision that makes the rig trustworthy enough to aim at money and health. The hard stop before submission is the feature, not a limitation.
+**Stage shape:** Define what the agent is allowed to read → structure and cite the documents → export a reviewable packet → hard stop (hand back to human).
 
-## The Nine-Step Structure
+**The hard stop rule:** The agent drafts and organizes only. It never sends, files, submits, pays, or signs. This is not a limitation — it is what makes the rig deployable on money and health decisions.
 
-Runs from "deciding what the agent is allowed to read" through to "a hard stop that hands the work back to you." The Substack deep-dive gives the full step list (paid); the structure is visible in the chapter sequence: context pack → run plan → build → bridge to the next job → cited packet export → human gate.
+**Deliberate no-vector-search:** For legal and health documents, the rig uses deterministic retrieval, not vector/RAG similarity search. Exact policy clause citation matters more than approximate relevance.
+
+## Two Transferable Open Skills
+
+1. **Context Engineering Open Skill** — controls what the agent reads and how it scopes the context pack
+2. **Runbooks Open Skill** — step-by-step operating procedure that persists across builds
+
+## Three Proof-Run Builds (Nate's sequence)
+
+1. **Email & calendar** — training run, low stakes, validates the nine stages
+2. **Insurance denial appeal packet** — high asymmetry problem; assembles cited appeal with exact policy references; stops before submitting
+3. **Tax-year prep packet** — same rig, different context pack and output template; setup is a fraction of Build 1 by this point
 
 ## The Flywheel
 
-Every component — context packs, export templates, runbooks — gets sharper with each build. By the third build, setup takes a fraction of the effort of the first. The ratio of setup cost to output value keeps improving because the system is being built, not just used.
-
-## Three Proof Builds
-
-1. **Email/Calendar** — the 101 (training run; low stakes; nothing expensive if it fails)
-2. **Insurance Appeal Packet** — cited packet from denial letters; hard stop before submission
-3. **Tax Prep Packet** — organized document pile for a preparer or filing decision
-
-## Underlying Skills
-
-- **Context Engineering Open Skill** — how information is structured before entering the agent
-- **Runbooks Open Skill** — step-by-step behavioral rules; portable as SKILL.md across Claude Code, Codex, Cursor
+The rig is explicitly designed to compound: between builds, only the "nouns" change (context pack + output template). The machinery transfers. By the third build, setup cost is dramatically lower than the first.
 
 ## Where It Applies
 
-Any situation with: sensitive documents + no existing structure + a decision that matters. Nate names insurance and taxes as proof runs, not limits. Also applies to: employee benefits disputes, vendor contract review, regulatory filing prep, grant application organization.
+Any domain with: sensitive/unorganized documents + a decision that matters + the other side already has structure. Insurance, taxes, contract review, compliance audit, HR investigations, grant reporting.
 
-## The Evidence Behind It
+## Related pages
 
-- KFF: ~85M denied ACA marketplace claims in 2024; <1% appealed; ~1/3 internal reversals; ~half external; >80% prior authorization
-- 2024 Senate Subcommittee report: algorithmic denial tools at Medicare Advantage insurers; UnitedHealthcare denial rate more than doubled in two years
-- The structural insight: most denials stick because nobody appeals, not because insurers are right
-
-## Relationship to Other Concepts
-
-- Extends [[open-stack]] (memory/skills/engine) — the rig uses Open Skills (SKILL.md runbooks) as the portable component
-- Consistent with [[agent-ownership]] framework (one named human owner at the gate)
-- Consistent with [[responsible-utility]] (useful enough to act; careful enough to know whether you authorized it)
-- The hard stop before sending is a concrete implementation of the [[5-part-agent-loop]] boundary stage
-
-## Sources
-
-- [[2026-07-03-nate-b-jones-daily]] — introduced
+- [[nate-b-jones]]
+- [[2026-07-21-nate-b-jones-daily]]
