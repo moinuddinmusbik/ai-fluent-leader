@@ -107,3 +107,4 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[chief-of-staff-as-ai-role]] — Chief of Staff as CEO's AI orchestrator and CAIO operating partner; postings doubled, compensation to $400K; introduced 2026-07-20
 - [[return-on-intelligence]] — Measurement framework: tracking AI's decision leverage and outcomes, not just cost savings; only 7% of leaders demonstrate established AI ROI; introduced 2026-07-20
 - [[tiered-agent-governance]] — Governance framework classifying agents by decision impact and data access scope, applying proportional controls; introduced 2026-07-20
+- [[2026-07-21-nate-herk-daily]] — No video published on 2026-07-21 (IST).

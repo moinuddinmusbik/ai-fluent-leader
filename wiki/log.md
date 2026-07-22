@@ -811,3 +811,14 @@ Append-only chronological record of all operations on this wiki.
   - wiki/concepts/model-replacement-test.md (created)
   - wiki/index.md (appended source + concept lines)
   - wiki/log.md (this entry)
+
+## [2026-07-21] nate-herk-daily | No new video (Short only)
+- **Operation:** ingest
+- **Routine:** Nate Herk Daily Implementation Playbook
+- **Result:** No long-form video published on 2026-07-21 (IST). Only a 59-second ChatGPT partner Short (videoId: c1TWmKILaeM) was found; excluded per <60s rule.
+- **Files written:**
+  - raw/emails-archive/2026-07-21-nate-herk-daily.md
+  - wiki/sources/2026-07-21-nate-herk-daily.md (stub)
+  - wiki/entities/nate-herk.md (bumped updated, added source stub)
+  - wiki/index.md (appended source line)
+  - wiki/log.md (this entry)

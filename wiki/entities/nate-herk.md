@@ -2,7 +2,7 @@
 title: "Nate Herk"
 type: entity
 created: 2026-05-21
-updated: 2026-07-20
+updated: 2026-07-21
 tags: [creator, implementation]
 sources: []
 ---
@@ -72,3 +72,4 @@ AI automation educator and YouTuber focused on practical AI implementation. Runs
 - [[2026-07-18-nate-herk-daily]] — No video published on 2026-07-18 (IST); no playbook content.
 - [[2026-07-19-nate-herk-daily]] — No video published on 2026-07-19 (IST).
 - [[2026-07-20-nate-herk-daily]] — Why Your AI Offer Isn't Selling, and How to Fix That: AI offer sales as storytelling failure; C-suite bottleneck; team-by-team AI-native adoption; 100M tokens/day benchmark; electricity moment frame; COMMENTARY (2026-07-20)
+- [[2026-07-21-nate-herk-daily]] — No video published on 2026-07-21 (IST); only a 59s sponsored Short.
