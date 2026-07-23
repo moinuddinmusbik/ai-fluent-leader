@@ -838,3 +838,19 @@ Append-only chronological record of all operations on this wiki.
   - wiki/concepts/reusable-agent-rig.md (created)
   - wiki/index.md (appended source + concept lines)
   - wiki/log.md (this entry)
+
+## [2026-07-22] ingest | Nate Herk Daily Implementation Playbook
+- **Routine:** nate-herk-daily
+- **Video:** How I'd Make Money with Claude if my life depended on it
+- **URL:** https://www.youtube.com/watch?v=vY0EzTP-7EA
+- **Published:** 2026-07-22T13:00:46Z · 9:19
+- **Type:** COMMENTARY
+- **Views:** 31,881 · Likes: 1,307 · Comments: 124
+- **Transcript:** Unavailable (IP-blocked: cloud provider IP blocked by YouTube; Firecrawl transcript panel spinner timed out; youtube_transcript_api IpBlocked; timedtext URL rate-limited 429). Sections grounded on description, chapters, and community comments.
+- **Classification basis:** Agency-to-embedded-operator pivot commentary; $725B enterprise AI investment; 95% AI pilot failure rate; "embedded AI operator" as new money-making thesis
+- **Files written:**
+  - raw/emails-archive/2026-07-22-nate-herk-daily.md
+  - wiki/sources/2026-07-22-nate-herk-daily.md
+  - wiki/entities/nate-herk.md (bumped updated to 2026-07-22, added source)
+  - wiki/index.md (appended source line)
+  - wiki/log.md (this entry)

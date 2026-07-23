@@ -110,3 +110,4 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-07-21-nate-herk-daily]] — No video published on 2026-07-21 (IST).
 - [[2026-07-21-nate-b-jones-daily]] — FRAMEWORK: The Reusable Agent Rig; 9-stage paperwork automation pattern; hard stop governance; KFF denial stats; UnitedHealthcare Senate PSI; 2026-07-21
 - [[reusable-agent-rig]] — 9-stage AI agent pattern for high-stakes paperwork; only context pack + output template change between builds; hard stop = governance layer; introduced 2026-07-21
+- [[2026-07-22-nate-herk-daily]] — How I'd Make Money with Claude if my life depended on it: agency-to-embedded-operator pivot; $725B enterprise AI investment; 95% pilot failure rate; embedded AI operator thesis; COMMENTARY; 2026-07-22
