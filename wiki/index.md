@@ -110,4 +110,5 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-07-21-nate-herk-daily]] — No video published on 2026-07-21 (IST).
 - [[2026-07-21-nate-b-jones-daily]] — FRAMEWORK: The Reusable Agent Rig; 9-stage paperwork automation pattern; hard stop governance; KFF denial stats; UnitedHealthcare Senate PSI; 2026-07-21
 - [[reusable-agent-rig]] — 9-stage AI agent pattern for high-stakes paperwork; only context pack + output template change between builds; hard stop = governance layer; introduced 2026-07-21
-- [[2026-07-22-nate-herk-daily]] — How I'd Make Money with Claude if my life depended on it: agency-to-embedded-operator pivot; $725B enterprise AI investment; 95% pilot failure rate; embedded AI operator thesis; COMMENTARY; 2026-07-22
+- [[2026-07-22-nate-b-jones-daily]] — TAKE: AI slop as DoS attack on public square; Substack Pangram AI detection launch (CEO Chris Best interview); claude-fishing; Baumol's cost effect; human attention as last non-inflationary resource; 2026-07-22
+- [[ideas-graph]] — Nate's proposed concept-map complement to Pangram; maps nodes, edges, valence, and omission against LLM's default conceptual distribution; "model kept the nodes, erased the edges"; introduced 2026-07-22

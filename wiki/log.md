@@ -838,19 +838,20 @@ Append-only chronological record of all operations on this wiki.
   - wiki/concepts/reusable-agent-rig.md (created)
   - wiki/index.md (appended source + concept lines)
   - wiki/log.md (this entry)
-
-## [2026-07-22] ingest | Nate Herk Daily Implementation Playbook
-- **Routine:** nate-herk-daily
-- **Video:** How I'd Make Money with Claude if my life depended on it
-- **URL:** https://www.youtube.com/watch?v=vY0EzTP-7EA
-- **Published:** 2026-07-22T13:00:46Z · 9:19
-- **Type:** COMMENTARY
-- **Views:** 31,881 · Likes: 1,307 · Comments: 124
-- **Transcript:** Unavailable (IP-blocked: cloud provider IP blocked by YouTube; Firecrawl transcript panel spinner timed out; youtube_transcript_api IpBlocked; timedtext URL rate-limited 429). Sections grounded on description, chapters, and community comments.
-- **Classification basis:** Agency-to-embedded-operator pivot commentary; $725B enterprise AI investment; 95% AI pilot failure rate; "embedded AI operator" as new money-making thesis
+## [2026-07-22] nate-b-jones-daily | TAKE ingest
+- **Operation:** ingest
+- **Routine:** Nate B Jones Daily Leader Briefing
+- **Lens:** TAKE
+- **Episode:** The AI Slop Problem Nobody's Talking About | Substack CEO Interview (46:21, videoId: m_ZyTNmCDeY)
+- **Guest:** Chris Best, co-founder & CEO of Substack
+- **Video:** https://www.youtube.com/watch?v=m_ZyTNmCDeY
+- **Substack:** https://natesnewsletter.substack.com/p/ai-detection-ideas-not-words (full transcript + written essay; free/open)
+- **Transcript:** YouTube caption panel unavailable (rendered but panel did not expand on 2 attempts); quotes sourced from Substack embed which contains full spoken transcript with timestamps
+- **Framework introduced:** [[ideas-graph]] (conceptual-node mapping as complement to Pangram word-level detection)
 - **Files written:**
-  - raw/emails-archive/2026-07-22-nate-herk-daily.md
-  - wiki/sources/2026-07-22-nate-herk-daily.md
-  - wiki/entities/nate-herk.md (bumped updated to 2026-07-22, added source)
-  - wiki/index.md (appended source line)
+  - raw/emails-archive/2026-07-22-nate-b-jones-daily.md
+  - wiki/sources/2026-07-22-nate-b-jones-daily.md
+  - wiki/entities/nate-b-jones.md (bumped updated to 2026-07-22, added source)
+  - wiki/concepts/ideas-graph.md (created)
+  - wiki/index.md (appended source + concept lines)
   - wiki/log.md (this entry)
