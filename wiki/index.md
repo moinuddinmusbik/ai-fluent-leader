@@ -112,3 +112,4 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[reusable-agent-rig]] — 9-stage AI agent pattern for high-stakes paperwork; only context pack + output template change between builds; hard stop = governance layer; introduced 2026-07-21
 - [[2026-07-22-nate-b-jones-daily]] — TAKE: AI slop as DoS attack on public square; Substack Pangram AI detection launch (CEO Chris Best interview); claude-fishing; Baumol's cost effect; human attention as last non-inflationary resource; 2026-07-22
 - [[ideas-graph]] — Nate's proposed concept-map complement to Pangram; maps nodes, edges, valence, and omission against LLM's default conceptual distribution; "model kept the nodes, erased the edges"; introduced 2026-07-22
+- [[2026-07-23-nate-herk-daily]] — No video published on 2026-07-23 (IST).

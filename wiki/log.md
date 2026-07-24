@@ -855,3 +855,16 @@ Append-only chronological record of all operations on this wiki.
   - wiki/concepts/ideas-graph.md (created)
   - wiki/index.md (appended source + concept lines)
   - wiki/log.md (this entry)
+
+## [2026-07-23] ingest | Nate Herk Daily Implementation Playbook
+- **Operation:** ingest
+- **Routine:** nate-herk-daily
+- **Lane:** implementation
+- **Creator:** [[nate-herk]] (Nate Herk | AI Automation)
+- **Result:** No video published on 2026-07-23 (IST). No-content brief sent.
+- **Files written:**
+  - raw/emails-archive/2026-07-23-nate-herk-daily.md
+  - wiki/sources/2026-07-23-nate-herk-daily.md
+  - wiki/entities/nate-herk.md (bumped updated to 2026-07-23, added source stub)
+  - wiki/index.md (appended source line)
+  - wiki/log.md (this entry)
