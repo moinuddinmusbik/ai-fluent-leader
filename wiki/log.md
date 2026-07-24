@@ -868,3 +868,24 @@ Append-only chronological record of all operations on this wiki.
   - wiki/entities/nate-herk.md (bumped updated to 2026-07-23, added source stub)
   - wiki/index.md (appended source line)
   - wiki/log.md (this entry)
+
+## [2026-07-23] ingest | Nate B Jones Daily Leader Briefing
+- **Operation:** ingest
+- **Routine:** nate-b-jones-daily
+- **Lane:** strategy
+- **Creator:** [[nate-b-jones]] (Nate B. Jones | AI News & Strategy Daily)
+- **Lens:** TAKE
+- **Content type:** Short only (0:19, videoId: WWvb_S6AQr0) — no long-form episode on 2026-07-23 IST
+- **Topic:** Model routing is becoming table stakes; the real AI edge moves to organizational imagination
+- **Substack:** https://natesnewsletter.substack.com/p/beyond-model-routing (preview; full post paid — AI Executive Circle)
+- **Short:** https://www.youtube.com/watch?v=WWvb_S6AQr0
+- **Transcript:** Unavailable (Short only; "In His Words" omitted per protocol)
+- **Framework introduced:** [[imagination-gap]] (the gap between orgs asking for new AI work vs. running old list faster)
+- **Evidence cited:** Fable 5 pricing ($10/M input, $50/M output); Mitchell Hashimoto's $40 experiment; $1 vs $9 model convergence
+- **Files written:**
+  - raw/emails-archive/2026-07-23-nate-b-jones-daily.md
+  - wiki/sources/2026-07-23-nate-b-jones-daily.md
+  - wiki/entities/nate-b-jones.md (bumped updated to 2026-07-23, added source)
+  - wiki/concepts/imagination-gap.md (created)
+  - wiki/index.md (appended source + concept lines)
+  - wiki/log.md (this entry)
