@@ -889,3 +889,26 @@ Append-only chronological record of all operations on this wiki.
   - wiki/concepts/imagination-gap.md (created)
   - wiki/index.md (appended source + concept lines)
   - wiki/log.md (this entry)
+## [2026-07-24] ingest | Nate Herk Daily Implementation Playbook
+- **Operation:** ingest
+- **Routine:** nate-herk-daily
+- **Lane:** implementation
+- **Creator:** [[nate-herk]] (Nate Herk | AI Automation)
+- **Video type:** DEEP-DIVE
+- **Title:** 5 Hacks to Instantly Level Up Your AI OS
+- **Video ID:** Ek1NBfnnTH0
+- **URL:** https://www.youtube.com/watch?v=Ek1NBfnnTH0
+- **Duration:** 25:04
+- **Published (IST):** 2026-07-24
+- **Views:** 17,705 · Likes: 591 · Comments: 48
+- **Topic:** 5 hacks for keeping AI OS organized and accurate as it scales: CLAUDE.md-as-router, OS audit skill (free), cron automations, knowledge segmentation, backtrack habit. Diagnostic framework: 4 context failure modes (poisoning/bloat/confusion/clash) + expertise vs. situational context split.
+- **Concepts introduced:** [[os-audit-skill]], [[context-failure-modes]]
+- **Files written:**
+  - raw/transcripts/2026-07-24-nate-herk-daily.md
+  - raw/emails-archive/2026-07-24-nate-herk-daily.md
+  - wiki/sources/2026-07-24-nate-herk-daily.md
+  - wiki/entities/nate-herk.md (bumped updated to 2026-07-24, added source)
+  - wiki/concepts/os-audit-skill.md (created)
+  - wiki/concepts/context-failure-modes.md (created)
+  - wiki/index.md (appended source + concept lines)
+  - wiki/log.md (this entry)

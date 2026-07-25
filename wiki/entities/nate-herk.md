@@ -2,7 +2,7 @@
 title: "Nate Herk"
 type: entity
 created: 2026-05-21
-updated: 2026-07-23
+updated: 2026-07-24
 tags: [creator, implementation]
 sources: []
 ---
@@ -76,3 +76,4 @@ AI automation educator and YouTuber focused on practical AI implementation. Runs
 - [[2026-07-22-nate-herk-daily]] — How I'd Make Money with Claude if my life depended on it: agency-to-embedded-operator pivot; 95% enterprise AI pilot failure rate; $725B enterprise investment thesis; COMMENTARY (2026-07-22)
 
 - [[2026-07-23-nate-herk-daily]] — No video published on 2026-07-23 (IST).
+- [[2026-07-24-nate-herk-daily]] — 5 Hacks to Instantly Level Up Your AI OS: CLAUDE.md-as-router, OS audit skill, cron automations, knowledge segmentation, backtrack habit; 4 context failure modes + expertise/situational split; DEEP-DIVE (2026-07-24)

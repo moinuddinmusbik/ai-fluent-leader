@@ -115,3 +115,6 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-07-23-nate-herk-daily]] — No video published on 2026-07-23 (IST).
 - [[2026-07-23-nate-b-jones-daily]] — TAKE: Model routing becomes table stakes; imagination gap as the new competitive divide; Hashimoto's $40 experiment; two-layer AI architecture; 2026-07-23
 - [[imagination-gap]] — Nate's term for the primary competitive divide in AI: the gap between orgs asking for new work cheap execution makes possible vs. those running the old list faster; introduced 2026-07-23
+- [[2026-07-24-nate-herk-daily]] — 5 Hacks to Instantly Level Up Your AI OS: DEEP-DIVE; CLAUDE.md-as-router; OS audit skill; knowledge segmentation; backtrack habit; 2026-07-24
+- [[os-audit-skill]] — Free Claude skill that audits AI OS for routing integrity, index truth, freshness, bloat; introduced 2026-07-24
+- [[context-failure-modes]] — Nate's 4-mode framework (poisoning/bloat/confusion/clash) + expertise/situational split; introduced 2026-07-24
