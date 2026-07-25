@@ -889,26 +889,20 @@ Append-only chronological record of all operations on this wiki.
   - wiki/concepts/imagination-gap.md (created)
   - wiki/index.md (appended source + concept lines)
   - wiki/log.md (this entry)
-## [2026-07-24] ingest | Nate Herk Daily Implementation Playbook
+
+## [2026-07-24] ingest | Nate B Jones Daily Leader Briefing
 - **Operation:** ingest
-- **Routine:** nate-herk-daily
-- **Lane:** implementation
-- **Creator:** [[nate-herk]] (Nate Herk | AI Automation)
-- **Video type:** DEEP-DIVE
-- **Title:** 5 Hacks to Instantly Level Up Your AI OS
-- **Video ID:** Ek1NBfnnTH0
-- **URL:** https://www.youtube.com/watch?v=Ek1NBfnnTH0
-- **Duration:** 25:04
-- **Published (IST):** 2026-07-24
-- **Views:** 17,705 · Likes: 591 · Comments: 48
-- **Topic:** 5 hacks for keeping AI OS organized and accurate as it scales: CLAUDE.md-as-router, OS audit skill (free), cron automations, knowledge segmentation, backtrack habit. Diagnostic framework: 4 context failure modes (poisoning/bloat/confusion/clash) + expertise vs. situational context split.
-- **Concepts introduced:** [[os-audit-skill]], [[context-failure-modes]]
+- **Routine:** nate-b-jones-daily
+- **Lens:** FRAMEWORK
+- **Episode:** [How to Use AI on Files You're Not Allowed to Upload](https://www.youtube.com/watch?v=EuVvLwWZ5wc) · 13:40
+- **Substack:** https://natesnewsletter.substack.com/p/use-ai-sensitive-files (preview; full post paid)
+- **Transcript:** Unavailable (Firecrawl panel did not render after two attempts; "In His Words" omitted per protocol)
+- **Framework introduced:** [[task-driven-data-minimization]] ("Begin with the Job" — task-scoped stripping replaces blanket "don't upload" policy)
+- **Evidence cited:** Verizon shadow AI data (enterprise, chapter 09:26); auditor dilemma (community-sourced); two-minute test heuristic; Airlock on-device Mac app (shipped product)
 - **Files written:**
-  - raw/transcripts/2026-07-24-nate-herk-daily.md
-  - raw/emails-archive/2026-07-24-nate-herk-daily.md
-  - wiki/sources/2026-07-24-nate-herk-daily.md
-  - wiki/entities/nate-herk.md (bumped updated to 2026-07-24, added source)
-  - wiki/concepts/os-audit-skill.md (created)
-  - wiki/concepts/context-failure-modes.md (created)
+  - raw/emails-archive/2026-07-24-nate-b-jones-daily.md
+  - wiki/sources/2026-07-24-nate-b-jones-daily.md
+  - wiki/entities/nate-b-jones.md (bumped updated to 2026-07-24, added source)
+  - wiki/concepts/task-driven-data-minimization.md (created)
   - wiki/index.md (appended source + concept lines)
   - wiki/log.md (this entry)
