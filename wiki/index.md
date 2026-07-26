@@ -3,7 +3,6 @@
 Master catalog of all wiki pages. Updated on every ingest.
 
 ## Sources
-- [[2026-07-25-nate-herk-daily]] — DEEP-DIVE: Opus 5 vs Fable 5 across 10 real workflows; Fable orchestrates + Opus executes wins on efficiency
 - [[2026-07-20-nate-b-jones-daily]] — China's K3 Model Reveals the Problem With Open Weights — TAKE (open weights ≠ cheap compute; 64-chip floor; model-replacement test)
 - [[2026-05-23-nate-b-jones-daily]] — Emergency AI's 15-day C-Suite experiment; "the harness is the real story"; safety nets for agents; multi-agent task assignment vs. agent execution
 - [[2026-05-24-nate-b-jones-daily]] — AI supply chain constraints; compute as a supply contract; Nvidia H100 allocation as the new strategic scarce resource
@@ -118,3 +117,4 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[imagination-gap]] — Nate's term for the primary competitive divide in AI: the gap between orgs asking for new work cheap execution makes possible vs. those running the old list faster; introduced 2026-07-23
 - [[2026-07-24-nate-b-jones-daily]] — FRAMEWORK: Task-Driven Data Minimization ("Begin with the Job"); structural privacy gap; Airlock on-device app; two-minute test for shadow AI; Verizon data; 2026-07-24
 - [[task-driven-data-minimization]] — Nate's framework for operationalizing AI privacy at the task level; "Begin with the Job" replaces blanket "don't upload" rules with task-scoped stripping and rebuild; introduced 2026-07-24
+- [[2026-07-25-nate-b-jones-daily]] — TAKE: AI homogeneity as structural convergence problem; value moves to taste/POV/judgment; [[imagination-gap]] expanded with creativity lens; Hashimoto $40 experiment; two-layer AI architecture; Short-only day; 2026-07-25
