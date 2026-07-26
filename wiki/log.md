@@ -906,3 +906,18 @@ Append-only chronological record of all operations on this wiki.
   - wiki/concepts/task-driven-data-minimization.md (created)
   - wiki/index.md (appended source + concept lines)
   - wiki/log.md (this entry)
+
+## [2026-07-25] ingest | Nate Herk Daily Implementation Playbook
+- **Operation:** ingest
+- **Routine:** nate-herk-daily
+- **Type:** DEEP-DIVE
+- **Video:** I Tested Opus 5 vs. Fable 5. What You Need to Know. (2026-07-24T23:38:15Z / 2026-07-25 IST)
+- **Duration:** 30:53 | **Views:** 67,613 | **Likes:** 1,680
+- **Transcript:** captured via Firecrawl markdown scrape
+- **Files committed:**
+  - raw/transcripts/2026-07-25-nate-herk-daily.md
+  - raw/emails-archive/2026-07-25-nate-herk-daily.md
+  - wiki/sources/2026-07-25-nate-herk-daily.md
+  - wiki/entities/nate-herk.md (updated: bumped `updated` to 2026-07-25, added source link)
+  - wiki/index.md (appended source line)
+  - wiki/log.md (this entry)

@@ -3,6 +3,7 @@
 Master catalog of all wiki pages. Updated on every ingest.
 
 ## Sources
+- [[2026-07-25-nate-herk-daily]] — DEEP-DIVE: Opus 5 vs Fable 5 across 10 real workflows; Fable orchestrates + Opus executes wins on efficiency
 - [[2026-07-20-nate-b-jones-daily]] — China's K3 Model Reveals the Problem With Open Weights — TAKE (open weights ≠ cheap compute; 64-chip floor; model-replacement test)
 - [[2026-05-23-nate-b-jones-daily]] — Emergency AI's 15-day C-Suite experiment; "the harness is the real story"; safety nets for agents; multi-agent task assignment vs. agent execution
 - [[2026-05-24-nate-b-jones-daily]] — AI supply chain constraints; compute as a supply contract; Nvidia H100 allocation as the new strategic scarce resource
