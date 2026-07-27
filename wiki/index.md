@@ -3,6 +3,7 @@
 Master catalog of all wiki pages. Updated on every ingest.
 
 ## Sources
+- [[2026-07-26-nate-b-jones-daily]] — You Can Hand One AI Agent Your Worst Recurring Task. It Cleared 60% Of Mine. — FRAMEWORK (root-cause-first-then-agent; 52→19 cases/week; Gumroad agent; human approval boundary)
 - [[2026-07-20-nate-b-jones-daily]] — China's K3 Model Reveals the Problem With Open Weights — TAKE (open weights ≠ cheap compute; 64-chip floor; model-replacement test)
 - [[2026-05-23-nate-b-jones-daily]] — Emergency AI's 15-day C-Suite experiment; "the harness is the real story"; safety nets for agents; multi-agent task assignment vs. agent execution
 - [[2026-05-24-nate-b-jones-daily]] — AI supply chain constraints; compute as a supply contract; Nvidia H100 allocation as the new strategic scarce resource
@@ -52,6 +53,7 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-07-04-nate-b-jones-daily]] — Goal Harness: Fable 5 as goal harness architect, not planner; short prompts beat long on hard problems; routing-over-loyalty thesis; three-tier model taxonomy (TAKE, 2026-07-04)
 - [[2026-07-05-nate-b-jones-daily]] — Cheap engine, frontier steering: routing is table stakes; [[cheap-engine-frontier-steering]] two-layer architecture; Hashimoto $40 experiment; BlackBerry/Apple; Stripe structured-knowledge dividend (TAKE, 2026-07-05)
 ## Concepts
+- [[root-cause-first-then-agent]] — Six-step framework for finding and deploying your first AI agent use case (Nate B. Jones)
 - [[open-weights]] — downloadable model files; infrastructure dependency persists
 - [[ai-regulatory-headroom]] — provider's ability to navigate government distribution restrictions
 - [[model-replacement-test]] — workload portability test before AI contract renewal
@@ -118,4 +120,3 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-07-24-nate-b-jones-daily]] — FRAMEWORK: Task-Driven Data Minimization ("Begin with the Job"); structural privacy gap; Airlock on-device app; two-minute test for shadow AI; Verizon data; 2026-07-24
 - [[task-driven-data-minimization]] — Nate's framework for operationalizing AI privacy at the task level; "Begin with the Job" replaces blanket "don't upload" rules with task-scoped stripping and rebuild; introduced 2026-07-24
 - [[2026-07-25-nate-b-jones-daily]] — TAKE: AI homogeneity as structural convergence problem; value moves to taste/POV/judgment; [[imagination-gap]] expanded with creativity lens; Hashimoto $40 experiment; two-layer AI architecture; Short-only day; 2026-07-25
-- [[2026-07-26-nate-herk-daily]] — COMMENTARY: fork-in-the-road displacement thesis; 60% of tasks agentic AI; CEO's warning; three job examples; "the one skill" = agentic AI management; 2026-07-26
