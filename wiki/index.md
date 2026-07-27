@@ -118,3 +118,4 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-07-24-nate-b-jones-daily]] — FRAMEWORK: Task-Driven Data Minimization ("Begin with the Job"); structural privacy gap; Airlock on-device app; two-minute test for shadow AI; Verizon data; 2026-07-24
 - [[task-driven-data-minimization]] — Nate's framework for operationalizing AI privacy at the task level; "Begin with the Job" replaces blanket "don't upload" rules with task-scoped stripping and rebuild; introduced 2026-07-24
 - [[2026-07-25-nate-b-jones-daily]] — TAKE: AI homogeneity as structural convergence problem; value moves to taste/POV/judgment; [[imagination-gap]] expanded with creativity lens; Hashimoto $40 experiment; two-layer AI architecture; Short-only day; 2026-07-25
+- [[2026-07-26-nate-herk-daily]] — COMMENTARY: fork-in-the-road displacement thesis; 60% of tasks agentic AI; CEO's warning; three job examples; "the one skill" = agentic AI management; 2026-07-26

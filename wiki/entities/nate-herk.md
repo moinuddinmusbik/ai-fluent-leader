@@ -2,7 +2,7 @@
 title: "Nate Herk"
 type: entity
 created: 2026-05-21
-updated: 2026-07-25
+updated: 2026-07-26
 tags: [creator, implementation]
 sources: []
 ---
@@ -78,3 +78,5 @@ AI automation educator and YouTuber focused on practical AI implementation. Runs
 
 - [[2026-07-23-nate-herk-daily]] — No video published on 2026-07-23 (IST).
 - [[2026-07-24-nate-herk-daily]] — 5 Hacks to Instantly Level Up Your AI OS: CLAUDE.md-as-router, OS audit skill, cron automations, knowledge segmentation, backtrack habit; 4 context failure modes + expertise/situational split; DEEP-DIVE (2026-07-24)
+
+- [[2026-07-26-nate-herk-daily]] — This AI Technology Will Replace Millions (Here's How to Prepare): fork-in-the-road displacement thesis; 60% of tasks agentic AI claim; CEO's warning receipt; three job examples (3:34–7:44); "the one skill" = agentic AI management; COMMENTARY (2026-07-26)

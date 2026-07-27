@@ -924,3 +924,29 @@ Append-only chronological record of all operations on this wiki.
   - wiki/entities/nate-b-jones.md (bumped updated to 2026-07-25, added source)
   - wiki/index.md (appended source line)
   - wiki/log.md (this entry)
+
+## [2026-07-26] ingest | Nate Herk Daily Implementation Playbook
+- **Operation:** ingest
+- **Routine:** nate-herk-daily
+- **Video type:** COMMENTARY
+- **Video:** This AI Technology Will Replace Millions (Here's How to Prepare) — https://www.youtube.com/watch?v=Ums8suyAG1A
+- **Duration:** 14:03 · Views: 22,851 · Likes: 719
+- **Published:** 2026-07-26T14:52:32Z
+- **Transcript:** Unavailable (Firecrawl transcript panel did not render; InnerTube API blocked from sandbox IP after two attempts). Content grounded on description, chapters, tags, and top comments. No quotes fabricated.
+- **Classification:** COMMENTARY — fork-in-the-road displacement thesis; 60% agentic AI tasks claim; CEO's warning receipt; three real job examples (3:34–7:44); "the one skill" = agentic AI management
+- **Key signals:**
+  - Agentic AI already doing 60% of tasks inside companies (cited stat, source unnamed in description)
+  - Hundreds of thousands already displaced — present-tense, not forecast
+  - CEO public warning at 0:43 as credibility anchor
+  - Prescription: become AI manager/operator; Claude Code and no-code AI as vehicles
+  - Community proof: thousands of non-technical members, weeks to mastery
+- **Gotchas from comments:**
+  - @timschoch2449 (2 likes): video is motivational/commentary, not a tutorial (shift from earlier how-to format)
+  - @kaizokun8 (2 likes): vibe coding ≠ enterprise engineering rigor
+  - @abdar_brightwaveai (3 likes): automation paradox — AI operators may automate themselves out of a role
+- **Files written:**
+  - raw/emails-archive/2026-07-26-nate-herk-daily.md
+  - wiki/sources/2026-07-26-nate-herk-daily.md
+  - wiki/entities/nate-herk.md (bumped updated to 2026-07-26, added source)
+  - wiki/index.md (appended source line)
+  - wiki/log.md (this entry)
