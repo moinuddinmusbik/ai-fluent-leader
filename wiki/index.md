@@ -3,7 +3,6 @@
 Master catalog of all wiki pages. Updated on every ingest.
 
 ## Sources
-- [[2026-07-26-nate-b-jones-daily]] — You Can Hand One AI Agent Your Worst Recurring Task. It Cleared 60% Of Mine. — FRAMEWORK (root-cause-first-then-agent; 52→19 cases/week; Gumroad agent; human approval boundary)
 - [[2026-07-20-nate-b-jones-daily]] — China's K3 Model Reveals the Problem With Open Weights — TAKE (open weights ≠ cheap compute; 64-chip floor; model-replacement test)
 - [[2026-05-23-nate-b-jones-daily]] — Emergency AI's 15-day C-Suite experiment; "the harness is the real story"; safety nets for agents; multi-agent task assignment vs. agent execution
 - [[2026-05-24-nate-b-jones-daily]] — AI supply chain constraints; compute as a supply contract; Nvidia H100 allocation as the new strategic scarce resource
@@ -53,7 +52,6 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-07-04-nate-b-jones-daily]] — Goal Harness: Fable 5 as goal harness architect, not planner; short prompts beat long on hard problems; routing-over-loyalty thesis; three-tier model taxonomy (TAKE, 2026-07-04)
 - [[2026-07-05-nate-b-jones-daily]] — Cheap engine, frontier steering: routing is table stakes; [[cheap-engine-frontier-steering]] two-layer architecture; Hashimoto $40 experiment; BlackBerry/Apple; Stripe structured-knowledge dividend (TAKE, 2026-07-05)
 ## Concepts
-- [[root-cause-first-then-agent]] — Six-step framework for finding and deploying your first AI agent use case (Nate B. Jones)
 - [[open-weights]] — downloadable model files; infrastructure dependency persists
 - [[ai-regulatory-headroom]] — provider's ability to navigate government distribution restrictions
 - [[model-replacement-test]] — workload portability test before AI contract renewal
@@ -120,3 +118,13 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-07-24-nate-b-jones-daily]] — FRAMEWORK: Task-Driven Data Minimization ("Begin with the Job"); structural privacy gap; Airlock on-device app; two-minute test for shadow AI; Verizon data; 2026-07-24
 - [[task-driven-data-minimization]] — Nate's framework for operationalizing AI privacy at the task level; "Begin with the Job" replaces blanket "don't upload" rules with task-scoped stripping and rebuild; introduced 2026-07-24
 - [[2026-07-25-nate-b-jones-daily]] — TAKE: AI homogeneity as structural convergence problem; value moves to taste/POV/judgment; [[imagination-gap]] expanded with creativity lens; Hashimoto $40 experiment; two-layer AI architecture; Short-only day; 2026-07-25
+- [[2026-07-26-nate-herk-daily]] — COMMENTARY: fork-in-the-road displacement thesis; 60% of tasks agentic AI; CEO's warning; three job examples; "the one skill" = agentic AI management; 2026-07-26
+- [[2026-07-26-weekly-ai-leadership-stories]] — Weekly AI Leadership Stories digest (2026-07-20 to 2026-07-26): Gartner $64B AI market forecast, Booz Allen federal AI trust gap, Arctera governance auditability gap, Domino Data Lab 57% ROI stall, Hallucination Tax; theme: accountability gap
+- [[hallucination-tax]] — Hidden compounding cost of running AI without governance: manual validation, rework, liability when ungoverned agents take wrong actions; introduced 2026-07-27
+- [[sovereign-ai-risk]] — Business continuity risk from single-model dependency; government directives can revoke model access overnight with no recourse; introduced 2026-07-27
+- [[ai-governance-auditability]] — Capability to prove after-the-fact what AI did and whether it was authorized; policy ≠ auditability; only 19% of orgs have this (Arctera, 2026); introduced 2026-07-27
+## Entities
+- [[gartner]] — Global research/advisory firm; premier source for enterprise AI market forecasts and strategic predictions; introduced 2026-07-27
+- [[booz-allen-hamilton]] — US management/technology consulting firm (major government contractor); publishes high-signal federal AI governance surveys; introduced 2026-07-27
+- [[arctera]] — Data management and compliance tech company; publishes State of AI Governance report; introduced 2026-07-27
+- [[domino-data-lab]] — Enterprise AI/MLOps platform company; publishes annual Enterprise AI Report tracking production capability and ROI; introduced 2026-07-27
