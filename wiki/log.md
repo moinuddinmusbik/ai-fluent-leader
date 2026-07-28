@@ -975,3 +975,15 @@ Append-only chronological record of all operations on this wiki.
   - wiki/concepts/ai-governance-auditability.md (new)
   - wiki/index.md (appended source + concept + entity lines)
   - wiki/log.md (this entry)
+## [2026-07-27] ingest | Nate Herk Daily Implementation Playbook (no new video)
+- **Operation:** ingest
+- **Routine:** nate-herk-daily
+- **Target date:** 2026-07-27 (IST)
+- **Result:** No video published on 2026-07-27 (IST). UTC window: 2026-07-26T18:30Z – 2026-07-27T18:30Z. Most recent channel upload: "This AI Technology Will Replace Millions" (2026-07-26T14:52Z, outside window).
+- **Email sent:** 2026-07-27 to moinuddin.musbik@gmail.com (subject: "Nate Herk Daily Implementation Playbook — 2026-07-27 (no new video)")
+- **Pages written:**
+  - raw/emails-archive/2026-07-27-nate-herk-daily.md
+  - wiki/sources/2026-07-27-nate-herk-daily.md
+  - wiki/entities/nate-herk.md (updated)
+  - wiki/index.md (appended source line)
+  - wiki/log.md (this entry)
