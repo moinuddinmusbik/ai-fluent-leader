@@ -987,3 +987,20 @@ Append-only chronological record of all operations on this wiki.
   - wiki/entities/nate-herk.md (updated)
   - wiki/index.md (appended source line)
   - wiki/log.md (this entry)
+## [2026-07-27] ingest | Nate B Jones Daily Leader Briefing
+- **Operation:** ingest
+- **Routine:** nate-b-jones-daily
+- **Target date:** 2026-07-27 (IST)
+- **Lens:** TAKE
+- **Episode:** "US AI Dominance Is Over: Here's Why" — https://www.youtube.com/watch?v=JBzz53HqMEs (24:01)
+- **Substack:** https://natesnewsletter.substack.com/p/chinese-ai-models-test (preview; full post paid)
+- **Transcript:** unavailable (Firecrawl panel did not render segments; grounded on description + Substack preview)
+- **Email sent:** 2026-07-27 to moinuddin.musbik@gmail.com (subject: "Nate B Jones Daily Leader Briefing — 2026-07-27")
+- **Key concepts introduced:** [[cost-per-accepted-result]], bakeoff kit (validator/manifest/score sheet/fixtures)
+- **Pages written:**
+  - raw/emails-archive/2026-07-27-nate-b-jones-daily.md
+  - wiki/sources/2026-07-27-nate-b-jones-daily.md
+  - wiki/entities/nate-b-jones.md (updated: added 2026-07-27 entry)
+  - wiki/concepts/cost-per-accepted-result.md (new)
+  - wiki/index.md (appended source + concept lines)
+  - wiki/log.md (this entry)

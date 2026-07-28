@@ -123,6 +123,9 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[hallucination-tax]] — Hidden compounding cost of running AI without governance: manual validation, rework, liability when ungoverned agents take wrong actions; introduced 2026-07-27
 - [[sovereign-ai-risk]] — Business continuity risk from single-model dependency; government directives can revoke model access overnight with no recourse; introduced 2026-07-27
 - [[ai-governance-auditability]] — Capability to prove after-the-fact what AI did and whether it was authorized; policy ≠ auditability; only 19% of orgs have this (Arctera, 2026); introduced 2026-07-27
+- [[2026-07-27-nate-b-jones-daily]] — TAKE: US AI dominance framing vs. job/endpoint/check frame; [[cost-per-accepted-result]] metric replaces token price; five Chinese labs/five strategies; Ringer run 213 citations/13 fabricated; bakeoff kit; CAISI DeepSeek V4 Pro evaluation; 2026-07-27
+- [[cost-per-accepted-result]] — The metric replacing token price: cost to produce one output clearing your quality bar, factoring in review time and rejection rates; introduced by Nate B. Jones 2026-07-27
+
 ## Entities
 - [[gartner]] — Global research/advisory firm; premier source for enterprise AI market forecasts and strategic predictions; introduced 2026-07-27
 - [[booz-allen-hamilton]] — US management/technology consulting firm (major government contractor); publishes high-signal federal AI governance surveys; introduced 2026-07-27
