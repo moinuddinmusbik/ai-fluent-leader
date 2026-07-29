@@ -133,3 +133,6 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[domino-data-lab]] — Enterprise AI/MLOps platform company; publishes annual Enterprise AI Report tracking production capability and ROI; introduced 2026-07-27
 - [[2026-07-27-nate-herk-daily]] — No video published on 2026-07-27 (IST).
 - [[2026-07-28-nate-herk-daily]] — No video published on 2026-07-28 (IST).
+- [[2026-07-28-nate-b-jones-daily]] — Job-First Model Routing FRAMEWORK; Daily Driver / Cheap Workhorse / Frontier / Specialists tiers; Fable 5 ~18-day outage; GLM 5.2; Coinbase, Cursor; model-picker prompt; 2026-07-28
+- [[job-first-model-routing]] — The framework for routing AI tasks by job type (Familiar/Repeatable → Workhorse; Complex/Ambiguous → Daily Driver; Edge → Frontier; Sensory/Action → Specialists); introduced by Nate B. Jones 2026-07-28
+

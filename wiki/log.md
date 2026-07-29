@@ -1015,3 +1015,19 @@ Append-only chronological record of all operations on this wiki.
   - wiki/entities/nate-herk.md (updated: bumped updated, added stub entry)
   - wiki/index.md (appended no-video source line)
   - wiki/log.md (this entry)
+
+## [2026-07-28] ingest | Nate B Jones Daily Leader Briefing (FRAMEWORK)
+- **Operation:** ingest
+- **Routine:** nate-b-jones-daily (strategy lane)
+- **Lens:** FRAMEWORK — Job-First Model Routing
+- **Content:** Shorts-only day (1:34 Short); no long-form episode published 2026-07-28 (IST). Brief grounded on Short description + Substack free preview.
+- **Video:** How to pick an AI model in 2026 (https://www.youtube.com/watch?v=FyYRDeXbfW0)
+- **Substack:** https://natesnewsletter.substack.com/p/which-ai-model-to-use (preview; full post paid)
+- **Pages written:**
+  - raw/emails-archive/2026-07-28-nate-b-jones-daily.md
+  - wiki/sources/2026-07-28-nate-b-jones-daily.md
+  - wiki/concepts/job-first-model-routing.md (new)
+  - wiki/entities/nate-b-jones.md (updated: bumped updated to 2026-07-28, added source entry)
+  - wiki/index.md (appended source + concept lines)
+  - wiki/log.md (this entry)
+
