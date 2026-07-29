@@ -1004,3 +1004,14 @@ Append-only chronological record of all operations on this wiki.
   - wiki/concepts/cost-per-accepted-result.md (new)
   - wiki/index.md (appended source + concept lines)
   - wiki/log.md (this entry)
+
+## [2026-07-28] ingest | Nate Herk Daily Implementation Playbook (no video)
+- **Operation:** ingest
+- **Routine:** nate-herk-daily (implementation lane)
+- **Result:** No video published on 2026-07-28 (IST)
+- **Pages written:**
+  - raw/emails-archive/2026-07-28-nate-herk-daily.md
+  - wiki/sources/2026-07-28-nate-herk-daily.md
+  - wiki/entities/nate-herk.md (updated: bumped updated, added stub entry)
+  - wiki/index.md (appended no-video source line)
+  - wiki/log.md (this entry)

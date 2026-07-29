@@ -132,3 +132,4 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[arctera]] — Data management and compliance tech company; publishes State of AI Governance report; introduced 2026-07-27
 - [[domino-data-lab]] — Enterprise AI/MLOps platform company; publishes annual Enterprise AI Report tracking production capability and ROI; introduced 2026-07-27
 - [[2026-07-27-nate-herk-daily]] — No video published on 2026-07-27 (IST).
+- [[2026-07-28-nate-herk-daily]] — No video published on 2026-07-28 (IST).
