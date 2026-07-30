@@ -136,3 +136,5 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-07-28-nate-b-jones-daily]] — Job-First Model Routing FRAMEWORK; Daily Driver / Cheap Workhorse / Frontier / Specialists tiers; Fable 5 ~18-day outage; GLM 5.2; Coinbase, Cursor; model-picker prompt; 2026-07-28
 - [[job-first-model-routing]] — The framework for routing AI tasks by job type (Familiar/Repeatable → Workhorse; Complex/Ambiguous → Daily Driver; Edge → Frontier; Sensory/Action → Specialists); introduced by Nate B. Jones 2026-07-28
 - [[2026-07-29-nate-herk-daily]] — No video published on 2026-07-29 (IST).
+- [[2026-07-29-nate-b-jones-daily]] — The Clean Desk FRAMEWORK: 3-level token management (Level 1: 9 manual habits; Level 2: Token Saver Skill one-command install; Level 3: Ringer local intermediary); 3.77B tokens/day 95.73% reused; 55K tool-def tokens (Anthropic data); start-fresh-task biggest win; 2026-07-29
+- [[clean-desk-framework]] — Three-level AI token hygiene framework (Level 1 habits / Level 2 Token Saver Skill / Level 3 Ringer proxy); introduced by Nate B. Jones 2026-07-29

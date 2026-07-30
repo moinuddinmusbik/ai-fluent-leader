@@ -1036,4 +1036,18 @@ Append-only chronological record of all operations on this wiki.
 - **Source:** Nate Herk Daily Implementation Playbook
 - **Details:** No video published by Nate Herk on 2026-07-29 (IST). Most recent video was 2026-07-26. Stub files committed.
 - **Pages touched:** [[2026-07-29-nate-herk-daily]], [[nate-herk]], [[wiki/index.md]], [[wiki/log.md]]
-
+## [2026-07-29] ingest | Nate B Jones Daily Leader Briefing — FRAMEWORK: The Clean Desk
+- **Operation:** ingest
+- **Source:** Nate B Jones Daily — YouTube + Substack
+- **Lens:** FRAMEWORK
+- **Video:** Paste This Into Claude, Never Hit a Token Limit Again (20:17) — https://www.youtube.com/watch?v=Y8vAQ1FgNbM
+- **Substack:** https://natesnewsletter.substack.com/p/reduce-ai-token-usage (preview; full post paid)
+- **Big idea:** 3-level Clean Desk framework for AI token management; reused input is 95.73% of token cost; Token Saver Skill + Ringer as automation layers
+- **Pages written:**
+  - raw/transcripts/2026-07-29-nate-b-jones-daily.md
+  - raw/emails-archive/2026-07-29-nate-b-jones-daily.md
+  - wiki/sources/2026-07-29-nate-b-jones-daily.md
+  - wiki/concepts/clean-desk-framework.md (new)
+  - wiki/entities/nate-b-jones.md (updated: bumped updated to 2026-07-29, added source entry)
+  - wiki/index.md (appended source + concept lines)
+  - wiki/log.md (this entry)
