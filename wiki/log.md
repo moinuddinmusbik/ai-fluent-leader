@@ -1031,3 +1031,9 @@ Append-only chronological record of all operations on this wiki.
   - wiki/index.md (appended source + concept lines)
   - wiki/log.md (this entry)
 
+## [2026-07-29] ingest | Nate Herk Daily Implementation Playbook — no new video
+- **Operation:** ingest
+- **Source:** Nate Herk Daily Implementation Playbook
+- **Details:** No video published by Nate Herk on 2026-07-29 (IST). Most recent video was 2026-07-26. Stub files committed.
+- **Pages touched:** [[2026-07-29-nate-herk-daily]], [[nate-herk]], [[wiki/index.md]], [[wiki/log.md]]
+
