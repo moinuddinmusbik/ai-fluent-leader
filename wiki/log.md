@@ -1062,3 +1062,21 @@ Append-only chronological record of all operations on this wiki.
   - wiki/entities/nate-herk.md (updated: bumped updated to 2026-07-30, added no-video stub)
   - wiki/index.md (appended source line)
   - wiki/log.md (this entry)
+
+## [2026-07-30] ingest | Nate B Jones Daily Leader Briefing (FRAMEWORK)
+- **Routine:** nate-b-jones-daily
+- **Lens:** FRAMEWORK
+- **Target date:** 2026-07-30 (IST)
+- **Content type:** Short-only day (0:54 teaser); primary source is Substack post
+- **YouTube Short:** [A hack to build cheaper agents](https://www.youtube.com/watch?v=TN3rglofqmE) · 0:54
+- **Substack:** https://natesnewsletter.substack.com/p/reusable-ai-agent (published 2026-07-03; preview; full post paid)
+- **Transcript:** Not available (Short-only; no long-form episode)
+- **Big idea:** The Reusable Agent Rig — 9-stage architecture that makes each subsequent agent cheaper to build; three-build flywheel (email → insurance appeal → tax-year); Hard Stop gate (drafts only, never sends/files/submits); KFF: 85M denied ACA claims, <1% appealed, 33–50% win on appeal; Senate report: UnitedHealthcare denial rate doubled via algorithmic tools
+- **Framework named:** [[reusable-agent-rig]] (new concept page created)
+- **Pages written:**
+  - raw/emails-archive/2026-07-30-nate-b-jones-daily.md
+  - wiki/sources/2026-07-30-nate-b-jones-daily.md
+  - wiki/concepts/reusable-agent-rig.md (new)
+  - wiki/entities/nate-b-jones.md (updated: bumped updated to 2026-07-30, added source entry)
+  - wiki/index.md (appended source + concept lines)
+  - wiki/log.md (this entry)

@@ -1,49 +1,59 @@
 ---
 title: "Reusable Agent Rig"
 type: concept
-created: 2026-07-21
-updated: 2026-07-21
-tags: [framework, ai-agents, automation, governance]
-introduced_by: "[[nate-b-jones]]"
-first_seen: "[[2026-07-21-nate-b-jones-daily]]"
+created: 2026-07-30
+updated: 2026-07-30
+tags: [ai-agents, framework, systems-thinking, automation, document-processing]
+sources: [2026-07-30-nate-b-jones-daily.md]
+routine: "Nate B Jones Daily Leader Briefing"
 ---
 
 # Reusable Agent Rig
 
-A 9-stage AI agent architecture designed for high-stakes, document-heavy paperwork tasks. Built once, pointed at many jobs — only the context pack and output template change between builds. Introduced by [[nate-b-jones]] in his 2026-07-21 Substack post.
+A 9-stage AI agent architecture introduced by [[nate-b-jones]] (Substack: July 3, 2026; promoted via YouTube Short July 30, 2026) for building document-processing agents that get cheaper with every additional use case.
 
-## The Core Principle
+## Definition
 
-"Every agent you build should make your next agent cheaper to build." If that ratio is not improving, you are collecting chores that happen to run on AI, not building a system.
+A single agent architecture you assemble once on a low-stakes problem, then point at any domain where you have sensitive, unorganized documents and a high-stakes decision. Between builds, only the "nouns" change (what goes into the context pack, what the output packet looks like). The nine execution stages transfer verbatim.
 
-## The Pattern
+## Core Principle: The Flywheel
 
-**Stage shape:** Define what the agent is allowed to read → structure and cite the documents → export a reviewable packet → hard stop (hand back to human).
+"Every agent you build should make your next agent cheaper to build." If each new agent feels like starting from zero, you are collecting AI chores — not building a system. The rig inverts this: each component gets sharper with use, and by the third build, setup costs a fraction of the first.
 
-**The hard stop rule:** The agent drafts and organizes only. It never sends, files, submits, pays, or signs. This is not a limitation — it is what makes the rig deployable on money and health decisions.
+## The Nine Stages (from preview; full stages paywalled)
 
-**Deliberate no-vector-search:** For legal and health documents, the rig uses deterministic retrieval, not vector/RAG similarity search. Exact policy clause citation matters more than approximate relevance.
+1. **Ingestion** — converts unstructured documents into text with source links
+2. **Normalization** — types the data (dates, names, amounts)
+3. **Context Pack** — defines scope: what the agent is allowed to read
+4. [Stages 4–8 per Substack; full post paid]
+5. **Receipt** — audit log of what the agent read, concluded, flagged
+6. **The Hard Stop (Gate)** — the agent drafts and organizes only; never sends, files, submits, pays, or signs
 
-## Two Transferable Open Skills
+## The Three Build Sequence
 
-1. **Context Engineering Open Skill** — controls what the agent reads and how it scopes the context pack
-2. **Runbooks Open Skill** — step-by-step operating procedure that persists across builds
+| Build | Problem | Agent |
+|-------|---------|-------|
+| 1 (training run) | Email / calendar | Generic task agent |
+| 2 | Insurance denial | Healthcare Claim Appeals Agent |
+| 3 | Tax-year prep | Tax Prep Organizer Agent |
 
-## Three Proof-Run Builds (Nate's sequence)
+## Underlying Open Skills
 
-1. **Email & calendar** — training run, low stakes, validates the nine stages
-2. **Insurance denial appeal packet** — high asymmetry problem; assembles cited appeal with exact policy references; stops before submitting
-3. **Tax-year prep packet** — same rig, different context pack and output template; setup is a fraction of Build 1 by this point
+- **Context Engineering** — scope definition and ingestion
+- **Runbooks** — step-by-step execution logic
 
-## The Flywheel
+Both skills transfer across all builds.
 
-The rig is explicitly designed to compound: between builds, only the "nouns" change (context pack + output template). The machinery transfers. By the third build, setup cost is dramatically lower than the first.
+## When to Apply
 
-## Where It Applies
+Nate's test: "Anywhere life hands you sensitive documents, no structure, and a decision that matters."
+- Insurance denials, tax prep, compliance reviews, vendor contract analysis, audit prep, grant applications
+- Any domain where the opposing party (insurer, regulator, lender) operates with automation and structure, while you have a pile
 
-Any domain with: sensitive/unorganized documents + a decision that matters + the other side already has structure. Insurance, taxes, contract review, compliance audit, HR investigations, grant reporting.
+## Key Distinction
 
-## Related pages
+The Hard Stop (Gate) — the agent never sends, files, submits, pays, or signs — is the reason the rig can safely address health and financial decisions. This is a design principle, not a legal disclaimer.
 
-- [[nate-b-jones]]
-- [[2026-07-21-nate-b-jones-daily]]
+## Sources
+
+- [[2026-07-30-nate-b-jones-daily]] — introduced (FRAMEWORK lens; Short-only day; primary source is Substack preview)
