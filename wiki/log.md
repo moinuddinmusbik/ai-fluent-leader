@@ -1080,3 +1080,14 @@ Append-only chronological record of all operations on this wiki.
   - wiki/entities/nate-b-jones.md (updated: bumped updated to 2026-07-30, added source entry)
   - wiki/index.md (appended source + concept lines)
   - wiki/log.md (this entry)
+
+## [2026-07-31] nate-herk-daily | No video
+- **Routine:** nate-herk-daily
+- **Type:** no-video
+- **Result:** No Nate Herk video published on 2026-07-31 (IST).
+- **Pages written:**
+  - raw/emails-archive/2026-07-31-nate-herk-daily.md
+  - wiki/sources/2026-07-31-nate-herk-daily.md
+  - wiki/entities/nate-herk.md (bumped updated to 2026-07-31, added stub source)
+  - wiki/index.md (appended no-video source line)
+  - wiki/log.md (this entry)

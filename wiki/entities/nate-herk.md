@@ -2,7 +2,7 @@
 title: "Nate Herk"
 type: entity
 created: 2026-05-21
-updated: 2026-07-30
+updated: 2026-07-31
 tags: [creator, implementation]
 sources: []
 ---
@@ -85,3 +85,4 @@ AI automation educator and YouTuber focused on practical AI implementation. Runs
 - [[2026-07-29-nate-herk-daily]] — No video published on 2026-07-29 (IST).
 
 - [[2026-07-30-nate-herk-daily]] — No video published on 2026-07-30
+- [[2026-07-31-nate-herk-daily]] — No video published on 2026-07-31 (IST).
