@@ -1091,3 +1091,19 @@ Append-only chronological record of all operations on this wiki.
   - wiki/entities/nate-herk.md (bumped updated to 2026-07-31, added stub source)
   - wiki/index.md (appended no-video source line)
   - wiki/log.md (this entry)
+## [2026-07-31] nate-b-jones-daily | The AI Hype Is Real — Jersey Mike's IPO and the AI Capital Premium
+- **Routine:** nate-b-jones-daily
+- **Lens:** TAKE
+- **Target date:** 2026-07-31 (IST)
+- **Content type:** Short-only day (no long-form episode; 0:37 Short: "The AI hype is real")
+- **Substack:** natesnewsletter.substack.com (general link in Short description; no specific post for this topic)
+- **Transcript:** Unavailable (Short only — no long-form transcript; "In His Words" omitted)
+- **Summary:** Jersey Mike's sandwich chain's S-1 IPO filing mentions AI 22 times. Nate's TAKE: not a punchline but a capital-market signal — lawyers repeat a word in an S-1 because it moves money, revealing the AI capital premium has crossed from tech into every sector. "Cheap money always leaves a mark."
+- **New concept:** [[ai-capital-premium]] (created)
+- **Pages written:**
+  - raw/emails-archive/2026-07-31-nate-b-jones-daily.md
+  - wiki/sources/2026-07-31-nate-b-jones-daily.md
+  - wiki/concepts/ai-capital-premium.md (new)
+  - wiki/entities/nate-b-jones.md (updated: bumped updated to 2026-07-31, added source entry)
+  - wiki/index.md (appended source + concept lines)
+  - wiki/log.md (this entry)
