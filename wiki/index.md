@@ -3,147 +3,35 @@
 Master catalog of all wiki pages. Updated on every ingest.
 
 ## Sources
-- [[2026-07-20-nate-b-jones-daily]] — China's K3 Model Reveals the Problem With Open Weights — TAKE (open weights ≠ cheap compute; 64-chip floor; model-replacement test)
-- [[2026-05-23-nate-b-jones-daily]] — Emergency AI's 15-day C-Suite experiment; "the harness is the real story"; safety nets for agents; multi-agent task assignment vs. agent execution
-- [[2026-05-24-nate-b-jones-daily]] — AI supply chain constraints; compute as a supply contract; Nvidia H100 allocation as the new strategic scarce resource
-- [[2026-05-25-nate-b-jones-daily]] — Platform teams become AI bottlenecks; "shadow AI" as an organizational cost; technical translation as a leadership skill
-- [[2026-05-26-nate-b-jones-daily]] — Shopify's River agent; the public AI work gap; apprenticeship collapse and what replaces it
-- [[2026-05-27-nate-b-jones-daily]] — AI document workflow and "truth layer"; hostile reviewer prompt as a quality gate; structured skepticism before sign-off
-- [[2026-05-28-nate-b-jones-daily]] — Agent analytics; Cursor database wipe incident; completion-vs-acceptance metric as the leading indicator of agent adoption health
-- [[2026-05-29-nate-b-jones-daily]] — Product management after cheap software; prototype commons and the production class ladder; how PM skills shift when building is nearly free
-- [[2026-05-30-nate-b-jones-daily]] — AI workflow evolution; context architecture over prompt quality; how durable workflows survive model churn
-- [[2026-05-31-nate-b-jones-daily]] — Career evidence collapse; judgment visibility as the new professional differentiator; "show your thinking" as the new resume
-- [[2026-06-01-nate-b-jones-daily]] — AI agents and the enterprise context platform race; OpenAI vs. Anthropic organizational memory play
-- [[2026-06-02-nate-b-jones-daily]] — Five-person strike team; coordination combinatorics; scout vs. strike team distinction; the Steinberger Threshold
-- [[2026-06-03-nate-b-jones-daily]] — Opus 4.8 benchmark trap; harness beats model score; dark factory approach for knowledge workers
-- [[2026-06-06-nate-b-jones-daily]] — Organizational AI taste; rejections as institutional knowledge; recognition, articulation, encoding; the Epic Systems model
-- [[2026-06-07-nate-b-jones-daily]] — Uber's AI budget blowup; token burn as operating-model signal; Minimum Effective Intelligence routing
-- [[2026-06-08-nate-b-jones-daily]] — Layoff signal taxonomy; Meta CapEx trap; Block vision; Cloudflare activity distress; five-category diagnostic
-- [[2026-06-10-nate-b-jones-daily]] — Steer or Dispatch framework; Claude Code = cockpit, Codex = operations desk; agent literacy as 2026 skill
-- [[2026-06-11-nate-b-jones-daily]] — Apple WWDC 2026 surface-ownership play; App Intents as agent-integration monopoly on 1B+ devices; model race vs. surface race
-- [[2026-06-12-nate-b-jones-daily]] — Codex Operating Model; five-component framework; unit-of-work shift from prompt to run; chief-of-staff threads
-- [[2026-06-13-nate-b-jones-daily]] — Fable 5 forced offline by US export control directive; frontier model access as a policy surface; three-layer analysis
-- [[2026-06-14-nate-b-jones-daily]] — OpenAI IPO filed; harness ownership above the model as the real competitive moat (TAKE, 2026-06-14)
-- [[2026-06-15-nate-b-jones-daily]] — AI bubble/stock correction reframe; [[buildout-vs-payback]] test; [[narrative-correction-sorting]] three phases; $194B NVIDIA chips (TAKE, 2026-06-15)
-- [[2026-06-16-nate-b-jones-daily]] — No new content (Shorts only)
-- [[2026-06-17-nate-b-jones-daily]] — Vercel deleted 80% of sales agent tools to make it better; [[agent-maintenance]] seven-dimension framework (FRAMEWORK, 2026-06-17)
-- [[2026-06-18-nate-b-jones-daily]] — No new content (Shorts only)
-- [[2026-06-19-nate-b-jones-daily]] — Open Skills framework; agent skills as SKILL.md runbooks; portable procedures across Claude Code, Codex, Cursor (FRAMEWORK, 2026-06-19)
-- [[2026-06-20-nate-b-jones-daily]] — Voice cloning trust collapse; "made with AI" as five questions; creator trust stack disclosure framework (FRAMEWORK, 2026-06-20)
-- [[2026-06-21-nate-b-jones-daily]] — Every AI agent needs one named human owner; [[agent-ownership]] framework; Agent Owner's Card (FRAMEWORK, 2026-06-21)
-- [[2026-06-22-nate-b-jones-daily]] — Google $2.7B talent loss; Anthropic's better month thesis; Midjourney medical imaging as the week's sleeper signal (TAKE, 2026-06-22)
-- [[2026-06-23-nate-b-jones-daily]] — Fable 5 inverts the bottleneck to task imagination; [[detailed-task-imagination]] framework; model manager as new role (TAKE, 2026-06-23)
-- [[2026-06-24-nate-b-jones-daily]] — Loop of Loops framework: Prompt → Loop → Loop of Loops; cross-domain recurring-work integration (FRAMEWORK, 2026-06-24)
-- [[2026-06-25-nate-b-jones-daily]] — Bottleneck Migration FRAMEWORK; "What's Expensive Here?" inversion; Cursor $1M→$500M receipt; Agile's wrong assumption (FRAMEWORK, 2026-06-25)
-- [[2026-06-26-nate-b-jones-daily]] — Open Engine FRAMEWORK: shared task queue for multi-agent handoffs; prompt mode vs. work mode (FRAMEWORK, 2026-06-26)
-- [[2026-06-27-nate-b-jones-daily]] — Operational velocity as AI moat; Claude Cowork 10-day build; [[open-engine]] + [[operational-velocity-moat]] framing (FRAMEWORK, 2026-06-27)
-- [[2026-06-28-nate-b-jones-daily]] — Context lock-in TAKE; center/edge task split; Claude Tag as strategic context-capture; [[context-lock-in]], [[center-edge-distribution]], [[ai-harness]] concepts introduced (TAKE, 2026-06-28)
-- [[2026-06-29-nate-b-jones-daily]] — Government GPT-5.6 gating as a context-war signal, alongside Apple/Siri, Claude Tag/Slack, and Codex adoption; extends [[context-lock-in]] thread (TAKE, 2026-06-29)
-- [[2026-06-30-nate-b-jones-daily]] — Fable 5 bigger-than-habits TAKE; [[detailed-task-imagination]] + [[whole-job-spec]] nine-field spec; Short-only day, brief from Substack preview (TAKE, 2026-06-30)
-- [[2026-07-01-nate-herk-daily]] — No video on 2026-07-01 (nate-herk-daily).
-- [[2026-07-01-nate-b-jones-daily]] — Build Your Own AI Memory: [[open-stack]] unified framework; [[5-part-agent-loop]] (memory/method/boundary/receipt/judgment); [[responsible-utility]] introduced; "rent the intelligence, own the memory" (FRAMEWORK, 2026-07-01)
-- [[responsible-utility]] — Nate B. Jones's design goal for personal agents: useful enough to act, careful enough to know whether you authorized it; introduced 2026-07-01
-- [[5-part-agent-loop]] — The minimum structure for a trustworthy agent loop: memory, method, boundary, receipt, judgment; introduced 2026-07-01
-- [[2026-07-02-nate-b-jones-daily]] — Job-First Routing FRAMEWORK: 3-tier model (Daily Driver / Cheap Workhorse / Frontier) + Specialists; Fable 5 return as routing-resilience test; harness portability as career skill; Coinbase/Cursor/Lindy routing receipts (FRAMEWORK, 2026-07-02)
-- [[job-first-routing]] — Nate's 4-tier model-selection framework: define the job before picking the model; tiers: Daily Driver / Cheap Workhorse (GLM 5.2) / Frontier (Claude/ChatGPT) / Specialists (images/video/live-web); extends [[center-edge-distribution]]; introduced 2026-07-02
-- [[fable-style-problem]] — Nate's term for tasks requiring broad, strong generalized intelligence: novel domain, unclear shape, judgment-heavy, discovery-mode; contrast with center-of-distribution work; introduced 2026-07-02
-- [[2026-07-03-nate-b-jones-daily]] — Reusable Agent Rig: nine-step reusable skeleton for high-trust paperwork; one rule (agent drafts, never sends); KFF: 85M denied claims, <1% appealed; Senate report on algorithmic denial tools; flywheel build model (FRAMEWORK, 2026-07-03)
-
-- [[2026-07-04-nate-b-jones-daily]] — Goal Harness: Fable 5 as goal harness architect, not planner; short prompts beat long on hard problems; routing-over-loyalty thesis; three-tier model taxonomy (TAKE, 2026-07-04)
-- [[2026-07-05-nate-b-jones-daily]] — Cheap engine, frontier steering: routing is table stakes; [[cheap-engine-frontier-steering]] two-layer architecture; Hashimoto $40 experiment; BlackBerry/Apple; Stripe structured-knowledge dividend (TAKE, 2026-07-05)
-## Concepts
-- [[open-weights]] — downloadable model files; infrastructure dependency persists
-- [[ai-regulatory-headroom]] — provider's ability to navigate government distribution restrictions
-- [[model-replacement-test]] — workload portability test before AI contract renewal
-- [[context-lock-in]] — dynamic where frontier model integration (e.g. Claude Tag/Slack) makes switching economically irrational regardless of competitor model quality or price; introduced 2026-06-28
-- [[center-edge-distribution]] — Nate's task-categorisation framework: center = common patterns, familiar shapes, inspectable outputs (GLM 5.2 tier); edge = novel/high-stakes/context-dense (frontier model tier); introduced 2026-06-28
-- [[ai-harness]] — surrounding system (prompts, memory, tool calls, routing, system prompt tuning) that makes a model productive in a specific work context; "a model is a brain in a jar without a harness"; introduced 2026-06-28
-- [[whole-job-spec]] — Nate's nine-field framework for delegating a whole job to a frontier model; converts a prompt into a delegation; introduced 2026-06-30
-- [[job-first-routing]] — Nate's 4-tier model-selection framework; define the job before picking the model; introduced 2026-07-02
-- [[fable-style-problem]] — tasks requiring broad generalized intelligence: novel domain, unclear shape, judgment-heavy; contrast with center-of-distribution work; introduced 2026-07-02
-- [[reusable-agent-rig]] — Nate's nine-step reusable AI agent skeleton for high-trust paperwork: context pack goes in, cited packet comes out, hard stop before any submission; proof runs: email → insurance appeal → tax prep; introduced 2026-07-03
-- [[goal-harness]] — Nate's term for the objective structure a frontier model defines to steer downstream execution models; separates goal-definition layer from execution layer; introduced 2026-07-04
-- [[cheap-engine-frontier-steering]] — Nate's two-layer AI architecture: cheapest capable model (open-weights) as execution engine; frontier models as steering for novel/judgment-heavy tasks; advantage forms in the steering layer; introduced 2026-07-05
-- [[2026-07-05-nate-herk-daily]] — No video (2026-07-05 IST)
-- [[2026-07-06-nate-herk-daily]] — No video (2026-07-06 IST)
-- [[2026-07-06-nate-b-jones-daily]] — OpenAI $42B government stake + Meta compute cloud + Jersey Mike's IPO as one AI scoreboard-shift thesis; best-model race replaced by compute/distribution/political-permission competition; [[ai-scoreboard-shift]] framing (TAKE, 2026-07-06)
-- [[ai-scoreboard-shift]] — Nate's framing for the post-model-race competition axis: compute infrastructure ownership, distribution channel control, and government/regulatory permission as the three levers that determine value capture once model capability commoditizes; introduced 2026-07-06
-- [[2026-07-07-nate-b-jones-daily]] — "If the AI is a vibe, the human is a scar": real humans now accused of being AI for being too consistent/polished; human inconsistency as proof-of-work for authentic presence; [[vibe-vs-scar]] framework (TAKE, 2026-07-07)
-- [[vibe-vs-scar]] — Nate's framework: AI = vibe (smooth, stateless); human = scar (accumulated experience, visible inconsistency); the scar is the trust credential in an AI-content-flooded environment; introduced 2026-07-07
-- [[2026-07-08-nate-herk-daily]] — No new Nate Herk video on 2026-07-08 IST (no-video stub).
-- [[2026-07-08-nate-b-jones-daily]] — Live 34-task/$8 verified agent swarm build; [[verified-agent-swarm]] org-chart architecture (frontier boss + cheap workers + independent checkers); [[agent-constitution]] big-work prompting; 4 distinct failure types caught without human; "no rank exempt from verification" (TAKE, 2026-07-08)
-- [[verified-agent-swarm]] — Nate's org-chart multi-agent architecture: frontier boss orchestrates, cheap workers execute, independent checking agents re-execute each task rather than trusting worker self-reports; 10x cost savings vs. frontier-only; introduced 2026-07-08
-- [[agent-constitution]] — Nate's big-work prompting pattern: define "done right" in a written standard once before any task starts; the orchestrator enforces it on every round; produced from a 5-word prompt in the $8 website build; introduced 2026-07-08
-- [[2026-07-09-nate-b-jones-daily]] — Short-only day; Google's $185B 2026 AI capex as down payment (not bubble); [[precision-judgment-middle-role]] as the spec+judgment function that survives agent coding; [[infrastructure-inversion]] pattern; the inference gap; the compressed window (TAKE, 2026-07-09)
-- [[precision-judgment-middle-role]] — Nate's framing for the middle role that survives when agents code: spec precision (translating vague business need into machine-executable spec) + customer judgment (knowing whether output solves the real problem); introduced 2026-07-09
-- [[infrastructure-inversion]] — Nate's historical pattern: infrastructure builders (railroads, fiber, AWS, hyperscalers) win when the application layer runs on their rails; structural difference from telco bankruptcies; applied to Google's $185B AI capex; introduced 2026-07-09
-- [[2026-07-10-nate-herk-daily]] — I Tested GPT 5.6 Sol vs Fable 5: Manager vs Worker model framing; Fable=creative orchestrator, Sol=fast cost-effective executor; one-shot frontend test battery in Codex vs Claude Code + API; model routing heuristic; DEEP-DIVE (2026-07-10)
-- [[2026-07-11-nate-b-jones-daily]] — Short-only day; FRAMEWORK lens; [[capability-dissipation-gap]] (individual: spec-writing vs chat-window; economy: four inertia forces); Citrini doom deflated; IBM/$200B market-cap wipe as dissipation-lag; skill ≠ prompting (2026-07-11)
-- [[capability-dissipation-gap]] — Nate's framework for the widening distance between what AI can technically do and what any person/org/economy has reorganized to use; operates at individual scale (spec-writing vs chat-window) and economy-wide scale (four inertia forces: regulatory, organizational, cultural, trust); introduced 2026-07-11
-- [[2026-07-12-nate-b-jones-daily]] — FRAMEWORK lens; [[ai-native-commandments]] (15 commandments as one operating system); operator's job = move repeatable coordination into code; [[enforcement-ladder]] (value→instruction→reminder→hard block→human decision); photography analogy for cost-collapse; "humans become the rate limit" thesis (2026-07-12)
-- [[ai-native-commandments]] — Nate's 15-commandment operating system for AI-native organizational speed; four clusters (speed/meetings/systems/human); replacement rule: ban without installing the replacement deletes coordination; introduced 2026-07-12
-- [[enforcement-ladder]] — Five-rung model for turning org rules into software-enforced behavior: value → instruction → reminder → hard block → human-owned decision; machine asks, person keeps judgment; introduced 2026-07-12
-- [[2026-07-13-nate-herk-daily]] — No video published on 2026-07-13 (IST); no playbook content.
-- [[2026-07-13-nate-b-jones-daily]] — TAKE lens; [[model-fit]] diagnostic; benchmarks ≠ fit; Sol vs Fable family split; "the job is only half of it" (work-pattern axis); Sol 93/Dingo; modelfit.natebjones.com (2026-07-13)
-- [[model-fit]] — Nate's diagnostic concept/tool for selecting AI models by work pattern, not benchmark rank; Sol-family (execution/RL) vs Fable-family (intent-inference/pre-train) split; two-week calibration window; introduced 2026-07-13
-- [[2026-07-14-nate-b-jones-daily]] — Short-only day; FRAMEWORK lens; [[one-loop]] (5-part minimum unit: memory/method/boundary/receipt/judgment); [[owned-stack]] (Open Brain + Open Skills + Open Engine); [[agent-intent]] (capability is solved — intent is the central AI-age problem); Lemonade Insurance case; 80% buildable by conversation (2026-07-14)
-- [[one-loop]] — Nate's five-part minimum unit for responsible agent utility: Memory, Method, Boundary, Receipt, Judgment; the structural answer to the agent-intent problem; introduced 2026-07-14
-- [[owned-stack]] — Three-layer personal AI infrastructure you build and control: Open Brain (memory), Open Skills (method), Open Engine (work); "rented intelligence on top, owned context underneath"; introduced 2026-07-14
-- [[agent-intent]] — The central AI-age design problem: distinguishing what an agent thought it had permission to do from what you actually meant; Lemonade Insurance as the canonical case; introduced 2026-07-14
-- [[2026-07-15-nate-herk-daily]] — No video published on 2026-07-15 (IST).
-- [[2026-07-15-nate-b-jones-daily]] — Six-rule AI harness audit; [[ai-harness-audit]] framework; [[harness-bloat]] phenomenon; 18,384-word load revealed in audit (FRAMEWORK, 2026-07-15)
-- [[ai-harness-audit]] — Six-rule framework for mapping, cleaning, and maintaining AI instruction harnesses across model upgrades; introduced 2026-07-15
-- [[harness-bloat]] — Phenomenon of accumulated AI instructions degrading delivery; compact brief outperforms enriched brief on execution; introduced 2026-07-15
-- [[2026-07-16-nate-herk-daily]] — No video published on 2026-07-16 (IST).
-- [[2026-07-16-nate-b-jones-daily]] — Short-only day; FRAMEWORK: [[one-loop]] (Five-Part Loop: memory/method/boundary/receipt/judgment); [[owned-stack]] (Open Brain + Open Skills + Open Engine); [[agent-intent]]; Lemonade Insurance canonical case; build ~5× easier via coding agents (FRAMEWORK, 2026-07-16)
-- [[2026-07-17-nate-herk-daily]] — No video published on 2026-07-17 (IST).
-- [[2026-07-17-nate-b-jones-daily]] — TAKE: Codex vs Fable experiment; strategic discovery vs execution; [[strategic-discovery-vs-execution]]; "big model smell"; stop-and-propose checkpoint; 5-offer discipline (TAKE, 2026-07-17)
-- [[2026-07-18-nate-herk-daily]] — No video published on 2026-07-18 (IST).
-- [[2026-07-18-nate-b-jones-daily]] — Short-only day (0:34); FRAMEWORK: [[escape-the-application-pile]] (exit the ATS arms race by building a personal AI interface; assert-vs-demonstrate; bidirectional fit assessment; sub-1% success rate; implementation spectrum from 30-min doc to weekend site build) (FRAMEWORK, 2026-07-18)
-- [[escape-the-application-pile]] — Career strategy framework: exit the ATS application arms race by building a personal AI-powered interface; shift from filtered document to discoverable surface; bidirectional fit assessment tool; introduced 2026-07-18
-- [[2026-07-19-nate-herk-daily]] — No new Nate Herk video on 2026-07-19 (IST).
-- [[2026-07-19-weekly-ai-leadership-stories]] — Weekly AI Leadership Stories digest (2026-07-13 to 2026-07-19): Return on Intelligence, Chief of Staff AI role, enterprise deployment battleground, tiered agent governance, agentic bifurcation
-- [[chief-ai-officer]] — C-suite role owning AI strategy and transformation; 76% of orgs have one in 2026 (up from 26% in 2025); introduced 2026-07-20
-- [[chief-of-staff-as-ai-role]] — Chief of Staff as CEO's AI orchestrator and CAIO operating partner; postings doubled, compensation to $400K; introduced 2026-07-20
-- [[return-on-intelligence]] — Measurement framework: tracking AI's decision leverage and outcomes, not just cost savings; only 7% of leaders demonstrate established AI ROI; introduced 2026-07-20
-- [[tiered-agent-governance]] — Governance framework classifying agents by decision impact and data access scope, applying proportional controls; introduced 2026-07-20
-- [[2026-07-21-nate-herk-daily]] — No video published on 2026-07-21 (IST).
-- [[2026-07-21-nate-b-jones-daily]] — FRAMEWORK: The Reusable Agent Rig; 9-stage paperwork automation pattern; hard stop governance; KFF denial stats; UnitedHealthcare Senate PSI; 2026-07-21
-- [[reusable-agent-rig]] — 9-stage AI agent pattern for high-stakes paperwork; only context pack + output template change between builds; hard stop = governance layer; introduced 2026-07-21
-- [[2026-07-22-nate-b-jones-daily]] — TAKE: AI slop as DoS attack on public square; Substack Pangram AI detection launch (CEO Chris Best interview); claude-fishing; Baumol's cost effect; human attention as last non-inflationary resource; 2026-07-22
-- [[ideas-graph]] — Nate's proposed concept-map complement to Pangram; maps nodes, edges, valence, and omission against LLM's default conceptual distribution; "model kept the nodes, erased the edges"; introduced 2026-07-22
+- [[2026-07-20-nate-b-jones-daily]] — China's K3 Model Revealed; TAKE; 2026-07-20
+- [[2026-07-21-nate-herk-daily]] — BUILD: Claude Code MCP server setup with Supabase; multi-agent handoff pattern
+- [[2026-07-22-nate-b-jones-daily]] — No video published on 2026-07-22 (IST).
+- [[2026-07-22-nate-herk-daily]] — No video published on 2026-07-22 (IST).
+- [[2026-07-23-nate-b-jones-daily]] — No video published on 2026-07-23 (IST).
 - [[2026-07-23-nate-herk-daily]] — No video published on 2026-07-23 (IST).
-- [[2026-07-23-nate-b-jones-daily]] — TAKE: Model routing becomes table stakes; imagination gap as the new competitive divide; Hashimoto's $40 experiment; two-layer AI architecture; 2026-07-23
-- [[imagination-gap]] — Nate's term for the primary competitive divide in AI: the gap between orgs asking for new work cheap execution makes possible vs. those running the old list faster; introduced 2026-07-23
-- [[2026-07-24-nate-b-jones-daily]] — FRAMEWORK: Task-Driven Data Minimization ("Begin with the Job"); structural privacy gap; Airlock on-device app; two-minute test for shadow AI; Verizon data; 2026-07-24
-- [[task-driven-data-minimization]] — Nate's framework for operationalizing AI privacy at the task level; "Begin with the Job" replaces blanket "don't upload" rules with task-scoped stripping and rebuild; introduced 2026-07-24
-- [[2026-07-25-nate-b-jones-daily]] — TAKE: AI homogeneity as structural convergence problem; value moves to taste/POV/judgment; [[imagination-gap]] expanded with creativity lens; Hashimoto $40 experiment; two-layer AI architecture; Short-only day; 2026-07-25
-- [[2026-07-26-nate-herk-daily]] — COMMENTARY: fork-in-the-road displacement thesis; 60% of tasks agentic AI; CEO's warning; three job examples; "the one skill" = agentic AI management; 2026-07-26
-- [[2026-07-26-weekly-ai-leadership-stories]] — Weekly AI Leadership Stories digest (2026-07-20 to 2026-07-26): Gartner $64B AI market forecast, Booz Allen federal AI trust gap, Arctera governance auditability gap, Domino Data Lab 57% ROI stall, Hallucination Tax; theme: accountability gap
-- [[hallucination-tax]] — Hidden compounding cost of running AI without governance: manual validation, rework, liability when ungoverned agents take wrong actions; introduced 2026-07-27
-- [[sovereign-ai-risk]] — Business continuity risk from single-model dependency; government directives can revoke model access overnight with no recourse; introduced 2026-07-27
-- [[ai-governance-auditability]] — Capability to prove after-the-fact what AI did and whether it was authorized; policy ≠ auditability; only 19% of orgs have this (Arctera, 2026); introduced 2026-07-27
-- [[2026-07-27-nate-b-jones-daily]] — TAKE: US AI dominance framing vs. job/endpoint/check frame; [[cost-per-accepted-result]] metric replaces token price; five Chinese labs/five strategies; Ringer run 213 citations/13 fabricated; bakeoff kit; CAISI DeepSeek V4 Pro evaluation; 2026-07-27
-- [[cost-per-accepted-result]] — The metric replacing token price: cost to produce one output clearing your quality bar, factoring in review time and rejection rates; introduced by Nate B. Jones 2026-07-27
-
-## Entities
-- [[gartner]] — Global research/advisory firm; premier source for enterprise AI market forecasts and strategic predictions; introduced 2026-07-27
-- [[booz-allen-hamilton]] — US management/technology consulting firm (major government contractor); publishes high-signal federal AI governance surveys; introduced 2026-07-27
-- [[arctera]] — Data management and compliance tech company; publishes State of AI Governance report; introduced 2026-07-27
-- [[domino-data-lab]] — Enterprise AI/MLOps platform company; publishes annual Enterprise AI Report tracking production capability and ROI; introduced 2026-07-27
+- [[2026-07-24-nate-b-jones-daily]] — No video published on 2026-07-24 (IST).
+- [[2026-07-24-nate-herk-daily]] — No video published on 2026-07-24 (IST).
+- [[2026-07-25-nate-b-jones-daily]] — No video published on 2026-07-25 (IST).
+- [[2026-07-25-nate-herk-daily]] — DEEP-DIVE: Opus 5 vs Fable 5 across 10 workflows; cost/quality tradeoffs; best orchestration pattern; 2026-07-25
+- [[2026-07-26-nate-b-jones-daily]] — No video published on 2026-07-26 (IST).
+- [[2026-07-26-nate-herk-daily]] — No video published on 2026-07-26 (IST).
+- [[2026-07-27-nate-b-jones-daily]] — No video published on 2026-07-27 (IST).
 - [[2026-07-27-nate-herk-daily]] — No video published on 2026-07-27 (IST).
+- [[2026-07-28-nate-b-jones-daily]] — TAKE: AI-premium in investor language (IPO/earnings); capital uplift from AI-fluent disclosure; 2026-07-28
 - [[2026-07-28-nate-herk-daily]] — No video published on 2026-07-28 (IST).
-- [[2026-07-28-nate-b-jones-daily]] — Job-First Model Routing FRAMEWORK; Daily Driver / Cheap Workhorse / Frontier / Specialists tiers; Fable 5 ~18-day outage; GLM 5.2; Coinbase, Cursor; model-picker prompt; 2026-07-28
-- [[job-first-model-routing]] — The framework for routing AI tasks by job type (Familiar/Repeatable → Workhorse; Complex/Ambiguous → Daily Driver; Edge → Frontier; Sensory/Action → Specialists); introduced by Nate B. Jones 2026-07-28
+- [[2026-07-29-nate-b-jones-daily]] — No video published on 2026-07-29 (IST).
 - [[2026-07-29-nate-herk-daily]] — No video published on 2026-07-29 (IST).
-- [[2026-07-29-nate-b-jones-daily]] — The Clean Desk FRAMEWORK: 3-level token management (Level 1: 9 manual habits; Level 2: Token Saver Skill one-command install; Level 3: Ringer local intermediary); 3.77B tokens/day 95.73% reused; 55K tool-def tokens (Anthropic data); start-fresh-task biggest win; 2026-07-29
-- [[clean-desk-framework]] — Three-level AI token hygiene framework (Level 1 habits / Level 2 Token Saver Skill / Level 3 Ringer proxy); introduced by Nate B. Jones 2026-07-29
-- [[2026-07-30-nate-herk-daily]] — No new video from Nate Herk on 2026-07-30
-- [[2026-07-30-nate-b-jones-daily]] — The Reusable Agent Rig FRAMEWORK: 9-stage agent rig (ingestion/normalization/context-pack/receipt/hard-stop); three-build flywheel; KFF: 85M denied claims <1% appealed, 33-50% win on appeal; Senate: UnitedHealthcare denial rate doubled; "collecting chores vs. building a system"; Short-only day (Substack primary source); 2026-07-30
-- [[reusable-agent-rig]] — 9-stage AI agent architecture where components transfer across document-processing builds; flywheel: each build cheaper than the last; Hard Stop gate (drafts only, never sends/files/submits); introduced by Nate B. Jones 2026-07-30
+- [[2026-07-30-nate-b-jones-daily]] — No video published on 2026-07-30 (IST).
+- [[2026-07-30-nate-herk-daily]] — No video published on 2026-07-30 (IST).
+- [[2026-07-31-nate-b-jones-daily]] — FRAMEWORK: AI-premium language in investor communications; 2026-07-31
 - [[2026-07-31-nate-herk-daily]] — No video published on 2026-07-31 (IST).
-- [[2026-07-31-nate-b-jones-daily]] — TAKE: Jersey Mike's S-1 filing mentions AI 22×; [[ai-capital-premium]] named (AI language in IPO filings as a financial narrative premium regardless of AI centrality); "cheap money always leaves a mark"; Short-only day (0:37); 2026-07-31
-- [[ai-capital-premium]] — AI language in investor-facing docs (IPO filings, earnings calls) generates a measurable capital uplift regardless of operational AI centrality; introduced by Nate B. Jones 2026-07-31
+- [[2026-08-01-nate-b-jones-daily]] — No video published on 2026-08-01 (IST).
+- [[2026-08-01-nate-herk-daily]] — No video published on 2026-08-01 (IST).
+- [[2026-08-02-nate-b-jones-daily]] — No video published on 2026-08-02 (IST).
+- [[2026-08-02-nate-herk-daily]] — No video published on 2026-08-02 (IST).
+- [[2026-08-03-nate-b-jones-daily]] — No video published on 2026-08-03 (IST).
+- [[2026-08-03-nate-herk-daily]] — No video published on 2026-08-03 (IST).
 - [[2026-08-04-nate-b-jones-daily]] — TAKE: Chinese AI benchmarks measure wrong frontier; gap ~6–7 months vs. actual lab frontier; Kimi K3 needs 64 chips; [[the-agency-trap]] named; Short-only day; 2026-08-04
 - [[the-agency-trap]] — Cheaper AI models make all competitors cheaper equally; differentiator is what you own that rivals can't buy from the same API; introduced by Nate B. Jones 2026-08-04
 - [[model-replacement-test]] — Before AI vendor renewal, test whether tuned workflows can move to a cheaper model without restarting; reveals true switching cost; introduced by Nate B. Jones 2026-08-04
+- [[2026-08-04-nate-herk-daily]] — COMMENTARY: 12 lessons from 5,000 hours building AI (prompt permissioning vs. tool permissioning, evals, token optimization, proof-first); 2026-08-04
