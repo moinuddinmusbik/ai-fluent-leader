@@ -1107,3 +1107,19 @@ Append-only chronological record of all operations on this wiki.
   - wiki/entities/nate-b-jones.md (updated: bumped updated to 2026-07-31, added source entry)
   - wiki/index.md (appended source + concept lines)
   - wiki/log.md (this entry)
+## [2026-08-04] ingest | Nate B Jones Daily Leader Briefing
+- **Operation:** ingest
+- **Routine:** nate-b-jones-daily
+- **Lane:** strategy
+- **Lens:** TAKE
+- **Source:** Are Chinese AI models actually catching up? (Short, 0:51) + Substack "Kimi K3 is downloadable. That doesn't mean you can run it." (preview; full post paid, Jul 20 2026)
+- **Note:** Short-only day; no long-form episode posted on 2026-08-04 (IST). TRANSCRIPT_UNAVAILABLE. Brief grounded on Substack preview and Short description. "In His Words" block omitted.
+- **New concepts:** [[the-agency-trap]] (created), [[model-replacement-test]] (created)
+- **Pages written:**
+  - raw/emails-archive/2026-08-04-nate-b-jones-daily.md
+  - wiki/sources/2026-08-04-nate-b-jones-daily.md
+  - wiki/concepts/the-agency-trap.md (new)
+  - wiki/concepts/model-replacement-test.md (new)
+  - wiki/entities/nate-b-jones.md (updated: bumped updated to 2026-08-04, added source entry)
+  - wiki/index.md (appended source + concept lines)
+  - wiki/log.md (this entry)

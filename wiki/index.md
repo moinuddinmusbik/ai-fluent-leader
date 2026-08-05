@@ -144,3 +144,6 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[2026-07-31-nate-herk-daily]] — No video published on 2026-07-31 (IST).
 - [[2026-07-31-nate-b-jones-daily]] — TAKE: Jersey Mike's S-1 filing mentions AI 22×; [[ai-capital-premium]] named (AI language in IPO filings as a financial narrative premium regardless of AI centrality); "cheap money always leaves a mark"; Short-only day (0:37); 2026-07-31
 - [[ai-capital-premium]] — AI language in investor-facing docs (IPO filings, earnings calls) generates a measurable capital uplift regardless of operational AI centrality; introduced by Nate B. Jones 2026-07-31
+- [[2026-08-04-nate-b-jones-daily]] — TAKE: Chinese AI benchmarks measure wrong frontier; gap ~6–7 months vs. actual lab frontier; Kimi K3 needs 64 chips; [[the-agency-trap]] named; Short-only day; 2026-08-04
+- [[the-agency-trap]] — Cheaper AI models make all competitors cheaper equally; differentiator is what you own that rivals can't buy from the same API; introduced by Nate B. Jones 2026-08-04
+- [[model-replacement-test]] — Before AI vendor renewal, test whether tuned workflows can move to a cheaper model without restarting; reveals true switching cost; introduced by Nate B. Jones 2026-08-04
