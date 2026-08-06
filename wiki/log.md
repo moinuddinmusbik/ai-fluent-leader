@@ -75,3 +75,23 @@ Append-only chronological record of all operations on this wiki.
   - wiki/entities/nate-herk.md (updated: bumped `updated` to 2026-08-05, added source stub)
   - wiki/index.md (appended source line)
   - wiki/log.md (this entry)
+
+## [2026-08-05] nate-b-jones-daily | FRAMEWORK: Pro-Authorship
+- **Operation:** ingest
+- **Episode:** "AI Slop Is Costing You Hours. Here's How To Stop Sending It." (AWGoOtNgw3c, 15:06)
+- **LENS:** FRAMEWORK
+- **Substack:** https://natesnewsletter.substack.com/p/ai-slop-cost
+- **Transcript:** UNAVAILABLE (Firecrawl panel failed after 2 attempts; grounded on Substack preview + description)
+- **Files committed (9 total):**
+  - raw/emails-archive/2026-08-05-nate-b-jones-daily.md
+  - wiki/sources/2026-08-05-nate-b-jones-daily.md
+  - wiki/concepts/pro-authorship.md
+  - wiki/concepts/hill-climbing-convergence.md
+  - wiki/concepts/voice-discovery-skill.md
+  - wiki/concepts/cost-transfer-model.md
+  - wiki/entities/nate-b-jones.md
+  - wiki/index.md
+  - wiki/log.md
+- **New concepts:** [[pro-authorship]], [[hill-climbing-convergence]], [[voice-discovery-skill]], [[cost-transfer-model]]
+- **Email:** sent to moinuddin.musbik@gmail.com (messageId: 19fd6ec43ecaa741)
+- **First commit SHA:** 6832c40029364f240f937fe06dc5ef690a55e167 (6 files)

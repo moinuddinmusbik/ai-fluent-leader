@@ -36,3 +36,8 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[model-replacement-test]] — Before AI vendor renewal, test whether tuned workflows can move to a cheaper model without restarting; reveals true switching cost; introduced by Nate B. Jones 2026-08-04
 - [[2026-08-04-nate-herk-daily]] — COMMENTARY: 12 lessons from 5,000 hours building AI (prompt permissioning vs. tool permissioning, evals, token optimization, proof-first); 2026-08-04
 - [[2026-08-05-nate-herk-daily]] — No video published on 2026-08-05 (IST).
+- [[2026-08-05-nate-b-jones-daily]] — FRAMEWORK: Pro-Authorship (authorship-as-process vs checklist); hill-climbing convergence; voice discovery skill; Deloitte A$97,587; cost-transfer model; 2026-08-05
+- [[pro-authorship]] — Discipline of owning what you send: reading it, meaning it, standing behind it before it reaches the recipient; introduced by Nate B. Jones 2026-08-05
+- [[hill-climbing-convergence]] — All LLMs optimize toward the same "good writing" reward signal, converging on polished-but-identical output regardless of checklist applied; introduced by Nate B. Jones 2026-08-05
+- [[voice-discovery-skill]] — Structured process for capturing authentic voice as a reference artifact before prompting, steering output away from the convergence mean; introduced by Nate B. Jones 2026-08-05
+- [[cost-transfer-model]] — AI slop mechanism: unread work is not eliminated but transferred to whoever reads it next; introduced by Nate B. Jones 2026-08-05
