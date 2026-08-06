@@ -35,3 +35,4 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[the-agency-trap]] — Cheaper AI models make all competitors cheaper equally; differentiator is what you own that rivals can't buy from the same API; introduced by Nate B. Jones 2026-08-04
 - [[model-replacement-test]] — Before AI vendor renewal, test whether tuned workflows can move to a cheaper model without restarting; reveals true switching cost; introduced by Nate B. Jones 2026-08-04
 - [[2026-08-04-nate-herk-daily]] — COMMENTARY: 12 lessons from 5,000 hours building AI (prompt permissioning vs. tool permissioning, evals, token optimization, proof-first); 2026-08-04
+- [[2026-08-05-nate-herk-daily]] — No video published on 2026-08-05 (IST).
