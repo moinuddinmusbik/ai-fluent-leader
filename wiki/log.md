@@ -106,3 +106,18 @@ Append-only chronological record of all operations on this wiki.
   - wiki/entities/nate-herk.md (updated: bumped `updated` to 2026-08-06, added source stub)
   - wiki/index.md (appended source line)
   - wiki/log.md (this entry)
+## [2026-08-06] ingest | Nate B Jones Daily Leader Briefing
+- **Operation:** ingest
+- **Routine:** nate-b-jones-daily (strategy lane)
+- **Lens:** TAKE
+- **Video:** Short only — "Open-source AI just took a scary turn" (dx-0jU2Y0I4, 0:29); no long-form episode on TARGET
+- **Substack:** https://natesnewsletter.substack.com/p/kimi-k3-open-weights-cost — "Kimi K3 is downloadable. That doesn't mean you can run it." (Jul 20, 2026, paid; preview used)
+- **TRANSCRIPT_UNAVAILABLE:** true (Short-only day; brief grounded on Substack preview + Short description)
+- **Pages written:**
+  - raw/emails-archive/2026-08-06-nate-b-jones-daily.md
+  - wiki/sources/2026-08-06-nate-b-jones-daily.md
+  - wiki/entities/nate-b-jones.md (updated: bumped `updated` to 2026-08-06, added source under Linked pages)
+  - wiki/index.md (appended source line for 2026-08-06-nate-b-jones-daily)
+  - wiki/log.md (this entry)
+- **Concepts reinforced (not new):** [[the-agency-trap]], [[model-replacement-test]]
+- **Email:** sent to moinuddin.musbik@gmail.com
