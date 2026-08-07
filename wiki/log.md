@@ -95,3 +95,14 @@ Append-only chronological record of all operations on this wiki.
 - **New concepts:** [[pro-authorship]], [[hill-climbing-convergence]], [[voice-discovery-skill]], [[cost-transfer-model]]
 - **Email:** sent to moinuddin.musbik@gmail.com (messageId: 19fd6ec43ecaa741)
 - **First commit SHA:** 6832c40029364f240f937fe06dc5ef690a55e167 (6 files)
+
+## [2026-08-06] ingest | Nate Herk Daily Implementation Playbook
+- **Operation:** ingest
+- **Routine:** nate-herk-daily (implementation lane)
+- **Video:** No video published on 2026-08-06 (IST). Short (38s) excluded.
+- **Pages written:**
+  - raw/emails-archive/2026-08-06-nate-herk-daily.md
+  - wiki/sources/2026-08-06-nate-herk-daily.md
+  - wiki/entities/nate-herk.md (updated: bumped `updated` to 2026-08-06, added source stub)
+  - wiki/index.md (appended source line)
+  - wiki/log.md (this entry)

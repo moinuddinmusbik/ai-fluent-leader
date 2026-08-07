@@ -41,3 +41,4 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[hill-climbing-convergence]] — All LLMs optimize toward the same "good writing" reward signal, converging on polished-but-identical output regardless of checklist applied; introduced by Nate B. Jones 2026-08-05
 - [[voice-discovery-skill]] — Structured process for capturing authentic voice as a reference artifact before prompting, steering output away from the convergence mean; introduced by Nate B. Jones 2026-08-05
 - [[cost-transfer-model]] — AI slop mechanism: unread work is not eliminated but transferred to whoever reads it next; introduced by Nate B. Jones 2026-08-05
+- [[2026-08-06-nate-herk-daily]] — No video published on 2026-08-06 (IST).

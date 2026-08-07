@@ -2,7 +2,7 @@
 title: "Nate Herk"
 type: entity
 created: 2026-05-21
-updated: 2026-08-05
+updated: 2026-08-06
 tags: [creator, implementation]
 sources: []
 ---
@@ -12,6 +12,7 @@ sources: []
 AI automation educator and YouTuber focused on practical AI implementation. Runs the AI Automation Society community. Channel: @nateherk (UC2ojq-nuP8ceeHqiroeKhBA).
 
 ## Linked pages
+- [[2026-08-06-nate-herk-daily]] — No video published on 2026-08-06 (IST).
 - [[2026-08-05-nate-herk-daily]] — No video published on 2026-08-05 (IST).
 - [[2026-08-04-nate-herk-daily]] — COMMENTARY: 12 lessons from 5,000 hours building AI; prompt permissioning vs. tool permissioning; evals/golden dataset; token optimization; proof-first over credentialism
 - [[2026-07-25-nate-herk-daily]] — DEEP-DIVE: Opus 5 vs Fable 5 head-to-head across 10 real workflows; Opus 5 more expensive overall despite lower per-token cost; best pattern = Fable orchestrates, Opus executes
