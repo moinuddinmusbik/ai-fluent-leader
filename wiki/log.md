@@ -121,3 +121,13 @@ Append-only chronological record of all operations on this wiki.
   - wiki/log.md (this entry)
 - **Concepts reinforced (not new):** [[the-agency-trap]], [[model-replacement-test]]
 - **Email:** sent to moinuddin.musbik@gmail.com
+## [2026-08-07] ingest | Nate Herk Daily Implementation Playbook
+- **Operation:** ingest
+- **Routine:** nate-herk-daily (implementation lane)
+- **Video:** No video published on 2026-08-07 (IST).
+- **Pages written:**
+  - raw/emails-archive/2026-08-07-nate-herk-daily.md
+  - wiki/sources/2026-08-07-nate-herk-daily.md
+  - wiki/entities/nate-herk.md (updated: bumped `updated` to 2026-08-07, added source stub)
+  - wiki/index.md (appended source line)
+  - wiki/log.md (this entry)

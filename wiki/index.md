@@ -43,3 +43,4 @@ Master catalog of all wiki pages. Updated on every ingest.
 - [[cost-transfer-model]] — AI slop mechanism: unread work is not eliminated but transferred to whoever reads it next; introduced by Nate B. Jones 2026-08-05
 - [[2026-08-06-nate-b-jones-daily]] — TAKE: Open-weight AI (Kimi K3) crosses attacker-capability threshold; no gatekeeper; 64-chip floor; against NVIDIA obituary; Short-only; 2026-08-06
 - [[2026-08-06-nate-herk-daily]] — No video published on 2026-08-06 (IST).
+- [[2026-08-07-nate-herk-daily]] — No video published on 2026-08-07 (IST).
